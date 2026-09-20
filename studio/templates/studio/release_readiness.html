@@ -1,0 +1,4 @@
+{% extends "studio/base.html" %}{% block content %}<h1>Release readiness</h1>
+{% for release in releases %}<div class="card"><h2>{{ release.name }} {{ release.version }}</h2><p>Status: {{ release.get_status_display }}</p>
+{% if release.blockers %}<p><strong>Blockers:</strong> {{ release.blockers|join:", " }}</p>{% else %}<p class="gold">Release ready</p>{% endif %}</div>
+{% empty %}<p>No releases.</p>{% endfor %}{% endblock %}

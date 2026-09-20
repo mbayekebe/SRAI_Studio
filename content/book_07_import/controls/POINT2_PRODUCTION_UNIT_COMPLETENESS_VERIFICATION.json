@@ -1,0 +1,294 @@
+{
+  "schema_version": "1.0",
+  "verification_scope": "Point 2 only \u2014 PU-B07-C01 through PU-B07-C65 presence and uniqueness across Batches 01\u201313",
+  "verified_utc": "2026-09-04T15:55:35.961808+00:00",
+  "source_release": "SRAI_Book7_All_Production_Batches_01_13_Controlled_Release_v0.1.zip",
+  "source_release_sha256": "9599cf423a768bfb584685619d291120a09a749a51c653df99b15d918a7f943a",
+  "status": "passed",
+  "batch_archive_count": 13,
+  "production_unit_occurrences": 65,
+  "unique_production_units": 65,
+  "expected_production_units": 65,
+  "first_unit": "PU-B07-C01",
+  "last_unit": "PU-B07-C65",
+  "missing_units": [],
+  "duplicate_units": {},
+  "unexpected_units": [],
+  "all_batch_boundaries_match": true,
+  "batch_results": [
+    {
+      "batch": 1,
+      "archive": "SRAI_Book7_Production_Units_Batch01_Common_Core_v0.1.zip",
+      "archive_sha256": "6858e1ed35b69352322f55cab18dac8a04f8d04329df662d15fe4cabb680fc6c",
+      "units": [
+        "PU-B07-C01",
+        "PU-B07-C02",
+        "PU-B07-C03",
+        "PU-B07-C04",
+        "PU-B07-C05"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C01",
+        "PU-B07-C02",
+        "PU-B07-C03",
+        "PU-B07-C04",
+        "PU-B07-C05"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 2,
+      "archive": "SRAI_Book7_Production_Units_Batch02_Agriculture_N01_N05_v0.1.zip",
+      "archive_sha256": "f88a5d197b8058994b7cd75b4406cb5bc0a48dcbbe102b4cffd24cdb7565c5db",
+      "units": [
+        "PU-B07-C06",
+        "PU-B07-C07",
+        "PU-B07-C08",
+        "PU-B07-C09",
+        "PU-B07-C10"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C06",
+        "PU-B07-C07",
+        "PU-B07-C08",
+        "PU-B07-C09",
+        "PU-B07-C10"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 3,
+      "archive": "SRAI_Book7_Production_Units_Batch03_Agriculture_N06_N10_v0.1.zip",
+      "archive_sha256": "87c4167d1891aa1eecd0d3acda47787e98d35d774c726d7d675ebdf2df309f58",
+      "units": [
+        "PU-B07-C11",
+        "PU-B07-C12",
+        "PU-B07-C13",
+        "PU-B07-C14",
+        "PU-B07-C15"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C11",
+        "PU-B07-C12",
+        "PU-B07-C13",
+        "PU-B07-C14",
+        "PU-B07-C15"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 4,
+      "archive": "SRAI_Book7_Production_Units_Batch04_Agriculture_N11_N15_v0.1.zip",
+      "archive_sha256": "df7bad75afc2b02e8257b4c65b4f7d5bad158494194692a03a0068699b8c79bb",
+      "units": [
+        "PU-B07-C16",
+        "PU-B07-C17",
+        "PU-B07-C18",
+        "PU-B07-C19",
+        "PU-B07-C20"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C16",
+        "PU-B07-C17",
+        "PU-B07-C18",
+        "PU-B07-C19",
+        "PU-B07-C20"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 5,
+      "archive": "SRAI_Book7_Production_Units_Batch05_Health_N01_N05_v0.1.zip",
+      "archive_sha256": "274d8e093a22c04881bdcc80dde0d220ffa0e22f7c8e2dcd5b03a26314a66334",
+      "units": [
+        "PU-B07-C21",
+        "PU-B07-C22",
+        "PU-B07-C23",
+        "PU-B07-C24",
+        "PU-B07-C25"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C21",
+        "PU-B07-C22",
+        "PU-B07-C23",
+        "PU-B07-C24",
+        "PU-B07-C25"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 6,
+      "archive": "SRAI_Book7_Production_Units_Batch06_Health_N06_N10_v0.1.zip",
+      "archive_sha256": "15f40698a6463baa62148f9efa3d58fd27c94c77634ed3bc3686d1928ed6eb43",
+      "units": [
+        "PU-B07-C26",
+        "PU-B07-C27",
+        "PU-B07-C28",
+        "PU-B07-C29",
+        "PU-B07-C30"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C26",
+        "PU-B07-C27",
+        "PU-B07-C28",
+        "PU-B07-C29",
+        "PU-B07-C30"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 7,
+      "archive": "SRAI_Book7_Production_Units_Batch07_Health_N11_N15_v0.1.zip",
+      "archive_sha256": "002e910de02da032d49ad4fa93e03f4960f176494b00aa80c5612f208a95933b",
+      "units": [
+        "PU-B07-C31",
+        "PU-B07-C32",
+        "PU-B07-C33",
+        "PU-B07-C34",
+        "PU-B07-C35"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C31",
+        "PU-B07-C32",
+        "PU-B07-C33",
+        "PU-B07-C34",
+        "PU-B07-C35"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 8,
+      "archive": "SRAI_Book7_Production_Units_Batch08_Education_N01_N05_v0.1.zip",
+      "archive_sha256": "c616bc3e9bca96046f62e4f06aaaa8edb5897238c4fc6a0db9f3388345d53d92",
+      "units": [
+        "PU-B07-C36",
+        "PU-B07-C37",
+        "PU-B07-C38",
+        "PU-B07-C39",
+        "PU-B07-C40"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C36",
+        "PU-B07-C37",
+        "PU-B07-C38",
+        "PU-B07-C39",
+        "PU-B07-C40"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 9,
+      "archive": "SRAI_Book7_Production_Units_Batch09_Education_N06_N10_v0.1.zip",
+      "archive_sha256": "f2febe9c7de8831e7f3dd9e11876054476037beb332f4cc7677cef7c97ee0005",
+      "units": [
+        "PU-B07-C41",
+        "PU-B07-C42",
+        "PU-B07-C43",
+        "PU-B07-C44",
+        "PU-B07-C45"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C41",
+        "PU-B07-C42",
+        "PU-B07-C43",
+        "PU-B07-C44",
+        "PU-B07-C45"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 10,
+      "archive": "SRAI_Book7_Production_Units_Batch10_Education_N11_N15_v0.1.zip",
+      "archive_sha256": "fadfa6d3e5efa1c4c9f6186ecf9539a007ef6215fec6981599f2bbd81b9275d2",
+      "units": [
+        "PU-B07-C46",
+        "PU-B07-C47",
+        "PU-B07-C48",
+        "PU-B07-C49",
+        "PU-B07-C50"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C46",
+        "PU-B07-C47",
+        "PU-B07-C48",
+        "PU-B07-C49",
+        "PU-B07-C50"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 11,
+      "archive": "SRAI_Book7_Production_Units_Batch11_Habitat_N01_N05_v0.1.zip",
+      "archive_sha256": "8f6f1c7a41fa35509e7229dfd1c9874bf4c5bd6fd80436d535556fb4979a8066",
+      "units": [
+        "PU-B07-C51",
+        "PU-B07-C52",
+        "PU-B07-C53",
+        "PU-B07-C54",
+        "PU-B07-C55"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C51",
+        "PU-B07-C52",
+        "PU-B07-C53",
+        "PU-B07-C54",
+        "PU-B07-C55"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 12,
+      "archive": "SRAI_Book7_Production_Units_Batch12_Habitat_N06_N10_v0.1.zip",
+      "archive_sha256": "125204888218758153d23fdccdf41b8214fdc2fc2285e7a0116c0cbf1166c426",
+      "units": [
+        "PU-B07-C56",
+        "PU-B07-C57",
+        "PU-B07-C58",
+        "PU-B07-C59",
+        "PU-B07-C60"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C56",
+        "PU-B07-C57",
+        "PU-B07-C58",
+        "PU-B07-C59",
+        "PU-B07-C60"
+      ],
+      "boundary_match": true
+    },
+    {
+      "batch": 13,
+      "archive": "SRAI_Book7_Production_Units_Batch13_Habitat_N11_N15_v0.1.zip",
+      "archive_sha256": "81d99d49863053c2ad2c66343f213e4fac63b11e7279921a663920ec100adca1",
+      "units": [
+        "PU-B07-C61",
+        "PU-B07-C62",
+        "PU-B07-C63",
+        "PU-B07-C64",
+        "PU-B07-C65"
+      ],
+      "unit_count": 5,
+      "expected_units": [
+        "PU-B07-C61",
+        "PU-B07-C62",
+        "PU-B07-C63",
+        "PU-B07-C64",
+        "PU-B07-C65"
+      ],
+      "boundary_match": true
+    }
+  ],
+  "point_3_started": false
+}

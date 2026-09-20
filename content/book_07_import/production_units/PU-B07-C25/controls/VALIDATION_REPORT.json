@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "validated_utc": "2026-09-04T14:51:02.356999+00:00",
+  "production_unit": "PU-B07-C25",
+  "status": "passed",
+  "assets": {
+    "lesson_docx_pdf": "passed",
+    "exercises_solutions_docx_pdf": "passed",
+    "executive_brief_docx_pdf": "passed",
+    "notebook_with_saved_outputs": "passed",
+    "presentation_8_slides": "passed",
+    "video_script_and_run_of_show": "passed",
+    "linkedin_and_github_copy": "passed"
+  },
+  "document_pages_reviewed": 5,
+  "slide_pages_reviewed": 8,
+  "accessibility_findings": {
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "notebook_code_cells": 7,
+  "notebook_saved_outputs": 6,
+  "synthetic_data_boundary": "passed"
+}

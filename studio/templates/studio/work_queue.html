@@ -1,0 +1,4 @@
+{% extends "studio/base.html" %}{% block content %}<h1>Daily work queue</h1>
+<table><tr><th>Due</th><th>Unit</th><th>Task</th><th>Priority</th><th>Status</th></tr>
+{% for task in tasks %}<tr><td>{{ task.due_date }}</td><td>{{ task.production_unit.code }}</td><td>{{ task.title }}</td>
+<td>{{ task.get_priority_display }}</td><td>{{ task.get_status_display }}</td></tr>{% empty %}<tr><td colspan="5">No open tasks.</td></tr>{% endfor %}</table>{% endblock %}

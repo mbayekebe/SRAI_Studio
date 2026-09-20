@@ -1,0 +1,130 @@
+{"kind":"deck","id":"pr/ltfuqs","name":"Deck"}
+{"kind":"layout","layoutId":"3d4dd27d-8ca6-4721-97de-f0357822a347","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"41dc48c4-fd33-41b3-bb0b-72a31220e257","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/csbiwc","slide":1,"title":"SRAI","textShapes":8}
+{"kind":"shape","id":"sh/doz6dkry","slide":1,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/ql87i58n","slide":1,"bbox":[870,0,410,720]}
+{"kind":"textbox","id":"sh/rmhoba98","slide":1,"text":"SRAI","textPreview":"SRAI","textChars":4,"textLines":1,"bbox":[58,40,120,28]}
+{"kind":"textbox","id":"sh/4jq5gfqh","slide":1,"text":"HEALTH TRACK","textPreview":"HEALTH TRACK","textChars":12,"textLines":1,"bbox":[58,104,400,28]}
+{"kind":"textbox","id":"sh/5kz69kr2","slide":1,"text":"HEALTH SURVEYS AND SMALL-AREA EVIDENCE","textPreview":"HEALTH SURVEYS AND SMALL-AREA EVIDENCE","textChars":38,"textLines":1,"bbox":[58,166,730,170]}
+{"kind":"textbox","id":"sh/ixone58b","slide":1,"text":"Local evidence must retain design, uncertainty, and disclosure safeguards.","textPreview":"Local evidence must retain design, uncertainty, and disclosure safeguards.","textChars":74,"textLines":1,"bbox":[58,390,720,72]}
+{"kind":"textbox","id":"sh/3yxo7a9w","slide":1,"text":"V7_B_N12","textPreview":"V7_B_N12","textChars":8,"textLines":1,"bbox":[930,190,180,42]}
+{"kind":"textbox","id":"sh/ofapszql","slide":1,"text":"PU-B07-C32","textPreview":"PU-B07-C32","textChars":10,"textLines":1,"bbox":[930,250,180,32]}
+{"kind":"textbox","id":"sh/pgj6l4r6","slide":1,"text":"Decision-centred\nlearning asset","textPreview":"Decision-centred | learning asset","textChars":31,"textLines":2,"bbox":[930,338,180,80]}
+{"kind":"textbox","id":"sh/x0vuhw3e","slide":1,"text":"Canonical Controlled Edition v1.0","textPreview":"Canonical Controlled Edition v1.0","textChars":33,"textLines":1,"bbox":[58,630,600,24]}
+{"kind":"notes","id":"nt/csbiwc","slide":1,"text":"Welcome to Health Surveys and Small-Area Evidence. This lesson begins with one principle: local evidence must retain design, uncertainty, and disclosure safeguards. We will connect that principle to an accountable health decision and make it testable in the companion notebook.\n\n[Sources]\n- Canonical notebook V7_B_N12, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/gu5ffb","slide":2,"title":"SRAI BOOK 7  |  V7_B_N12","textShapes":15}
+{"kind":"textbox","id":"sh/fahwnmpw","slide":2,"text":"SRAI BOOK 7  |  V7_B_N12","textPreview":"SRAI BOOK 7  |  V7_B_N12","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/0bqxgr6h","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/1czepw72","slide":2,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/2dsfi1on","slide":2,"text":"The analytical workflow starts with a contract","textPreview":"The analytical workflow starts with a contract","textChars":46,"textLines":1,"bbox":[58,94,1100,60]}
+{"kind":"textbox","id":"sh/ny1wr6p8","slide":2,"text":"Local evidence must retain design, uncertainty, and disclosure safeguards.","textPreview":"Local evidence must retain design, uncertainty, and disclosure safeguards.","textChars":74,"textLines":1,"bbox":[58,188,560,100]}
+{"kind":"shape","id":"sh/ozaxkb6d","slide":2,"bbox":[720,172,440,330]}
+{"kind":"textbox","id":"sh/p0jetg7y","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[752,202,44,28]}
+{"kind":"textbox","id":"sh/ihov6xo3","slide":2,"text":"Survey design","textPreview":"Survey design","textChars":13,"textLines":1,"bbox":[812,199,310,34]}
+{"kind":"textbox","id":"sh/32xwf2po","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[752,257,44,28]}
+{"kind":"textbox","id":"sh/j2dkridk","slide":2,"text":"Weights","textPreview":"Weights","textChars":7,"textLines":1,"bbox":[812,254,310,34]}
+{"kind":"textbox","id":"sh/yh43ydwz","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[752,312,44,28]}
+{"kind":"textbox","id":"sh/l4v2tsvq","slide":2,"text":"Precision","textPreview":"Precision","textChars":9,"textLines":1,"bbox":[812,309,310,34]}
+{"kind":"textbox","id":"sh/k3ml0ne5","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[752,367,44,28]}
+{"kind":"textbox","id":"sh/betknido","slide":2,"text":"Model assumptions","textPreview":"Model assumptions","textChars":17,"textLines":1,"bbox":[812,364,310,34]}
+{"kind":"textbox","id":"sh/adk3udw3","slide":2,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[752,422,44,28]}
+{"kind":"textbox","id":"sh/xgv2p8ve","slide":2,"text":"Disclosure","textPreview":"Disclosure","textChars":10,"textLines":1,"bbox":[812,419,310,34]}
+{"kind":"textbox","id":"sh/wfmlwnet","slide":2,"text":"A model is one component—not the decision-maker.","textPreview":"A model is one component—not the decision-maker.","textChars":48,"textLines":1,"bbox":[58,530,560,52]}
+{"kind":"notes","id":"nt/gu5ffb","slide":2,"text":"The central idea is simple. Local evidence must retain design, uncertainty, and disclosure safeguards. The five controls shown here are Survey design, Weights, Precision, Model assumptions, Disclosure. Together, they prevent a health signal from being mistaken for an authorized decision.\n\n[Sources]\n- Canonical notebook V7_B_N12, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/wz5z5c","slide":3,"title":"SRAI BOOK 7  |  V7_B_N12","textShapes":14}
+{"kind":"textbox","id":"sh/8r6dgzyp","slide":3,"text":"SRAI BOOK 7  |  V7_B_N12","textPreview":"SRAI BOOK 7  |  V7_B_N12","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/nqdcnuh4","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/m54vepgj","slide":3,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/xwfut4z6","slide":3,"text":"Five controls make the lesson operational","textPreview":"Five controls make the lesson operational","textChars":41,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"shape","id":"sh/wv6dkzyl","slide":3,"bbox":[58,228,190,170]}
+{"kind":"textbox","id":"sh/vuxcruh0","slide":3,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[76,246,40,30]}
+{"kind":"textbox","id":"sh/atovipgf","slide":3,"text":"Survey design","textPreview":"Survey design","textChars":13,"textLines":1,"bbox":[76,294,154,74]}
+{"kind":"shape","id":"sh/d0vuhkz2","slide":3,"bbox":[280,228,190,170]}
+{"kind":"textbox","id":"sh/cz2t8fyh","slide":3,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[298,246,40,30]}
+{"kind":"textbox","id":"sh/mp0bqxkr","slide":3,"text":"Weights","textPreview":"Weights","textChars":7,"textLines":1,"bbox":[298,294,154,74]}
+{"kind":"shape","id":"sh/nq9cz2lc","slide":3,"bbox":[502,228,190,170]}
+{"kind":"textbox","id":"sh/8r2ts72x","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[520,246,40,30]}
+{"kind":"textbox","id":"sh/9sbu1c3i","slide":3,"text":"Precision","textPreview":"Precision","textChars":9,"textLines":1,"bbox":[520,294,154,74]}
+{"kind":"shape","id":"sh/adkbuhk3","slide":3,"bbox":[724,228,190,170]}
+{"kind":"textbox","id":"sh/vetc3mlo","slide":3,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[742,246,40,30]}
+{"kind":"textbox","id":"sh/wf2twr2t","slide":3,"text":"Model assumptions","textPreview":"Model assumptions","textChars":17,"textLines":1,"bbox":[742,294,154,74]}
+{"kind":"shape","id":"sh/xgbu5c3e","slide":3,"bbox":[946,228,190,170]}
+{"kind":"textbox","id":"sh/ihkvyhkz","slide":3,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[964,246,40,30]}
+{"kind":"textbox","id":"sh/jitc7mlk","slide":3,"text":"Disclosure","textPreview":"Disclosure","textChars":10,"textLines":1,"bbox":[964,294,154,74]}
+{"kind":"textbox","id":"sh/fmdsfmhs","slide":3,"text":"Each control must be explicit, reviewable, and owned.","textPreview":"Each control must be explicit, reviewable, and owned.","textChars":53,"textLines":1,"bbox":[58,470,1100,45]}
+{"kind":"notes","id":"nt/wz5z5c","slide":3,"text":"These five controls form one operating chain. We begin with survey design, move through weights and precision, and finish with model assumptions and disclosure. Every control must be explicit, reviewable, and owned.\n\n[Sources]\n- Canonical notebook V7_B_N12, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/ha7afs","slide":4,"title":"SRAI BOOK 7  |  V7_B_N12","textShapes":8}
+{"kind":"textbox","id":"sh/6lwrm50n","slide":4,"text":"SRAI BOOK 7  |  V7_B_N12","textPreview":"SRAI BOOK 7  |  V7_B_N12","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/to7qxkze","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/sny9ofit","slide":4,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/fqp8zahk","slide":4,"text":"A worked example separates support from authority","textPreview":"A worked example separates support from authority","textChars":49,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"shape","id":"sh/upgrqp0z","slide":4,"bbox":[58,190,700,260]}
+{"kind":"textbox","id":"sh/hs7q1kza","slide":4,"text":"ILLUSTRATIVE APPLICATION","textPreview":"ILLUSTRATIVE APPLICATION","textChars":24,"textLines":1,"bbox":[88,220,620,28]}
+{"kind":"textbox","id":"sh/gry9sfip","slide":4,"text":"District estimates show design-based and model-based uncertainty before publication.","textPreview":"District estimates show design-based and model-based uncertainty before publication.","textChars":84,"textLines":1,"bbox":[88,280,630,110]}
+{"kind":"shape","id":"sh/3u9s3uhg","slide":4,"bbox":[825,190,335,260]}
+{"kind":"textbox","id":"sh/2t0rup0v","slide":4,"text":"THE SYSTEM MAY","textPreview":"THE SYSTEM MAY","textChars":14,"textLines":1,"bbox":[855,220,275,28]}
+{"kind":"textbox","id":"sh/gfyp0vid","slide":4,"text":"Generate evidence\nFlag uncertainty\nRoute authorized review","textPreview":"Generate evidence | Flag uncertainty | Route authorized review","textChars":58,"textLines":3,"bbox":[855,270,270,105]}
+{"kind":"textbox","id":"sh/hg769gjy","slide":4,"text":"It may not authorize the consequential action.","textPreview":"It may not authorize the consequential action.","textChars":46,"textLines":1,"bbox":[855,390,270,44]}
+{"kind":"notes","id":"nt/ha7afs","slide":4,"text":"Consider this health example. District estimates show design-based and model-based uncertainty before publication. The platform may organize evidence, flag uncertainty, and route a case for authorized review. It may not take the consequential action on its own.\n\n[Sources]\n- Canonical notebook V7_B_N12, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/ibcb8d","slide":5,"title":"SRAI BOOK 7  |  V7_B_N12","textShapes":12}
+{"kind":"textbox","id":"sh/sjyto7ix","slide":5,"text":"SRAI BOOK 7  |  V7_B_N12","textPreview":"SRAI BOOK 7  |  V7_B_N12","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/ripcv21s","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/qhgbmh07","slide":5,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/5g7utcjm","slide":5,"text":"The notebook turns governance into executable checks","textPreview":"The notebook turns governance into executable checks","textChars":52,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"textbox","id":"sh/4fytk7i1","slide":5,"text":"Produce small-area estimates and test precision and disclosure gates.","textPreview":"Produce small-area estimates and test precision and disclosure gates.","textChars":69,"textLines":1,"bbox":[58,188,1050,65]}
+{"kind":"shape","id":"sh/3epcr21g","slide":5,"bbox":[58,320,245,150]}
+{"kind":"textbox","id":"sh/idgbix0v","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[76,340,40,30]}
+{"kind":"textbox","id":"sh/pcbu5wjq","slide":5,"text":"Inspect synthetic evidence","textPreview":"Inspect synthetic evidence","textChars":26,"textLines":1,"bbox":[76,386,205,62]}
+{"kind":"shape","id":"sh/ob2dwri5","slide":5,"bbox":[338,320,245,150]}
+{"kind":"textbox","id":"sh/6t4b6dov","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[356,340,40,30]}
+{"kind":"textbox","id":"sh/rudsfypg","slide":5,"text":"Run the contract or gate","textPreview":"Run the contract or gate","textChars":24,"textLines":1,"bbox":[356,386,205,62]}
+{"kind":"shape","id":"sh/svmt8361","slide":5,"bbox":[618,320,245,150]}
+{"kind":"textbox","id":"sh/twfah8nm","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[636,340,40,30]}
+{"kind":"textbox","id":"sh/i54b2toz","slide":5,"text":"Interpret uncertainty","textPreview":"Interpret uncertainty","textChars":21,"textLines":1,"bbox":[636,386,205,62]}
+{"kind":"shape","id":"sh/j6dsbypk","slide":5,"bbox":[898,320,245,150]}
+{"kind":"textbox","id":"sh/4rmt436p","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[916,340,40,30]}
+{"kind":"textbox","id":"sh/5svad87a","slide":5,"text":"Write an abstention case","textPreview":"Write an abstention case","textChars":24,"textLines":1,"bbox":[916,386,205,62]}
+{"kind":"notes","id":"nt/ibcb8d","slide":5,"text":"The notebook converts the lesson into executable evidence. Produce small-area estimates and test precision and disclosure gates. As you review the saved outputs, focus on what the evidence supports, what remains uncertain, and the condition that requires abstention or escalation.\n\n[Sources]\n- Canonical notebook V7_B_N12, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/gf66z9","slide":6,"title":"SRAI BOOK 7  |  V7_B_N12","textShapes":12}
+{"kind":"textbox","id":"sh/e9sbed07","slide":6,"text":"SRAI BOOK 7  |  V7_B_N12","textPreview":"SRAI BOOK 7  |  V7_B_N12","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/1cjupsji","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/0batgnix","slide":6,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/nelcr21o","slide":6,"text":"Transfer the contract to another sector","textPreview":"Transfer the contract to another sector","textChars":39,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"textbox","id":"sh/mdcbix03","slide":6,"text":"Choose health, education, agriculture, or habitat.","textPreview":"Choose health, education, agriculture, or habitat.","textChars":50,"textLines":1,"bbox":[58,190,1050,40]}
+{"kind":"textbox","id":"sh/903utsju","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[58,275,45,38]}
+{"kind":"textbox","id":"sh/ozutk7i9","slide":6,"text":"Name the decision owner and lawful action.","textPreview":"Name the decision owner and lawful action.","textChars":42,"textLines":1,"bbox":[116,272,800,38]}
+{"kind":"textbox","id":"sh/b2lcv21k","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[58,345,45,38]}
+{"kind":"textbox","id":"sh/a1cvmx0f","slide":6,"text":"Define the evidence, horizon, and failure conditions.","textPreview":"Define the evidence, horizon, and failure conditions.","textChars":53,"textLines":1,"bbox":[116,342,800,38]}
+{"kind":"textbox","id":"sh/szq1gvul","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[58,415,45,38]}
+{"kind":"textbox","id":"sh/t0z290b6","slide":6,"text":"State when to abstain, escalate, monitor, and retire.","textPreview":"State when to abstain, escalate, monitor, and retire.","textChars":53,"textLines":1,"bbox":[116,412,800,38]}
+{"kind":"shape","id":"sh/6x8jelcf","slide":6,"bbox":[930,252,230,230]}
+{"kind":"textbox","id":"sh/7yhk7qt0","slide":6,"text":"SUCCESS","textPreview":"SUCCESS","textChars":7,"textLines":1,"bbox":[960,280,170,28]}
+{"kind":"textbox","id":"sh/gnalkfuh","slide":6,"text":"A reviewer can see\nwhat the system knows,\nwhat it cannot decide,\nand who remains accountable.","textPreview":"A reviewer can see | what the system knows, | what it cannot decide, | and who remains accountable.","textChars":93,"textLines":4,"bbox":[958,330,175,120]}
+{"kind":"notes","id":"nt/gf66z9","slide":6,"text":"Now transfer the contract to a new health-service case. Name the decision owner and lawful action. Define the evidence, horizon, and failure conditions. Then state when the system must abstain, escalate, be monitored, or be retired. A strong answer keeps human authority visible.\n\n[Sources]\n- Canonical notebook V7_B_N12, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/l1m8qq","slide":7,"title":"SRAI BOOK 7  |  V7_B_N12","textShapes":7}
+{"kind":"textbox","id":"sh/yh8nm5w7","slide":7,"text":"SRAI BOOK 7  |  V7_B_N12","textPreview":"SRAI BOOK 7  |  V7_B_N12","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/lkzmxkvi","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/kjq5ofex","slide":7,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/7614zado","slide":7,"text":"Guardrails are part of the analytical specification","textPreview":"Guardrails are part of the analytical specification","textChars":51,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"shape","id":"sh/6l8nq5w3","slide":7,"bbox":[58,190,500,300]}
+{"kind":"textbox","id":"sh/t8jm1kvu","slide":7,"text":"REQUIRED","textPreview":"REQUIRED","textChars":8,"textLines":1,"bbox":[86,220,440,28]}
+{"kind":"textbox","id":"sh/87a5sfe9","slide":7,"text":"Evidence provenance\nVisible uncertainty\nHuman review and override\nIncident and retirement path","textPreview":"Evidence provenance | Visible uncertainty | Human review and override | Incident and retirement path","textChars":94,"textLines":4,"bbox":[86,274,420,155]}
+{"kind":"shape","id":"sh/nqx4nqxk","slide":7,"bbox":[660,190,500,300]}
+{"kind":"textbox","id":"sh/mpo3elwz","slide":7,"text":"PROHIBITED","textPreview":"PROHIBITED","textChars":10,"textLines":1,"bbox":[688,220,440,28]}
+{"kind":"textbox","id":"sh/sj25wnyp","slide":7,"text":"Silent delegation of authority\nAutomatic consequential action\nUnknown-code coercion\nFalse precision when evidence fails","textPreview":"Silent delegation of authority | Automatic consequential action | Unknown-code coercion | False precision when evidence fails","textChars":119,"textLines":4,"bbox":[688,274,420,155]}
+{"kind":"notes","id":"nt/l1m8qq","slide":7,"text":"These guardrails are functional requirements. Evidence provenance must be preserved. Uncertainty must be visible. Human review, override, incident response, and retirement must be defined. Silent delegation, automatic consequential action, and false precision are not acceptable.\n\n[Sources]\n- Canonical notebook V7_B_N12, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/abp7y5","slide":8,"title":"Before deployment, ask five questions","textShapes":12}
+{"kind":"textbox","id":"sh/mp87214n","slide":8,"text":"Before deployment, ask five questions","textPreview":"Before deployment, ask five questions","textChars":37,"textLines":1,"bbox":[58,86,1100,60]}
+{"kind":"textbox","id":"sh/9sz6dgne","slide":8,"text":"1.","textPreview":"1.","textChars":2,"textLines":1,"bbox":[58,190,50,34]}
+{"kind":"textbox","id":"sh/orqp4bmt","slide":8,"text":"Survey design","textPreview":"Survey design","textChars":13,"textLines":1,"bbox":[118,186,900,40]}
+{"kind":"textbox","id":"sh/zmxo765c","slide":8,"text":"2.","textPreview":"2.","textChars":2,"textLines":1,"bbox":[58,256,50,34]}
+{"kind":"textbox","id":"sh/elony14r","slide":8,"text":"Weights","textPreview":"Weights","textChars":7,"textLines":1,"bbox":[118,252,900,40]}
+{"kind":"textbox","id":"sh/1oz69gn2","slide":8,"text":"3.","textPreview":"3.","textChars":2,"textLines":1,"bbox":[58,322,50,34]}
+{"kind":"textbox","id":"sh/0n6p0bmx","slide":8,"text":"Precision","textPreview":"Precision","textChars":9,"textLines":1,"bbox":[118,318,900,40]}
+{"kind":"textbox","id":"sh/ji1ojqlg","slide":8,"text":"4.","textPreview":"4.","textChars":2,"textLines":1,"bbox":[58,388,50,34]}
+{"kind":"textbox","id":"sh/yhs7al4v","slide":8,"text":"Model assumptions","textPreview":"Model assumptions","textChars":17,"textLines":1,"bbox":[118,384,900,40]}
+{"kind":"textbox","id":"sh/cjq1w3a5","slide":8,"text":"5.","textPreview":"5.","textChars":2,"textLines":1,"bbox":[58,454,50,34]}
+{"kind":"textbox","id":"sh/dkzip8bq","slide":8,"text":"Disclosure","textPreview":"Disclosure","textChars":10,"textLines":1,"bbox":[118,450,900,40]}
+{"kind":"textbox","id":"sh/qh8zutsf","slide":8,"text":"If one critical answer is missing, pause and refer for review.","textPreview":"If one critical answer is missing, pause and refer for review.","textChars":62,"textLines":1,"bbox":[58,568,1050,44]}
+{"kind":"notes","id":"nt/abp7y5","slide":8,"text":"Before deployment, ask five questions. Is survey design clear? Is weights documented? Is precision testable? Is model assumptions governed? And is disclosure explicit? If one critical answer is missing, pause and refer the system for review.\n\n[Sources]\n- Canonical notebook V7_B_N12, SRAI Book 7 v1.0."}

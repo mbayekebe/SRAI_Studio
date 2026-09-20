@@ -1,0 +1,5 @@
+{% extends "studio/base.html" %}{% block content %}<h1>Curriculum registry</h1>
+{% for book in books %}<div class="card"><h2>{{ book }}</h2><table><tr><th>Chapter</th><th>Notebook</th><th>Production Unit</th></tr>
+{% for chapter in book.chapters.all %}<tr><td>{{ chapter }}</td><td>{{ chapter.notebook.code }}</td>
+<td><a href="{% url 'production_unit_detail' chapter.production_unit.pk %}">{{ chapter.production_unit.code }}</a></td></tr>{% endfor %}</table></div>{% endfor %}
+{% endblock %}

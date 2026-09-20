@@ -1,0 +1,43 @@
+{
+  "release": "SRAI Studio v2.0 Professional Edition",
+  "track": "Core",
+  "stage": "SRAI consolidation",
+  "status": "release-candidate",
+  "curriculum": {
+    "books": 9,
+    "active_notebooks": 200,
+    "archived_variants": 0,
+    "series": {
+      "M1": 30,
+      "M2": 35,
+      "M3": 30,
+      "M4": 30,
+      "V5": 15,
+      "V6": 15,
+      "V7_A": 15,
+      "V8": 15,
+      "V9": 15
+    }
+  },
+  "validation": {
+    "executed": 200,
+    "passed": 200,
+    "failed": 0,
+    "report": "reports/final_execution_report.json",
+    "studio_tests_passed": 11,
+    "final_sentinel": "SRAI_200_NOTEBOOK_EXECUTION_PASS"
+  },
+  "release_gates": {
+    "technical_integrity": "passed",
+    "editorial_review": "pending",
+    "rights_and_licensing": "pending",
+    "pilot_delivery": "pending",
+    "public_infrastructure": "pending"
+  },
+  "extensions": {
+    "minisepe": {
+      "bundled": false,
+      "status": "optional-separate-extension"
+    }
+  }
+}

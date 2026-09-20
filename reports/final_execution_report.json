@@ -1,0 +1,1410 @@
+{
+  "generated_at": "2026-08-21T09:10:04.850160+00:00",
+  "root": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks",
+  "engine": "inprocess",
+  "total": 200,
+  "passed": 200,
+  "failed": 0,
+  "results": [
+    {
+      "code": "M1_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N01_mathematical_thinking.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.089,
+      "error": ""
+    },
+    {
+      "code": "M1_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N02_sets_logic_relations_functions.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.153,
+      "error": ""
+    },
+    {
+      "code": "M1_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N03_vector_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 1.048,
+      "error": ""
+    },
+    {
+      "code": "M1_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N04_matrix_algebra_linear_systems.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.037,
+      "error": ""
+    },
+    {
+      "code": "M1_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N05_vector_spaces_bases_rank_projections.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.01,
+      "error": ""
+    },
+    {
+      "code": "M1_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N06_eigenvalues_eigenvectors_spectral_intuition.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.023,
+      "error": ""
+    },
+    {
+      "code": "M1_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N07_svd_pca_dimensionality_reduction.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.07,
+      "error": ""
+    },
+    {
+      "code": "M1_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N08_limits_and_continuity.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.033,
+      "error": ""
+    },
+    {
+      "code": "M1_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N09_derivatives_gradients_jacobians_hessians.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.059,
+      "error": ""
+    },
+    {
+      "code": "M1_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N10_integration_and_accumulation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.05,
+      "error": ""
+    },
+    {
+      "code": "M1_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N11_automatic_differentiation_gradient_checking.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.01,
+      "error": ""
+    },
+    {
+      "code": "M1_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N12_probability_spaces_and_simulation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.055,
+      "error": ""
+    },
+    {
+      "code": "M1_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N13_conditional_probability_bayesian_updating.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.033,
+      "error": ""
+    },
+    {
+      "code": "M1_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N14_random_variables_common_distributions.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.141,
+      "error": ""
+    },
+    {
+      "code": "M1_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N15_expectation_variance_covariance_concentration.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.129,
+      "error": ""
+    },
+    {
+      "code": "M1_N16",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N16_sampling_distributions_central_limit_theorem.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.347,
+      "error": ""
+    },
+    {
+      "code": "M1_N17",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N17_estimation_confidence_intervals.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.574,
+      "error": ""
+    },
+    {
+      "code": "M1_N18",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N18_hypothesis_testing_effect_size.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.035,
+      "error": ""
+    },
+    {
+      "code": "M1_N19",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N19_maximum_likelihood_bayesian_inference.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.033,
+      "error": ""
+    },
+    {
+      "code": "M1_N20",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N20_entropy_information_measures.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.029,
+      "error": ""
+    },
+    {
+      "code": "M1_N21",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N21_optimization_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.049,
+      "error": ""
+    },
+    {
+      "code": "M1_N22",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N22_numerical_optimization.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.337,
+      "error": ""
+    },
+    {
+      "code": "M1_N23",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N23_convex_optimization.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.241,
+      "error": ""
+    },
+    {
+      "code": "M1_N24",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N24_numerical_linear_algebra.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.011,
+      "error": ""
+    },
+    {
+      "code": "M1_N25",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N25_numerical_stability.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.024,
+      "error": ""
+    },
+    {
+      "code": "M1_N26",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N26_randomized_algorithms.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.18,
+      "error": ""
+    },
+    {
+      "code": "M1_N27",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N27_computational_complexity.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.015,
+      "error": ""
+    },
+    {
+      "code": "M1_N28",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N28_scientific_computing.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.365,
+      "error": ""
+    },
+    {
+      "code": "M1_N29",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N29_integrated_mathematical_case_studies.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.011,
+      "error": ""
+    },
+    {
+      "code": "M1_N30",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M1/M1_N30_mathematical_foundations_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.025,
+      "error": ""
+    },
+    {
+      "code": "M2_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N01_supervised_learning_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.062,
+      "error": ""
+    },
+    {
+      "code": "M2_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N02_linear_regression.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.008,
+      "error": ""
+    },
+    {
+      "code": "M2_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N03_logistic_regression.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.026,
+      "error": ""
+    },
+    {
+      "code": "M2_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N04_regularization_feature_scaling.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.039,
+      "error": ""
+    },
+    {
+      "code": "M2_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N05_model_evaluation_cross_validation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.018,
+      "error": ""
+    },
+    {
+      "code": "M2_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N06_decision_trees.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.013,
+      "error": ""
+    },
+    {
+      "code": "M2_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N07_random_forests.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.008,
+      "error": ""
+    },
+    {
+      "code": "M2_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N08_boosting.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.235,
+      "error": ""
+    },
+    {
+      "code": "M2_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N09_support_vector_machines.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.014,
+      "error": ""
+    },
+    {
+      "code": "M2_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N10_nearest_neighbor_methods.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.01,
+      "error": ""
+    },
+    {
+      "code": "M2_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N11_naive_bayes.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.005,
+      "error": ""
+    },
+    {
+      "code": "M2_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N12_discriminant_analysis.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.011,
+      "error": ""
+    },
+    {
+      "code": "M2_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N13_clustering.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.067,
+      "error": ""
+    },
+    {
+      "code": "M2_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N14_dimensionality_reduction_ml.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.007,
+      "error": ""
+    },
+    {
+      "code": "M2_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N15_anomaly_detection.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.167,
+      "error": ""
+    },
+    {
+      "code": "M2_N16",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N16_feature_engineering.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.007,
+      "error": ""
+    },
+    {
+      "code": "M2_N17",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N17_imbalanced_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.029,
+      "error": ""
+    },
+    {
+      "code": "M2_N18",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N18_calibration_thresholding.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.025,
+      "error": ""
+    },
+    {
+      "code": "M2_N19",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N19_hyperparameter_optimization.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.067,
+      "error": ""
+    },
+    {
+      "code": "M2_N20",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N20_interpretable_machine_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.44,
+      "error": ""
+    },
+    {
+      "code": "M2_N21",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N21_time_series_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.018,
+      "error": ""
+    },
+    {
+      "code": "M2_N22",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N22_forecasting_methods.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.008,
+      "error": ""
+    },
+    {
+      "code": "M2_N23",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N23_probabilistic_forecasting.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.011,
+      "error": ""
+    },
+    {
+      "code": "M2_N24",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N24_causal_inference_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "M2_N25",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N25_treatment_effect_uplift.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.004,
+      "error": ""
+    },
+    {
+      "code": "M2_N26",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N26_recommender_systems.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.005,
+      "error": ""
+    },
+    {
+      "code": "M2_N27",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N27_graph_based_machine_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.007,
+      "error": ""
+    },
+    {
+      "code": "M2_N28",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N28_semi_supervised_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.003,
+      "error": ""
+    },
+    {
+      "code": "M2_N29",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N29_active_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.011,
+      "error": ""
+    },
+    {
+      "code": "M2_N30",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N30_integrated_ml_case_studies.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.013,
+      "error": ""
+    },
+    {
+      "code": "M2_N31",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N31_mlops_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M2_N32",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N32_experiment_tracking_reproducibility.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.007,
+      "error": ""
+    },
+    {
+      "code": "M2_N33",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N33_data_model_drift.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.012,
+      "error": ""
+    },
+    {
+      "code": "M2_N34",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N34_production_monitoring.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M2_N35",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M2/M2_N35_machine_learning_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.011,
+      "error": ""
+    },
+    {
+      "code": "M3_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N01_neural_network_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.005,
+      "error": ""
+    },
+    {
+      "code": "M3_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N02_forward_propagation_activations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.013,
+      "error": ""
+    },
+    {
+      "code": "M3_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N03_backpropagation_gradient_checking.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "M3_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N04_deep_learning_optimization.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.012,
+      "error": ""
+    },
+    {
+      "code": "M3_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N05_regularization_generalization.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.01,
+      "error": ""
+    },
+    {
+      "code": "M3_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N06_convolutional_neural_networks.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.006,
+      "error": ""
+    },
+    {
+      "code": "M3_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N07_image_classification.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.066,
+      "error": ""
+    },
+    {
+      "code": "M3_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N08_recurrent_neural_networks.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.008,
+      "error": ""
+    },
+    {
+      "code": "M3_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N09_lstm_gru.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.006,
+      "error": ""
+    },
+    {
+      "code": "M3_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N10_sequence_modeling.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N11_attention_mechanisms.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.013,
+      "error": ""
+    },
+    {
+      "code": "M3_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N12_transformers.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.006,
+      "error": ""
+    },
+    {
+      "code": "M3_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N13_tokenization_embeddings.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N14_language_modeling.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N15_text_classification.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.003,
+      "error": ""
+    },
+    {
+      "code": "M3_N16",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N16_autoencoders.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.006,
+      "error": ""
+    },
+    {
+      "code": "M3_N17",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N17_variational_autoencoders.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.006,
+      "error": ""
+    },
+    {
+      "code": "M3_N18",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N18_generative_adversarial_networks.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.009,
+      "error": ""
+    },
+    {
+      "code": "M3_N19",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N19_diffusion_model_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.124,
+      "error": ""
+    },
+    {
+      "code": "M3_N20",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N20_representation_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.007,
+      "error": ""
+    },
+    {
+      "code": "M3_N21",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N21_transfer_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N22",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N22_self_supervised_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N23",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N23_multimodal_deep_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N24",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N24_graph_neural_networks.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N25",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N25_deep_reinforcement_learning_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N26",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N26_deep_q_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.003,
+      "error": ""
+    },
+    {
+      "code": "M3_N27",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N27_policy_gradients_actor_critic.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N28",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N28_deep_learning_deployment.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.003,
+      "error": ""
+    },
+    {
+      "code": "M3_N29",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N29_responsible_deep_learning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M3_N30",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M3/M3_N30_deep_learning_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.391,
+      "error": ""
+    },
+    {
+      "code": "M4_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N01_generative_ai_llm_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.017,
+      "error": ""
+    },
+    {
+      "code": "M4_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N02_tokenization_context_windows.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N03_autoregressive_language_models.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N04_prompt_engineering_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N05_transformer_families_embeddings_retrieval.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N06_retrieval_augmented_generation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N07_vector_databases.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N08_document_ingestion_chunking.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N09_retrieval_reranking.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N10_grounded_answer_generation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N11_tool_function_calling.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N12_agent_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N13_planning_memory.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N14_multi_agent_systems.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N15_model_context_protocol.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N16",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N16_fine_tuning_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.061,
+      "error": ""
+    },
+    {
+      "code": "M4_N17",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N17_peft_lora.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N18",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N18_instruction_tuning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N19",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N19_preference_optimization_rlhf.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N20",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N20_synthetic_data_generation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N21",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N21_llm_evaluation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N22",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N22_safety_guardrails.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N23",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N23_observability_cost_management.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.003,
+      "error": ""
+    },
+    {
+      "code": "M4_N24",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N24_production_llm_architecture.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N25",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N25_enterprise_conversational_ai.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N26",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N26_advanced_rag.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N27",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N27_agentic_rag.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "M4_N28",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N28_multimodal_generative_ai.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N29",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N29_enterprise_ai_governance.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "M4_N30",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/M4/M4_N30_generative_ai_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V5_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N01_mlops_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V5_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N02_reproducibility_environment.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V5_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N03_experiment_tracking.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V5_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N04_data_model_versioning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V5_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N05_model_serving.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V5_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N06_docker_ml_systems.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V5_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N07_fastapi_serving.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V5_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N08_cicd_foundations.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V5_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N09_automated_testing.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V5_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N10_workflow_orchestration.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V5_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N11_airflow_fundamentals.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V5_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N12_prefect_workflows.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V5_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N13_feature_store_model_registry.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V5_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N14_monitoring_drift_governance.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.003,
+      "error": ""
+    },
+    {
+      "code": "V5_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V5/V5_N15_enterprise_mlops_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V6_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N01_decision_framing.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N02_utility_value.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N03_bayesian_decisions.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N04_multi_criteria_decision_analysis.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N05_scenario_decision_analysis.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N06_optimization_decisions.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N07_monte_carlo_simulation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N08_causal_decision_analysis.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N09_policy_evaluation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N10_prescriptive_analytics.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N11_digital_twins.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N12_system_dynamics.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N13_adaptive_decisions.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V6_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N14_decision_dashboards.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V6_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V6/V6_N15_decision_intelligence_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N01_platform_architecture.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N02_data_ingestion.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N03_data_quality.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N04_core_analytics.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N05_executive_dashboard.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.009,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N06_production_forecasting.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.008,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N07_market_price_intelligence.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N08_rainfall_drought_analytics.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N09_crop_risk_early_warning.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N10_remote_sensing_integration.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N11_agricultural_census_intelligence.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N12_survey_sampling_support.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N13_livestock_analytics.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N14_food_security_analysis.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V7_A_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V7/V7_A_N15_track_a_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V8_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N01_enterprise_ai_architecture.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V8_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N02_lakehouse_data_mesh.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V8_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N03_enterprise_knowledge_graphs.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V8_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N04_event_driven_ai.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V8_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N05_identity_security.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V8_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N06_enterprise_rag.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N07_api_model_gateways.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N08_enterprise_microservices.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N09_multi_agent_enterprise.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N10_enterprise_observability.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N11_governance_platform.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N12_ai_secops.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N13_platform_engineering.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N14_reference_implementation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V8_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V8/V8_N15_enterprise_ai_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V9_N01",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N01_ai_strategy.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.006,
+      "error": ""
+    },
+    {
+      "code": "V9_N02",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N02_ai_maturity.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V9_N03",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N03_operating_model.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V9_N04",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N04_portfolio_management.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V9_N05",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N05_value_realization.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V9_N06",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N06_responsible_leadership.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V9_N07",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N07_workforce_change.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V9_N08",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N08_national_ai_platforms.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V9_N09",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N09_public_sector_ai.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V9_N10",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N10_procurement_partnerships.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V9_N11",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N11_transformation_roadmap.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.002,
+      "error": ""
+    },
+    {
+      "code": "V9_N12",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N12_executive_dashboard.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.001,
+      "error": ""
+    },
+    {
+      "code": "V9_N13",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N13_ecosystem_cooperation.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V9_N14",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N14_sustainable_ai.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "code": "V9_N15",
+      "file": "/workspace/scratch/d974a06268d7/srai_studio_v2_work/content/notebooks/V9/V9_N15_srai_capstone.ipynb",
+      "status": "passed",
+      "duration_seconds": 0.0,
+      "error": ""
+    }
+  ]
+}

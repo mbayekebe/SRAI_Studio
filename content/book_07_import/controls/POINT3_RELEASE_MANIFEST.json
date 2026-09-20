@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "release": "SRAI Book 7 Controlled Release \u2014 Point 3",
+  "version": "v0.1",
+  "status": "passed",
+  "source_release": "SRAI_Book7_All_Production_Batches_01_13_Controlled_Release_v0.1.zip",
+  "source_release_sha256": "9599cf423a768bfb584685619d291120a09a749a51c653df99b15d918a7f943a",
+  "contents": {
+    "batch_archives": 13,
+    "production_units": 65,
+    "control_files_excluding_manifest_and_checksums": 4
+  },
+  "entries": [
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch01_Common_Core_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 1606424,
+      "sha256": "6858e1ed35b69352322f55cab18dac8a04f8d04329df662d15fe4cabb680fc6c"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch02_Agriculture_N01_N05_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 1562293,
+      "sha256": "f88a5d197b8058994b7cd75b4406cb5bc0a48dcbbe102b4cffd24cdb7565c5db"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch03_Agriculture_N06_N10_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 1563170,
+      "sha256": "87c4167d1891aa1eecd0d3acda47787e98d35d774c726d7d675ebdf2df309f58"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch04_Agriculture_N11_N15_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 1560779,
+      "sha256": "df7bad75afc2b02e8257b4c65b4f7d5bad158494194692a03a0068699b8c79bb"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch05_Health_N01_N05_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 1567799,
+      "sha256": "274d8e093a22c04881bdcc80dde0d220ffa0e22f7c8e2dcd5b03a26314a66334"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch06_Health_N06_N10_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 1557661,
+      "sha256": "15f40698a6463baa62148f9efa3d58fd27c94c77634ed3bc3686d1928ed6eb43"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch07_Health_N11_N15_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 6608302,
+      "sha256": "002e910de02da032d49ad4fa93e03f4960f176494b00aa80c5612f208a95933b"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch08_Education_N01_N05_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 6736770,
+      "sha256": "c616bc3e9bca96046f62e4f06aaaa8edb5897238c4fc6a0db9f3388345d53d92"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch09_Education_N06_N10_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 6672413,
+      "sha256": "f2febe9c7de8831e7f3dd9e11876054476037beb332f4cc7677cef7c97ee0005"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch10_Education_N11_N15_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 6659544,
+      "sha256": "fadfa6d3e5efa1c4c9f6186ecf9539a007ef6215fec6981599f2bbd81b9275d2"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch11_Habitat_N01_N05_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 6905139,
+      "sha256": "8f6f1c7a41fa35509e7229dfd1c9874bf4c5bd6fd80436d535556fb4979a8066"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch12_Habitat_N06_N10_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 6685395,
+      "sha256": "125204888218758153d23fdccdf41b8214fdc2fc2285e7a0116c0cbf1166c426"
+    },
+    {
+      "path": "batches/SRAI_Book7_Production_Units_Batch13_Habitat_N11_N15_v0.1.zip",
+      "role": "validated batch archive",
+      "size_bytes": 6765035,
+      "sha256": "81d99d49863053c2ad2c66343f213e4fac63b11e7279921a663920ec100adca1"
+    },
+    {
+      "path": "controls/CONSOLIDATED_VALIDATION_REPORT.json",
+      "role": "release control",
+      "size_bytes": 2321,
+      "sha256": "a6677a36f8062b308d9b2dfb32a519828a57dd08268489a303ea6f18dcfb6cf7"
+    },
+    {
+      "path": "controls/MASTER_CATALOGUE.json",
+      "role": "release control",
+      "size_bytes": 63495,
+      "sha256": "a757a98cb9e7464ad61c26a2cb444928084c2c87217962846a9764c0deef014f"
+    },
+    {
+      "path": "controls/MASTER_CATALOGUE.xlsx",
+      "role": "release control",
+      "size_bytes": 18940,
+      "sha256": "5a6a4777eff06ad813a80d893b576ce168ac702d6998f0e5f8097b8f0095feae"
+    },
+    {
+      "path": "controls/POINT2_PRODUCTION_UNIT_COMPLETENESS_VERIFICATION.json",
+      "role": "release control",
+      "size_bytes": 7747,
+      "sha256": "c6950bd4f4c27c247b59bf2aa536f8a9a032e3d814090396bd739a3d7dcdc812"
+    }
+  ],
+  "scope_boundary": "Point 4 SRAI Studio import structure and Point 5 user-facing testing are not included."
+}

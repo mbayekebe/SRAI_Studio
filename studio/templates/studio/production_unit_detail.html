@@ -1,0 +1,9 @@
+{% extends "studio/base.html" %}{% block content %}<h1>{{ unit.code }}</h1><p>{{ unit.chapter.title }} · {{ unit.get_workflow_state_display }}</p>
+<div class="grid"><div class="card"><div class="metric">{{ unit.completion_percentage }}%</div><div>Completion</div></div>
+<div class="card"><div class="metric">{% if unit.release_ready %}Yes{% else %}No{% endif %}</div><div>Release-ready</div></div></div>
+<div class="card"><h2>Gold Standard assets</h2><table><tr><th>Family</th><th>Asset</th><th>Status</th><th>Weight</th></tr>
+{% for asset in unit.assets.all %}<tr><td>{{ asset.asset_type.get_family_display }}</td><td>{{ asset.asset_type.name }}</td>
+<td>{{ asset.get_status_display }}</td><td>{{ asset.asset_type.weight }}</td></tr>{% endfor %}</table></div>
+<div class="card"><h2>Tasks</h2>{% for task in unit.tasks.all %}<p>{{ task.title }} — {{ task.get_status_display }}</p>{% empty %}<p>No tasks.</p>{% endfor %}</div>
+<div class="card"><h2>Quality reviews</h2>{% for review in unit.reviews.all %}<p>{{ review.get_review_type_display }}: {{ review.score }}/100 — {{ review.passed|yesno:"Passed,Failed" }}</p>{% empty %}<p>No reviews.</p>{% endfor %}</div>
+{% endblock %}

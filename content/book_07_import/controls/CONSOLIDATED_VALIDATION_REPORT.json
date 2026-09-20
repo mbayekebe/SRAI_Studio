@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "validated_utc": "2026-09-04T16:02:58.609701+00:00",
+  "scope": "Point 3 consolidated release controls; SRAI Studio import and user-facing testing excluded",
+  "source_release": "SRAI_Book7_All_Production_Batches_01_13_Controlled_Release_v0.1.zip",
+  "source_release_sha256": "9599cf423a768bfb584685619d291120a09a749a51c653df99b15d918a7f943a",
+  "status": "passed",
+  "gates": {
+    "batch_archives": {
+      "expected": 13,
+      "actual": 13,
+      "status": "passed"
+    },
+    "production_units": {
+      "expected": 65,
+      "actual": 65,
+      "unique": 65,
+      "missing": 0,
+      "duplicates": 0,
+      "status": "passed"
+    },
+    "unit_validation_reports": {
+      "passed": 65,
+      "failed": 0,
+      "status": "passed"
+    },
+    "published_assets": {
+      "docx": 195,
+      "pdf": 195,
+      "notebooks": 65,
+      "presentations": 65,
+      "slides": 520,
+      "video_assets": 130,
+      "publication_assets": 130,
+      "status": "passed"
+    },
+    "notebook_execution": {
+      "notebooks": 65,
+      "code_cells": 324,
+      "saved_outputs": 248,
+      "notebooks_with_unexecuted_or_error_cells": [],
+      "status": "passed"
+    },
+    "presentation_narration": {
+      "presentations": 65,
+      "slides": 520,
+      "speaker_notes": 520,
+      "source_blocks": 520,
+      "status": "passed",
+      "presenter_directive_notes": [],
+      "audience_instruction_notes_reviewed": [
+        {
+          "presentation": "SRAI_Book7_Production_Units_Batch02_Agriculture_N01_N05_v0.1/PU-B07-C08/slides/PU-B07-C08_Lesson_Presentation_v0.1.pptx",
+          "note": "ppt/notesSlides/notesSlide5.xml"
+        }
+      ],
+      "review_finding": "The single flagged imperative is spoken learner guidance, not a presenter-stage direction."
+    },
+    "accessibility": {
+      "document_pages_reviewed": 332,
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "status": "passed"
+    },
+    "unit_checksums": {
+      "files": 65,
+      "entries_verified": 1320,
+      "failures": [],
+      "status": "passed"
+    },
+    "batch_checksums": {
+      "files": 13,
+      "entries_verified": 1424,
+      "failures": [],
+      "status": "passed"
+    },
+    "synthetic_data_boundary": {
+      "passed_units": 65,
+      "status": "passed"
+    }
+  },
+  "point_4_started": false
+}

@@ -1,0 +1,201 @@
+series,notebook_code,chapter_order,chapter_title,file_path,validation_status
+B01,M1_N01,1,Mathematical Thinking,content/notebooks/M1/M1_N01_mathematical_thinking.ipynb,passed
+B01,M1_N02,2,Sets Logic Relations Functions,content/notebooks/M1/M1_N02_sets_logic_relations_functions.ipynb,passed
+B01,M1_N03,3,Vector Foundations,content/notebooks/M1/M1_N03_vector_foundations.ipynb,passed
+B01,M1_N04,4,Matrix Algebra Linear Systems,content/notebooks/M1/M1_N04_matrix_algebra_linear_systems.ipynb,passed
+B01,M1_N05,5,Vector Spaces Bases Rank Projections,content/notebooks/M1/M1_N05_vector_spaces_bases_rank_projections.ipynb,passed
+B01,M1_N06,6,Eigenvalues Eigenvectors Spectral Intuition,content/notebooks/M1/M1_N06_eigenvalues_eigenvectors_spectral_intuition.ipynb,passed
+B01,M1_N07,7,Svd Pca Dimensionality Reduction,content/notebooks/M1/M1_N07_svd_pca_dimensionality_reduction.ipynb,passed
+B01,M1_N08,8,Limits And Continuity,content/notebooks/M1/M1_N08_limits_and_continuity.ipynb,passed
+B01,M1_N09,9,Derivatives Gradients Jacobians Hessians,content/notebooks/M1/M1_N09_derivatives_gradients_jacobians_hessians.ipynb,passed
+B01,M1_N10,10,Integration And Accumulation,content/notebooks/M1/M1_N10_integration_and_accumulation.ipynb,passed
+B01,M1_N11,11,Automatic Differentiation Gradient Checking,content/notebooks/M1/M1_N11_automatic_differentiation_gradient_checking.ipynb,passed
+B01,M1_N12,12,Probability Spaces And Simulation,content/notebooks/M1/M1_N12_probability_spaces_and_simulation.ipynb,passed
+B01,M1_N13,13,Conditional Probability Bayesian Updating,content/notebooks/M1/M1_N13_conditional_probability_bayesian_updating.ipynb,passed
+B01,M1_N14,14,Random Variables Common Distributions,content/notebooks/M1/M1_N14_random_variables_common_distributions.ipynb,passed
+B01,M1_N15,15,Expectation Variance Covariance Concentration,content/notebooks/M1/M1_N15_expectation_variance_covariance_concentration.ipynb,passed
+B01,M1_N16,16,Sampling Distributions Central Limit Theorem,content/notebooks/M1/M1_N16_sampling_distributions_central_limit_theorem.ipynb,passed
+B01,M1_N17,17,Estimation Confidence Intervals,content/notebooks/M1/M1_N17_estimation_confidence_intervals.ipynb,passed
+B01,M1_N18,18,Hypothesis Testing Effect Size,content/notebooks/M1/M1_N18_hypothesis_testing_effect_size.ipynb,passed
+B01,M1_N19,19,Maximum Likelihood Bayesian Inference,content/notebooks/M1/M1_N19_maximum_likelihood_bayesian_inference.ipynb,passed
+B01,M1_N20,20,Entropy Information Measures,content/notebooks/M1/M1_N20_entropy_information_measures.ipynb,passed
+B01,M1_N21,21,Optimization Foundations,content/notebooks/M1/M1_N21_optimization_foundations.ipynb,passed
+B01,M1_N22,22,Numerical Optimization,content/notebooks/M1/M1_N22_numerical_optimization.ipynb,passed
+B01,M1_N23,23,Convex Optimization,content/notebooks/M1/M1_N23_convex_optimization.ipynb,passed
+B01,M1_N24,24,Numerical Linear Algebra,content/notebooks/M1/M1_N24_numerical_linear_algebra.ipynb,passed
+B01,M1_N25,25,Numerical Stability,content/notebooks/M1/M1_N25_numerical_stability.ipynb,passed
+B01,M1_N26,26,Randomized Algorithms,content/notebooks/M1/M1_N26_randomized_algorithms.ipynb,passed
+B01,M1_N27,27,Computational Complexity,content/notebooks/M1/M1_N27_computational_complexity.ipynb,passed
+B01,M1_N28,28,Scientific Computing,content/notebooks/M1/M1_N28_scientific_computing.ipynb,passed
+B01,M1_N29,29,Integrated Mathematical Case Studies,content/notebooks/M1/M1_N29_integrated_mathematical_case_studies.ipynb,passed
+B01,M1_N30,30,Mathematical Foundations Capstone,content/notebooks/M1/M1_N30_mathematical_foundations_capstone.ipynb,passed
+B02,M2_N01,1,Supervised Learning Foundations,content/notebooks/M2/M2_N01_supervised_learning_foundations.ipynb,passed
+B02,M2_N02,2,Linear Regression,content/notebooks/M2/M2_N02_linear_regression.ipynb,passed
+B02,M2_N03,3,Logistic Regression,content/notebooks/M2/M2_N03_logistic_regression.ipynb,passed
+B02,M2_N04,4,Regularization Feature Scaling,content/notebooks/M2/M2_N04_regularization_feature_scaling.ipynb,passed
+B02,M2_N05,5,Model Evaluation Cross Validation,content/notebooks/M2/M2_N05_model_evaluation_cross_validation.ipynb,passed
+B02,M2_N06,6,Decision Trees,content/notebooks/M2/M2_N06_decision_trees.ipynb,passed
+B02,M2_N07,7,Random Forests,content/notebooks/M2/M2_N07_random_forests.ipynb,passed
+B02,M2_N08,8,Boosting,content/notebooks/M2/M2_N08_boosting.ipynb,passed
+B02,M2_N09,9,Support Vector Machines,content/notebooks/M2/M2_N09_support_vector_machines.ipynb,passed
+B02,M2_N10,10,Nearest Neighbor Methods,content/notebooks/M2/M2_N10_nearest_neighbor_methods.ipynb,passed
+B02,M2_N11,11,Naive Bayes,content/notebooks/M2/M2_N11_naive_bayes.ipynb,passed
+B02,M2_N12,12,Discriminant Analysis,content/notebooks/M2/M2_N12_discriminant_analysis.ipynb,passed
+B02,M2_N13,13,Clustering,content/notebooks/M2/M2_N13_clustering.ipynb,passed
+B02,M2_N14,14,Dimensionality Reduction Ml,content/notebooks/M2/M2_N14_dimensionality_reduction_ml.ipynb,passed
+B02,M2_N15,15,Anomaly Detection,content/notebooks/M2/M2_N15_anomaly_detection.ipynb,passed
+B02,M2_N16,16,Feature Engineering,content/notebooks/M2/M2_N16_feature_engineering.ipynb,passed
+B02,M2_N17,17,Imbalanced Learning,content/notebooks/M2/M2_N17_imbalanced_learning.ipynb,passed
+B02,M2_N18,18,Calibration Thresholding,content/notebooks/M2/M2_N18_calibration_thresholding.ipynb,passed
+B02,M2_N19,19,Hyperparameter Optimization,content/notebooks/M2/M2_N19_hyperparameter_optimization.ipynb,passed
+B02,M2_N20,20,Interpretable Machine Learning,content/notebooks/M2/M2_N20_interpretable_machine_learning.ipynb,passed
+B02,M2_N21,21,Time Series Foundations,content/notebooks/M2/M2_N21_time_series_foundations.ipynb,passed
+B02,M2_N22,22,Forecasting Methods,content/notebooks/M2/M2_N22_forecasting_methods.ipynb,passed
+B02,M2_N23,23,Probabilistic Forecasting,content/notebooks/M2/M2_N23_probabilistic_forecasting.ipynb,passed
+B02,M2_N24,24,Causal Inference Foundations,content/notebooks/M2/M2_N24_causal_inference_foundations.ipynb,passed
+B02,M2_N25,25,Treatment Effect Uplift,content/notebooks/M2/M2_N25_treatment_effect_uplift.ipynb,passed
+B02,M2_N26,26,Recommender Systems,content/notebooks/M2/M2_N26_recommender_systems.ipynb,passed
+B02,M2_N27,27,Graph Based Machine Learning,content/notebooks/M2/M2_N27_graph_based_machine_learning.ipynb,passed
+B02,M2_N28,28,Semi Supervised Learning,content/notebooks/M2/M2_N28_semi_supervised_learning.ipynb,passed
+B02,M2_N29,29,Active Learning,content/notebooks/M2/M2_N29_active_learning.ipynb,passed
+B02,M2_N30,30,Integrated Ml Case Studies,content/notebooks/M2/M2_N30_integrated_ml_case_studies.ipynb,passed
+B02,M2_N31,31,Mlops Foundations,content/notebooks/M2/M2_N31_mlops_foundations.ipynb,passed
+B02,M2_N32,32,Experiment Tracking Reproducibility,content/notebooks/M2/M2_N32_experiment_tracking_reproducibility.ipynb,passed
+B02,M2_N33,33,Data Model Drift,content/notebooks/M2/M2_N33_data_model_drift.ipynb,passed
+B02,M2_N34,34,Production Monitoring,content/notebooks/M2/M2_N34_production_monitoring.ipynb,passed
+B02,M2_N35,35,Machine Learning Capstone,content/notebooks/M2/M2_N35_machine_learning_capstone.ipynb,passed
+B03,M3_N01,1,Neural Network Foundations,content/notebooks/M3/M3_N01_neural_network_foundations.ipynb,passed
+B03,M3_N02,2,Forward Propagation Activations,content/notebooks/M3/M3_N02_forward_propagation_activations.ipynb,passed
+B03,M3_N03,3,Backpropagation Gradient Checking,content/notebooks/M3/M3_N03_backpropagation_gradient_checking.ipynb,passed
+B03,M3_N04,4,Deep Learning Optimization,content/notebooks/M3/M3_N04_deep_learning_optimization.ipynb,passed
+B03,M3_N05,5,Regularization Generalization,content/notebooks/M3/M3_N05_regularization_generalization.ipynb,passed
+B03,M3_N06,6,Convolutional Neural Networks,content/notebooks/M3/M3_N06_convolutional_neural_networks.ipynb,passed
+B03,M3_N07,7,Image Classification,content/notebooks/M3/M3_N07_image_classification.ipynb,passed
+B03,M3_N08,8,Recurrent Neural Networks,content/notebooks/M3/M3_N08_recurrent_neural_networks.ipynb,passed
+B03,M3_N09,9,Lstm Gru,content/notebooks/M3/M3_N09_lstm_gru.ipynb,passed
+B03,M3_N10,10,Sequence Modeling,content/notebooks/M3/M3_N10_sequence_modeling.ipynb,passed
+B03,M3_N11,11,Attention Mechanisms,content/notebooks/M3/M3_N11_attention_mechanisms.ipynb,passed
+B03,M3_N12,12,Transformers,content/notebooks/M3/M3_N12_transformers.ipynb,passed
+B03,M3_N13,13,Tokenization Embeddings,content/notebooks/M3/M3_N13_tokenization_embeddings.ipynb,passed
+B03,M3_N14,14,Language Modeling,content/notebooks/M3/M3_N14_language_modeling.ipynb,passed
+B03,M3_N15,15,Text Classification,content/notebooks/M3/M3_N15_text_classification.ipynb,passed
+B03,M3_N16,16,Autoencoders,content/notebooks/M3/M3_N16_autoencoders.ipynb,passed
+B03,M3_N17,17,Variational Autoencoders,content/notebooks/M3/M3_N17_variational_autoencoders.ipynb,passed
+B03,M3_N18,18,Generative Adversarial Networks,content/notebooks/M3/M3_N18_generative_adversarial_networks.ipynb,passed
+B03,M3_N19,19,Diffusion Model Foundations,content/notebooks/M3/M3_N19_diffusion_model_foundations.ipynb,passed
+B03,M3_N20,20,Representation Learning,content/notebooks/M3/M3_N20_representation_learning.ipynb,passed
+B03,M3_N21,21,Transfer Learning,content/notebooks/M3/M3_N21_transfer_learning.ipynb,passed
+B03,M3_N22,22,Self Supervised Learning,content/notebooks/M3/M3_N22_self_supervised_learning.ipynb,passed
+B03,M3_N23,23,Multimodal Deep Learning,content/notebooks/M3/M3_N23_multimodal_deep_learning.ipynb,passed
+B03,M3_N24,24,Graph Neural Networks,content/notebooks/M3/M3_N24_graph_neural_networks.ipynb,passed
+B03,M3_N25,25,Deep Reinforcement Learning Foundations,content/notebooks/M3/M3_N25_deep_reinforcement_learning_foundations.ipynb,passed
+B03,M3_N26,26,Deep Q Learning,content/notebooks/M3/M3_N26_deep_q_learning.ipynb,passed
+B03,M3_N27,27,Policy Gradients Actor Critic,content/notebooks/M3/M3_N27_policy_gradients_actor_critic.ipynb,passed
+B03,M3_N28,28,Deep Learning Deployment,content/notebooks/M3/M3_N28_deep_learning_deployment.ipynb,passed
+B03,M3_N29,29,Responsible Deep Learning,content/notebooks/M3/M3_N29_responsible_deep_learning.ipynb,passed
+B03,M3_N30,30,Deep Learning Capstone,content/notebooks/M3/M3_N30_deep_learning_capstone.ipynb,passed
+B04,M4_N01,1,Generative Ai Llm Foundations,content/notebooks/M4/M4_N01_generative_ai_llm_foundations.ipynb,passed
+B04,M4_N02,2,Tokenization Context Windows,content/notebooks/M4/M4_N02_tokenization_context_windows.ipynb,passed
+B04,M4_N03,3,Autoregressive Language Models,content/notebooks/M4/M4_N03_autoregressive_language_models.ipynb,passed
+B04,M4_N04,4,Prompt Engineering Foundations,content/notebooks/M4/M4_N04_prompt_engineering_foundations.ipynb,passed
+B04,M4_N05,5,Transformer Families Embeddings Retrieval,content/notebooks/M4/M4_N05_transformer_families_embeddings_retrieval.ipynb,passed
+B04,M4_N06,6,Retrieval Augmented Generation,content/notebooks/M4/M4_N06_retrieval_augmented_generation.ipynb,passed
+B04,M4_N07,7,Vector Databases,content/notebooks/M4/M4_N07_vector_databases.ipynb,passed
+B04,M4_N08,8,Document Ingestion Chunking,content/notebooks/M4/M4_N08_document_ingestion_chunking.ipynb,passed
+B04,M4_N09,9,Retrieval Reranking,content/notebooks/M4/M4_N09_retrieval_reranking.ipynb,passed
+B04,M4_N10,10,Grounded Answer Generation,content/notebooks/M4/M4_N10_grounded_answer_generation.ipynb,passed
+B04,M4_N11,11,Tool Function Calling,content/notebooks/M4/M4_N11_tool_function_calling.ipynb,passed
+B04,M4_N12,12,Agent Foundations,content/notebooks/M4/M4_N12_agent_foundations.ipynb,passed
+B04,M4_N13,13,Planning Memory,content/notebooks/M4/M4_N13_planning_memory.ipynb,passed
+B04,M4_N14,14,Multi Agent Systems,content/notebooks/M4/M4_N14_multi_agent_systems.ipynb,passed
+B04,M4_N15,15,Model Context Protocol,content/notebooks/M4/M4_N15_model_context_protocol.ipynb,passed
+B04,M4_N16,16,Fine Tuning Foundations,content/notebooks/M4/M4_N16_fine_tuning_foundations.ipynb,passed
+B04,M4_N17,17,Peft Lora,content/notebooks/M4/M4_N17_peft_lora.ipynb,passed
+B04,M4_N18,18,Instruction Tuning,content/notebooks/M4/M4_N18_instruction_tuning.ipynb,passed
+B04,M4_N19,19,Preference Optimization Rlhf,content/notebooks/M4/M4_N19_preference_optimization_rlhf.ipynb,passed
+B04,M4_N20,20,Synthetic Data Generation,content/notebooks/M4/M4_N20_synthetic_data_generation.ipynb,passed
+B04,M4_N21,21,Llm Evaluation,content/notebooks/M4/M4_N21_llm_evaluation.ipynb,passed
+B04,M4_N22,22,Safety Guardrails,content/notebooks/M4/M4_N22_safety_guardrails.ipynb,passed
+B04,M4_N23,23,Observability Cost Management,content/notebooks/M4/M4_N23_observability_cost_management.ipynb,passed
+B04,M4_N24,24,Production Llm Architecture,content/notebooks/M4/M4_N24_production_llm_architecture.ipynb,passed
+B04,M4_N25,25,Enterprise Conversational Ai,content/notebooks/M4/M4_N25_enterprise_conversational_ai.ipynb,passed
+B04,M4_N26,26,Advanced Rag,content/notebooks/M4/M4_N26_advanced_rag.ipynb,passed
+B04,M4_N27,27,Agentic Rag,content/notebooks/M4/M4_N27_agentic_rag.ipynb,passed
+B04,M4_N28,28,Multimodal Generative Ai,content/notebooks/M4/M4_N28_multimodal_generative_ai.ipynb,passed
+B04,M4_N29,29,Enterprise Ai Governance,content/notebooks/M4/M4_N29_enterprise_ai_governance.ipynb,passed
+B04,M4_N30,30,Generative Ai Capstone,content/notebooks/M4/M4_N30_generative_ai_capstone.ipynb,passed
+B05,V5_N01,1,Mlops Foundations,content/notebooks/V5/V5_N01_mlops_foundations.ipynb,passed
+B05,V5_N02,2,Reproducibility Environment,content/notebooks/V5/V5_N02_reproducibility_environment.ipynb,passed
+B05,V5_N03,3,Experiment Tracking,content/notebooks/V5/V5_N03_experiment_tracking.ipynb,passed
+B05,V5_N04,4,Data Model Versioning,content/notebooks/V5/V5_N04_data_model_versioning.ipynb,passed
+B05,V5_N05,5,Model Serving,content/notebooks/V5/V5_N05_model_serving.ipynb,passed
+B05,V5_N06,6,Docker Ml Systems,content/notebooks/V5/V5_N06_docker_ml_systems.ipynb,passed
+B05,V5_N07,7,Fastapi Serving,content/notebooks/V5/V5_N07_fastapi_serving.ipynb,passed
+B05,V5_N08,8,Cicd Foundations,content/notebooks/V5/V5_N08_cicd_foundations.ipynb,passed
+B05,V5_N09,9,Automated Testing,content/notebooks/V5/V5_N09_automated_testing.ipynb,passed
+B05,V5_N10,10,Workflow Orchestration,content/notebooks/V5/V5_N10_workflow_orchestration.ipynb,passed
+B05,V5_N11,11,Airflow Fundamentals,content/notebooks/V5/V5_N11_airflow_fundamentals.ipynb,passed
+B05,V5_N12,12,Prefect Workflows,content/notebooks/V5/V5_N12_prefect_workflows.ipynb,passed
+B05,V5_N13,13,Feature Store Model Registry,content/notebooks/V5/V5_N13_feature_store_model_registry.ipynb,passed
+B05,V5_N14,14,Monitoring Drift Governance,content/notebooks/V5/V5_N14_monitoring_drift_governance.ipynb,passed
+B05,V5_N15,15,Enterprise Mlops Capstone,content/notebooks/V5/V5_N15_enterprise_mlops_capstone.ipynb,passed
+B06,V6_N01,1,Decision Framing,content/notebooks/V6/V6_N01_decision_framing.ipynb,passed
+B06,V6_N02,2,Utility Value,content/notebooks/V6/V6_N02_utility_value.ipynb,passed
+B06,V6_N03,3,Bayesian Decisions,content/notebooks/V6/V6_N03_bayesian_decisions.ipynb,passed
+B06,V6_N04,4,Multi Criteria Decision Analysis,content/notebooks/V6/V6_N04_multi_criteria_decision_analysis.ipynb,passed
+B06,V6_N05,5,Scenario Decision Analysis,content/notebooks/V6/V6_N05_scenario_decision_analysis.ipynb,passed
+B06,V6_N06,6,Optimization Decisions,content/notebooks/V6/V6_N06_optimization_decisions.ipynb,passed
+B06,V6_N07,7,Monte Carlo Simulation,content/notebooks/V6/V6_N07_monte_carlo_simulation.ipynb,passed
+B06,V6_N08,8,Causal Decision Analysis,content/notebooks/V6/V6_N08_causal_decision_analysis.ipynb,passed
+B06,V6_N09,9,Policy Evaluation,content/notebooks/V6/V6_N09_policy_evaluation.ipynb,passed
+B06,V6_N10,10,Prescriptive Analytics,content/notebooks/V6/V6_N10_prescriptive_analytics.ipynb,passed
+B06,V6_N11,11,Digital Twins,content/notebooks/V6/V6_N11_digital_twins.ipynb,passed
+B06,V6_N12,12,System Dynamics,content/notebooks/V6/V6_N12_system_dynamics.ipynb,passed
+B06,V6_N13,13,Adaptive Decisions,content/notebooks/V6/V6_N13_adaptive_decisions.ipynb,passed
+B06,V6_N14,14,Decision Dashboards,content/notebooks/V6/V6_N14_decision_dashboards.ipynb,passed
+B06,V6_N15,15,Decision Intelligence Capstone,content/notebooks/V6/V6_N15_decision_intelligence_capstone.ipynb,passed
+B07,V7_A_N01,1,Platform Architecture,content/notebooks/V7/V7_A_N01_platform_architecture.ipynb,passed
+B07,V7_A_N02,2,Data Ingestion,content/notebooks/V7/V7_A_N02_data_ingestion.ipynb,passed
+B07,V7_A_N03,3,Data Quality,content/notebooks/V7/V7_A_N03_data_quality.ipynb,passed
+B07,V7_A_N04,4,Core Analytics,content/notebooks/V7/V7_A_N04_core_analytics.ipynb,passed
+B07,V7_A_N05,5,Executive Dashboard,content/notebooks/V7/V7_A_N05_executive_dashboard.ipynb,passed
+B07,V7_A_N06,6,Production Forecasting,content/notebooks/V7/V7_A_N06_production_forecasting.ipynb,passed
+B07,V7_A_N07,7,Market Price Intelligence,content/notebooks/V7/V7_A_N07_market_price_intelligence.ipynb,passed
+B07,V7_A_N08,8,Rainfall Drought Analytics,content/notebooks/V7/V7_A_N08_rainfall_drought_analytics.ipynb,passed
+B07,V7_A_N09,9,Crop Risk Early Warning,content/notebooks/V7/V7_A_N09_crop_risk_early_warning.ipynb,passed
+B07,V7_A_N10,10,Remote Sensing Integration,content/notebooks/V7/V7_A_N10_remote_sensing_integration.ipynb,passed
+B07,V7_A_N11,11,Agricultural Census Intelligence,content/notebooks/V7/V7_A_N11_agricultural_census_intelligence.ipynb,passed
+B07,V7_A_N12,12,Survey Sampling Support,content/notebooks/V7/V7_A_N12_survey_sampling_support.ipynb,passed
+B07,V7_A_N13,13,Livestock Analytics,content/notebooks/V7/V7_A_N13_livestock_analytics.ipynb,passed
+B07,V7_A_N14,14,Food Security Analysis,content/notebooks/V7/V7_A_N14_food_security_analysis.ipynb,passed
+B07,V7_A_N15,15,Track A Capstone,content/notebooks/V7/V7_A_N15_track_a_capstone.ipynb,passed
+B08,V8_N01,1,Enterprise Ai Architecture,content/notebooks/V8/V8_N01_enterprise_ai_architecture.ipynb,passed
+B08,V8_N02,2,Lakehouse Data Mesh,content/notebooks/V8/V8_N02_lakehouse_data_mesh.ipynb,passed
+B08,V8_N03,3,Enterprise Knowledge Graphs,content/notebooks/V8/V8_N03_enterprise_knowledge_graphs.ipynb,passed
+B08,V8_N04,4,Event Driven Ai,content/notebooks/V8/V8_N04_event_driven_ai.ipynb,passed
+B08,V8_N05,5,Identity Security,content/notebooks/V8/V8_N05_identity_security.ipynb,passed
+B08,V8_N06,6,Enterprise Rag,content/notebooks/V8/V8_N06_enterprise_rag.ipynb,passed
+B08,V8_N07,7,Api Model Gateways,content/notebooks/V8/V8_N07_api_model_gateways.ipynb,passed
+B08,V8_N08,8,Enterprise Microservices,content/notebooks/V8/V8_N08_enterprise_microservices.ipynb,passed
+B08,V8_N09,9,Multi Agent Enterprise,content/notebooks/V8/V8_N09_multi_agent_enterprise.ipynb,passed
+B08,V8_N10,10,Enterprise Observability,content/notebooks/V8/V8_N10_enterprise_observability.ipynb,passed
+B08,V8_N11,11,Governance Platform,content/notebooks/V8/V8_N11_governance_platform.ipynb,passed
+B08,V8_N12,12,Ai Secops,content/notebooks/V8/V8_N12_ai_secops.ipynb,passed
+B08,V8_N13,13,Platform Engineering,content/notebooks/V8/V8_N13_platform_engineering.ipynb,passed
+B08,V8_N14,14,Reference Implementation,content/notebooks/V8/V8_N14_reference_implementation.ipynb,passed
+B08,V8_N15,15,Enterprise Ai Capstone,content/notebooks/V8/V8_N15_enterprise_ai_capstone.ipynb,passed
+B09,V9_N01,1,Ai Strategy,content/notebooks/V9/V9_N01_ai_strategy.ipynb,passed
+B09,V9_N02,2,Ai Maturity,content/notebooks/V9/V9_N02_ai_maturity.ipynb,passed
+B09,V9_N03,3,Operating Model,content/notebooks/V9/V9_N03_operating_model.ipynb,passed
+B09,V9_N04,4,Portfolio Management,content/notebooks/V9/V9_N04_portfolio_management.ipynb,passed
+B09,V9_N05,5,Value Realization,content/notebooks/V9/V9_N05_value_realization.ipynb,passed
+B09,V9_N06,6,Responsible Leadership,content/notebooks/V9/V9_N06_responsible_leadership.ipynb,passed
+B09,V9_N07,7,Workforce Change,content/notebooks/V9/V9_N07_workforce_change.ipynb,passed
+B09,V9_N08,8,National Ai Platforms,content/notebooks/V9/V9_N08_national_ai_platforms.ipynb,passed
+B09,V9_N09,9,Public Sector Ai,content/notebooks/V9/V9_N09_public_sector_ai.ipynb,passed
+B09,V9_N10,10,Procurement Partnerships,content/notebooks/V9/V9_N10_procurement_partnerships.ipynb,passed
+B09,V9_N11,11,Transformation Roadmap,content/notebooks/V9/V9_N11_transformation_roadmap.ipynb,passed
+B09,V9_N12,12,Executive Dashboard,content/notebooks/V9/V9_N12_executive_dashboard.ipynb,passed
+B09,V9_N13,13,Ecosystem Cooperation,content/notebooks/V9/V9_N13_ecosystem_cooperation.ipynb,passed
+B09,V9_N14,14,Sustainable Ai,content/notebooks/V9/V9_N14_sustainable_ai.ipynb,passed
+B09,V9_N15,15,Srai Capstone,content/notebooks/V9/V9_N15_srai_capstone.ipynb,passed

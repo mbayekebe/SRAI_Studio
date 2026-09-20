@@ -1,0 +1,130 @@
+{"kind":"deck","id":"pr/qlcuee","name":"Deck"}
+{"kind":"layout","layoutId":"e3a9080d-7aee-4826-b471-f8212da7c9e8","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"ac8fdb07-c30a-4ba8-9e55-12b918d77b3f","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/rszfe7","slide":1,"title":"SRAI","textShapes":8}
+{"kind":"shape","id":"sh/na187y18","slide":1,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/obap032t","slide":1,"bbox":[870,0,410,720]}
+{"kind":"textbox","id":"sh/9c3q9oje","slide":1,"text":"SRAI","textPreview":"SRAI","textChars":4,"textLines":1,"bbox":[58,40,120,28]}
+{"kind":"textbox","id":"sh/adcr2tkz","slide":1,"text":"HEALTH TRACK","textPreview":"HEALTH TRACK","textChars":12,"textLines":1,"bbox":[58,104,400,28]}
+{"kind":"textbox","id":"sh/bel8by1k","slide":1,"text":"EMERGENCY OPERATIONS DECISION ROOM","textPreview":"EMERGENCY OPERATIONS DECISION ROOM","textChars":34,"textLines":1,"bbox":[58,166,730,170]}
+{"kind":"textbox","id":"sh/wfu94325","slide":1,"text":"Emergency intelligence must connect verified evidence to authorized action.","textPreview":"Emergency intelligence must connect verified evidence to authorized action.","textChars":75,"textLines":1,"bbox":[58,390,720,72]}
+{"kind":"textbox","id":"sh/xg3qd8jq","slide":1,"text":"V7_B_N13","textPreview":"V7_B_N13","textChars":8,"textLines":1,"bbox":[930,190,180,42]}
+{"kind":"textbox","id":"sh/yhcr6dkv","slide":1,"text":"PU-B07-C33","textPreview":"PU-B07-C33","textChars":10,"textLines":1,"bbox":[930,250,180,32]}
+{"kind":"textbox","id":"sh/jil8fi1g","slide":1,"text":"Decision-centred\nlearning asset","textPreview":"Decision-centred | learning asset","textChars":31,"textLines":2,"bbox":[930,338,180,80]}
+{"kind":"textbox","id":"sh/v6hczat8","slide":1,"text":"Canonical Controlled Edition v1.0","textPreview":"Canonical Controlled Edition v1.0","textChars":33,"textLines":1,"bbox":[58,630,600,24]}
+{"kind":"notes","id":"nt/rszfe7","slide":1,"text":"Welcome to Emergency Operations Decision Room. This lesson begins with one principle: emergency intelligence must connect verified evidence to authorized action. We will connect that principle to an accountable health decision and make it testable in the companion notebook.\n\n[Sources]\n- Canonical notebook V7_B_N13, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/2fglgn","slide":2,"title":"SRAI BOOK 7  |  V7_B_N13","textShapes":15}
+{"kind":"textbox","id":"sh/8fatkbu5","slide":2,"text":"SRAI BOOK 7  |  V7_B_N13","textPreview":"SRAI BOOK 7  |  V7_B_N13","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/ne1sb6d0","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/mdsbi1cf","slide":2,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/xk3ahgv2","slide":2,"text":"The analytical workflow starts with a contract","textPreview":"The analytical workflow starts with a contract","textChars":46,"textLines":1,"bbox":[58,94,1100,60]}
+{"kind":"textbox","id":"sh/wjatobuh","slide":2,"text":"Emergency intelligence must connect verified evidence to authorized action.","textPreview":"Emergency intelligence must connect verified evidence to authorized action.","textChars":75,"textLines":1,"bbox":[58,188,560,100]}
+{"kind":"shape","id":"sh/vi1sf6dw","slide":2,"bbox":[720,172,440,330]}
+{"kind":"textbox","id":"sh/ahsbmlcb","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[752,202,44,28]}
+{"kind":"textbox","id":"sh/doza5wvi","slide":2,"text":"Verified signal","textPreview":"Verified signal","textChars":15,"textLines":1,"bbox":[812,199,310,34]}
+{"kind":"textbox","id":"sh/cnq9cred","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[752,257,44,28]}
+{"kind":"textbox","id":"sh/y10jux8j","slide":2,"text":"Severity","textPreview":"Severity","textChars":8,"textLines":1,"bbox":[812,254,310,34]}
+{"kind":"textbox","id":"sh/z2tkn2p4","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[752,312,44,28]}
+{"kind":"textbox","id":"sh/0321w7qp","slide":2,"text":"Capacity","textPreview":"Capacity","textChars":8,"textLines":1,"bbox":[812,309,310,34]}
+{"kind":"textbox","id":"sh/l4b2ps7a","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[752,367,44,28]}
+{"kind":"textbox","id":"sh/mpkjyxof","slide":2,"text":"Action owner","textPreview":"Action owner","textChars":12,"textLines":1,"bbox":[812,364,310,34]}
+{"kind":"textbox","id":"sh/7qtkr2p0","slide":2,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[752,422,44,28]}
+{"kind":"textbox","id":"sh/8r21076l","slide":2,"text":"Closure","textPreview":"Closure","textChars":7,"textLines":1,"bbox":[812,419,310,34]}
+{"kind":"textbox","id":"sh/9sb2tc76","slide":2,"text":"A model is one component—not the decision-maker.","textPreview":"A model is one component—not the decision-maker.","textChars":48,"textLines":1,"bbox":[58,530,560,52]}
+{"kind":"notes","id":"nt/2fglgn","slide":2,"text":"The central idea is simple. Emergency intelligence must connect verified evidence to authorized action. The five controls shown here are Verified signal, Severity, Capacity, Action owner, Closure. Together, they prevent a health signal from being mistaken for an authorized decision.\n\n[Sources]\n- Canonical notebook V7_B_N13, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/v9t83z","slide":3,"title":"SRAI BOOK 7  |  V7_B_N13","textShapes":14}
+{"kind":"textbox","id":"sh/udwjyxov","slide":3,"text":"SRAI BOOK 7  |  V7_B_N13","textPreview":"SRAI BOOK 7  |  V7_B_N13","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/hgn29s7m","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/gfe10761","slide":3,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/3i5kb2pc","slide":3,"text":"Five controls make the lesson operational","textPreview":"Five controls make the lesson operational","textChars":41,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"shape","id":"sh/2hwj2xor","slide":3,"bbox":[58,228,190,170]}
+{"kind":"textbox","id":"sh/pk72dc7i","slide":3,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[76,246,40,30]}
+{"kind":"textbox","id":"sh/4jy1476x","slide":3,"text":"Verified signal","textPreview":"Verified signal","textChars":15,"textLines":1,"bbox":[76,294,154,74]}
+{"kind":"shape","id":"sh/r6pkfmpo","slide":3,"bbox":[280,228,190,170]}
+{"kind":"textbox","id":"sh/qlgj6ho3","slide":3,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[298,246,40,30]}
+{"kind":"textbox","id":"sh/0za5k7a9","slide":3,"text":"Severity","textPreview":"Severity","textChars":8,"textLines":1,"bbox":[298,294,154,74]}
+{"kind":"shape","id":"sh/lkjmtcru","slide":3,"bbox":[502,228,190,170]}
+{"kind":"textbox","id":"sh/yxsnixsj","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[520,246,40,30]}
+{"kind":"textbox","id":"sh/zy14r294","slide":3,"text":"Capacity","textPreview":"Capacity","textChars":8,"textLines":1,"bbox":[520,294,154,74]}
+{"kind":"shape","id":"sh/8na5orql","slide":3,"bbox":[724,228,190,170]}
+{"kind":"textbox","id":"sh/9o36hcr6","slide":3,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[742,246,40,30]}
+{"kind":"textbox","id":"sh/mlsnmhsf","slide":3,"text":"Action owner","textPreview":"Action owner","textChars":12,"textLines":1,"bbox":[742,294,154,74]}
+{"kind":"shape","id":"sh/nm1ofm90","slide":3,"bbox":[946,228,190,170]}
+{"kind":"textbox","id":"sh/wru5srqh","slide":3,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[964,246,40,30]}
+{"kind":"textbox","id":"sh/xs36lwr2","slide":3,"text":"Closure","textPreview":"Closure","textChars":7,"textLines":1,"bbox":[964,294,154,74]}
+{"kind":"textbox","id":"sh/5wfepsfa","slide":3,"text":"Each control must be explicit, reviewable, and owned.","textPreview":"Each control must be explicit, reviewable, and owned.","textChars":53,"textLines":1,"bbox":[58,470,1100,45]}
+{"kind":"notes","id":"nt/v9t83z","slide":3,"text":"These five controls form one operating chain. We begin with verified signal, move through severity and capacity, and finish with action owner and closure. Every control must be explicit, reviewable, and owned.\n\n[Sources]\n- Canonical notebook V7_B_N13, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/88bj20","slide":4,"title":"SRAI BOOK 7  |  V7_B_N13","textShapes":8}
+{"kind":"textbox","id":"sh/kzu9k3e5","slide":4,"text":"SRAI BOOK 7  |  V7_B_N13","textPreview":"SRAI BOOK 7  |  V7_B_N13","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/jylsbyx0","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/ixcritwf","slide":4,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/t4nahsf2","slide":4,"text":"A worked example separates support from authority","textPreview":"A worked example separates support from authority","textChars":49,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"shape","id":"sh/s3e9oneh","slide":4,"bbox":[58,190,700,260]}
+{"kind":"textbox","id":"sh/725sfixw","slide":4,"text":"ILLUSTRATIVE APPLICATION","textPreview":"ILLUSTRATIVE APPLICATION","textChars":24,"textLines":1,"bbox":[88,220,620,28]}
+{"kind":"textbox","id":"sh/61wrmdwb","slide":4,"text":"An incident brief links severity, resources, owners, review times, and escalation.","textPreview":"An incident brief links severity, resources, owners, review times, and escalation.","textChars":82,"textLines":1,"bbox":[88,280,630,110]}
+{"kind":"shape","id":"sh/98ja5ofi","slide":4,"bbox":[825,190,335,260]}
+{"kind":"textbox","id":"sh/87a9cjed","slide":4,"text":"THE SYSTEM MAY","textPreview":"THE SYSTEM MAY","textChars":14,"textLines":1,"bbox":[855,220,275,28]}
+{"kind":"textbox","id":"sh/elsfihcr","slide":4,"text":"Generate evidence\nFlag uncertainty\nRoute authorized review","textPreview":"Generate evidence | Flag uncertainty | Route authorized review","textChars":58,"textLines":3,"bbox":[855,270,270,105]}
+{"kind":"textbox","id":"sh/zm1grmtc","slide":4,"text":"It may not authorize the consequential action.","textPreview":"It may not authorize the consequential action.","textChars":46,"textLines":1,"bbox":[855,390,270,44]}
+{"kind":"notes","id":"nt/88bj20","slide":4,"text":"Consider this health example. An incident brief links severity, resources, owners, review times, and escalation. The platform may organize evidence, flag uncertainty, and route a case for authorized review. It may not take the consequential action on its own.\n\n[Sources]\n- Canonical notebook V7_B_N13, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/m2epi9","slide":5,"title":"SRAI BOOK 7  |  V7_B_N13","textShapes":12}
+{"kind":"textbox","id":"sh/6xoz6pgb","slide":5,"text":"SRAI BOOK 7  |  V7_B_N13","textPreview":"SRAI BOOK 7  |  V7_B_N13","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/t0fi14zm","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/8z6h8zyh","slide":5,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/vmx03ehs","slide":5,"text":"The notebook turns governance into executable checks","textPreview":"The notebook turns governance into executable checks","textChars":52,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"textbox","id":"sh/u1oza9g7","slide":5,"text":"Build and validate an emergency decision brief and operating queue.","textPreview":"Build and validate an emergency decision brief and operating queue.","textChars":67,"textLines":1,"bbox":[58,188,1050,65]}
+{"kind":"shape","id":"sh/hozi54zy","slide":5,"bbox":[58,320,245,150]}
+{"kind":"textbox","id":"sh/gnq1czyd","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[76,340,40,30]}
+{"kind":"textbox","id":"sh/bqd0raho","slide":5,"text":"Inspect synthetic evidence","textPreview":"Inspect synthetic evidence","textChars":26,"textLines":1,"bbox":[76,386,205,62]}
+{"kind":"shape","id":"sh/a54zy5g3","slide":5,"bbox":[338,320,245,150]}
+{"kind":"textbox","id":"sh/43m1obe1","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[356,340,40,30]}
+{"kind":"textbox","id":"sh/54vixgvm","slide":5,"text":"Run the contract or gate","textPreview":"Run the contract or gate","textChars":24,"textLines":1,"bbox":[356,386,205,62]}
+{"kind":"shape","id":"sh/i1kjm1wv","slide":5,"bbox":[618,320,245,150]}
+{"kind":"textbox","id":"sh/32d0v6dg","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[636,340,40,30]}
+{"kind":"textbox","id":"sh/s7m1svex","slide":5,"text":"Interpret uncertainty","textPreview":"Interpret uncertainty","textChars":21,"textLines":1,"bbox":[636,386,205,62]}
+{"kind":"shape","id":"sh/d8v21gvi","slide":5,"bbox":[898,320,245,150]}
+{"kind":"textbox","id":"sh/q54jqlw7","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[916,340,40,30]}
+{"kind":"textbox","id":"sh/r6dkzqdc","slide":5,"text":"Write an abstention case","textPreview":"Write an abstention case","textChars":24,"textLines":1,"bbox":[916,386,205,62]}
+{"kind":"notes","id":"nt/m2epi9","slide":5,"text":"The notebook converts the lesson into executable evidence. Build and validate an emergency decision brief and operating queue. As you review the saved outputs, focus on what the evidence supports, what remains uncertain, and the condition that requires abstention or escalation.\n\n[Sources]\n- Canonical notebook V7_B_N13, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/j0jkfx","slide":6,"title":"SRAI BOOK 7  |  V7_B_N13","textShapes":12}
+{"kind":"textbox","id":"sh/vul0fqtg","slide":6,"text":"SRAI BOOK 7  |  V7_B_N13","textPreview":"SRAI BOOK 7  |  V7_B_N13","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/wvuhova1","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/xw3ih0bm","slide":6,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/ixczq5s7","slide":6,"text":"Transfer the contract to another sector","textPreview":"Transfer the contract to another sector","textChars":39,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"textbox","id":"sh/jyl0jqts","slide":6,"text":"Choose health, education, agriculture, or habitat.","textPreview":"Choose health, education, agriculture, or habitat.","textChars":50,"textLines":1,"bbox":[58,190,1050,40]}
+{"kind":"textbox","id":"sh/kjehsvad","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[58,275,45,38]}
+{"kind":"textbox","id":"sh/5knil0by","slide":6,"text":"Name the decision owner and lawful action.","textPreview":"Name the decision owner and lawful action.","textChars":42,"textLines":1,"bbox":[116,272,800,38]}
+{"kind":"textbox","id":"sh/6lwzu5s3","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[58,345,45,38]}
+{"kind":"textbox","id":"sh/7m50nato","slide":6,"text":"Define the evidence, horizon, and failure conditions.","textPreview":"Define the evidence, horizon, and failure conditions.","textChars":53,"textLines":1,"bbox":[116,342,800,38]}
+{"kind":"textbox","id":"sh/vml4bex0","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[58,415,45,38]}
+{"kind":"textbox","id":"sh/ulc3itgf","slide":6,"text":"State when to abstain, escalate, monitor, and retire.","textPreview":"State when to abstain, escalate, monitor, and retire.","textChars":53,"textLines":1,"bbox":[116,412,800,38]}
+{"kind":"shape","id":"sh/ho3mdof6","slide":6,"bbox":[930,252,230,230]}
+{"kind":"textbox","id":"sh/gnulkjyl","slide":6,"text":"SUCCESS","textPreview":"SUCCESS","textChars":7,"textLines":1,"bbox":[960,280,170,28]}
+{"kind":"textbox","id":"sh/7ilk7ex4","slide":6,"text":"A reviewer can see\nwhat the system knows,\nwhat it cannot decide,\nand who remains accountable.","textPreview":"A reviewer can see | what the system knows, | what it cannot decide, | and who remains accountable.","textChars":93,"textLines":4,"bbox":[958,330,175,120]}
+{"kind":"notes","id":"nt/j0jkfx","slide":6,"text":"Now transfer the contract to a new health-service case. Name the decision owner and lawful action. Define the evidence, horizon, and failure conditions. Then state when the system must abstain, escalate, be monitored, or be retired. A strong answer keeps human authority visible.\n\n[Sources]\n- Canonical notebook V7_B_N13, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/f1n1bu","slide":7,"title":"SRAI BOOK 7  |  V7_B_N13","textShapes":7}
+{"kind":"textbox","id":"sh/50r6h0z2","slide":7,"text":"SRAI BOOK 7  |  V7_B_N13","textPreview":"SRAI BOOK 7  |  V7_B_N13","textChars":24,"textLines":1,"bbox":[58,28,520,24]}
+{"kind":"textbox","id":"sh/ix07ml0b","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1150,650,50,24]}
+{"kind":"shape","id":"sh/3y9ofqhw","slide":7,"bbox":[58,64,1164,1]}
+{"kind":"textbox","id":"sh/s32psfid","slide":7,"text":"Guardrails are part of the analytical specification","textPreview":"Guardrails are part of the analytical specification","textChars":51,"textLines":1,"bbox":[58,94,1100,52]}
+{"kind":"shape","id":"sh/d4b6l0zy","slide":7,"bbox":[58,190,500,300]}
+{"kind":"textbox","id":"sh/q107q50n","slide":7,"text":"REQUIRED","textPreview":"REQUIRED","textChars":8,"textLines":1,"bbox":[86,220,440,28]}
+{"kind":"textbox","id":"sh/r29ojah8","slide":7,"text":"Evidence provenance\nVisible uncertainty\nHuman review and override\nIncident and retirement path","textPreview":"Evidence provenance | Visible uncertainty | Human review and override | Incident and retirement path","textChars":94,"textLines":4,"bbox":[86,274,420,155]}
+{"kind":"shape","id":"sh/072pwfyp","slide":7,"bbox":[660,190,500,300]}
+{"kind":"textbox","id":"sh/1sb6pkza","slide":7,"text":"PROHIBITED","textPreview":"PROHIBITED","textChars":10,"textLines":1,"bbox":[688,220,440,28]}
+{"kind":"textbox","id":"sh/50zql0vu","slide":7,"text":"Silent delegation of authority\nAutomatic consequential action\nUnknown-code coercion\nFalse precision when evidence fails","textPreview":"Silent delegation of authority | Automatic consequential action | Unknown-code coercion | False precision when evidence fails","textChars":119,"textLines":4,"bbox":[688,274,420,155]}
+{"kind":"notes","id":"nt/f1n1bu","slide":7,"text":"These guardrails are functional requirements. Evidence provenance must be preserved. Uncertainty must be visible. Human review, override, incident response, and retirement must be defined. Silent delegation, automatic consequential action, and false precision are not acceptable.\n\n[Sources]\n- Canonical notebook V7_B_N13, SRAI Book 7 v1.0."}
+{"kind":"slide","id":"sl/qg8b7p","slide":8,"title":"Before deployment, ask five questions","textShapes":12}
+{"kind":"textbox","id":"sh/p4za10be","slide":8,"text":"Before deployment, ask five questions","textPreview":"Before deployment, ask five questions","textChars":37,"textLines":1,"bbox":[58,86,1100,60]}
+{"kind":"textbox","id":"sh/218rqlsn","slide":8,"text":"1.","textPreview":"1.","textChars":2,"textLines":1,"bbox":[58,190,50,34]}
+{"kind":"textbox","id":"sh/32hszqt8","slide":8,"text":"Verified signal","textPreview":"Verified signal","textChars":15,"textLines":1,"bbox":[118,186,900,40]}
+{"kind":"textbox","id":"sh/cra9wvap","slide":8,"text":"2.","textPreview":"2.","textChars":2,"textLines":1,"bbox":[58,256,50,34]}
+{"kind":"textbox","id":"sh/dsja50ba","slide":8,"text":"Severity","textPreview":"Severity","textChars":8,"textLines":1,"bbox":[118,252,900,40]}
+{"kind":"textbox","id":"sh/q58rulsj","slide":8,"text":"3.","textPreview":"3.","textChars":2,"textLines":1,"bbox":[58,322,50,34]}
+{"kind":"textbox","id":"sh/bq1s3qt4","slide":8,"text":"Capacity","textPreview":"Capacity","textChars":8,"textLines":1,"bbox":[118,318,900,40]}
+{"kind":"textbox","id":"sh/0va90fa1","slide":8,"text":"4.","textPreview":"4.","textChars":2,"textLines":1,"bbox":[58,388,50,34]}
+{"kind":"textbox","id":"sh/lwja9kb6","slide":8,"text":"Action owner","textPreview":"Action owner","textChars":12,"textLines":1,"bbox":[118,384,900,40]}
+{"kind":"textbox","id":"sh/5czqdkji","slide":8,"text":"5.","textPreview":"5.","textChars":2,"textLines":1,"bbox":[58,454,50,34]}
+{"kind":"textbox","id":"sh/kbqpkz2x","slide":8,"text":"Closure","textPreview":"Closure","textChars":7,"textLines":1,"bbox":[118,450,900,40]}
+{"kind":"textbox","id":"sh/jah8bu1c","slide":8,"text":"If one critical answer is missing, pause and refer for review.","textPreview":"If one critical answer is missing, pause and refer for review.","textChars":62,"textLines":1,"bbox":[58,568,1050,44]}
+{"kind":"notes","id":"nt/qg8b7p","slide":8,"text":"Before deployment, ask five questions. Is verified signal clear? Is severity documented? Is capacity testable? Is action owner governed? And is closure explicit? If one critical answer is missing, pause and refer the system for review.\n\n[Sources]\n- Canonical notebook V7_B_N13, SRAI Book 7 v1.0."}

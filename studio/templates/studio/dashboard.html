@@ -1,0 +1,13 @@
+{% extends "studio/base.html" %}{% block content %}
+<h1>Executive dashboard</h1>
+<div class="grid">
+<div class="card"><div class="metric">{{ total_units }}</div><div class="muted">Production Units</div></div>
+<div class="card"><div class="metric">{{ gold_units }}</div><div class="muted">Gold Standard</div></div>
+<div class="card"><div class="metric">{{ units_in_review }}</div><div class="muted">In review</div></div>
+<div class="card"><div class="metric">{{ overdue_tasks }}</div><div class="muted">Overdue tasks</div></div>
+<div class="card"><div class="metric">{{ release_ready_units }}</div><div class="muted">Release-ready</div></div>
+<div class="card"><div class="metric">{{ average_completion|floatformat:1 }}%</div><div class="muted">Average completion</div></div>
+</div>
+<div class="card"><h2>Workflow states</h2><table><tr><th>State</th><th>Units</th></tr>
+{% for row in workflow_counts %}<tr><td>{{ row.workflow_state }}</td><td>{{ row.total }}</td></tr>{% endfor %}</table></div>
+{% endblock %}
