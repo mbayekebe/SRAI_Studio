@@ -1,4 +1,4 @@
-{% extends "studio/base.html" %}{% block content %}<h1>{{ unit.code }}</h1><p>{{ unit.chapter.title }} · {{ unit.get_workflow_state_display }}</p>
+{% extends "studio/base.html" %}{% block content %}<h1>{{ unit.code }}</h1><p>{{ unit.display_title }} · {{ unit.programme_family }} · {{ unit.get_workflow_state_display }}</p>
 <div class="grid"><div class="card"><div class="metric">{{ unit.completion_percentage }}%</div><div>Completion</div></div>
 <div class="card"><div class="metric">{% if unit.release_ready %}Yes{% else %}No{% endif %}</div><div>Release-ready</div></div></div>
 <div class="card"><h2>Gold Standard assets</h2><table><tr><th>Family</th><th>Asset</th><th>Status</th><th>Weight</th></tr>

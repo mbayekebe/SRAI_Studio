@@ -3,7 +3,7 @@ from django.contrib.auth import get_user_model
 from django.core.management import call_command
 from django.urls import reverse
 
-from .models import Book, ProductionAsset, ProductionUnit, Release
+from .models import Book, Pathway, ProductionAsset, ProductionUnit, Publication, Release
 
 
 @pytest.fixture
@@ -77,3 +77,30 @@ def test_full_catalog_import(settings):
     assert ProductionUnit.objects.count() == 250
     assert ProductionAsset.objects.count() == 250 * 7
     assert Book.objects.get(code="B09").title == "AI Transformation and Executive Leadership"
+
+
+@pytest.mark.django_db
+def test_pathway_catalog_import_is_idempotent():
+    call_command("import_pathway_catalog")
+    call_command("import_pathway_catalog")
+    assert Pathway.objects.count() == 2
+    assert ProductionUnit.objects.filter(pathway__isnull=False).count() == 4
+    assert set(ProductionUnit.objects.filter(pathway__isnull=False).values_list("code", flat=True)) == {
+        "EP-M01", "EP-M02", "EP-M03", "OS-A01"
+    }
+    assert Publication.objects.filter(production_unit__pathway__isnull=False).count() == 7
+
+
+@pytest.mark.django_db
+def test_pathway_pages_and_filters(client_logged_in):
+    call_command("import_pathway_catalog")
+    response = client_logged_in.get(reverse("dashboard"))
+    assert response.status_code == 200
+    assert b"Official Statistics &amp; AI" in response.content
+    response = client_logged_in.get(reverse("production_units"), {"family": "OS"})
+    assert b"OS-A01" in response.content
+    assert b"EP-M01" not in response.content
+    unit = ProductionUnit.objects.get(code="EP-M01")
+    response = client_logged_in.get(reverse("production_unit_detail", args=[unit.pk]))
+    assert response.status_code == 200
+    assert b"Making a Defensible AI Decision" in response.content

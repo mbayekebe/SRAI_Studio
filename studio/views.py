@@ -3,12 +3,12 @@ from django.db.models import Avg, Count, Q
 from django.shortcuts import get_object_or_404, render
 from django.utils import timezone
 
-from .models import Book, ProductionTask, ProductionUnit, Release
+from .models import Book, Pathway, ProductionTask, ProductionUnit, Release
 
 
 @login_required
 def dashboard(request):
-    units = ProductionUnit.objects.select_related("chapter__book")
+    units = ProductionUnit.objects.select_related("chapter__book", "pathway")
     context = {
         "total_units": units.count(),
         "gold_units": units.filter(gold_standard=True).count(),
@@ -18,6 +18,9 @@ def dashboard(request):
         "average_completion": units.aggregate(value=Avg("completion_percentage"))["value"] or 0,
         "workflow_counts": units.values("workflow_state").annotate(total=Count("id")).order_by("workflow_state"),
         "books": Book.objects.annotate(unit_count=Count("chapters__production_unit")).order_by("sequence"),
+        "pathways": Pathway.objects.annotate(unit_count=Count("modules")).order_by("sequence"),
+        "professional_units": units.filter(chapter__isnull=False).count(),
+        "pathway_units": units.filter(pathway__isnull=False).count(),
     }
     return render(request, "studio/dashboard.html", context)
 
@@ -25,22 +28,31 @@ def dashboard(request):
 @login_required
 def curriculum(request):
     books = Book.objects.prefetch_related("chapters__notebook", "chapters__production_unit")
-    return render(request, "studio/curriculum.html", {"books": books})
+    pathways = Pathway.objects.prefetch_related("modules")
+    return render(request, "studio/curriculum.html", {"books": books, "pathways": pathways})
 
 
 @login_required
 def production_units(request):
-    units = ProductionUnit.objects.select_related("chapter__book", "owner")
+    units = ProductionUnit.objects.select_related("chapter__book", "pathway", "owner")
     state = request.GET.get("state")
+    family = request.GET.get("family")
     if state:
         units = units.filter(workflow_state=state)
-    return render(request, "studio/production_units.html", {"units": units, "states": ProductionUnit.STATES})
+    if family == "professional":
+        units = units.filter(chapter__isnull=False)
+    elif family:
+        units = units.filter(pathway__code=family)
+    return render(request, "studio/production_units.html", {
+        "units": units, "states": ProductionUnit.STATES,
+        "pathways": Pathway.objects.all(), "selected_family": family,
+    })
 
 
 @login_required
 def production_unit_detail(request, pk):
     unit = get_object_or_404(
-        ProductionUnit.objects.select_related("chapter__book", "owner").prefetch_related(
+        ProductionUnit.objects.select_related("chapter__book", "pathway", "owner").prefetch_related(
             "assets__asset_type", "tasks", "reviews", "publications"
         ),
         pk=pk,

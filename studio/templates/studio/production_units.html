@@ -1,6 +1,8 @@
 {% extends "studio/base.html" %}{% block content %}<h1>Production Units</h1>
-<table><tr><th>Code</th><th>Chapter</th><th>State</th><th>Completion</th><th>Next action</th></tr>
+<p><a href="?">All</a> · <a href="?family=professional">Professional Programme</a>
+{% for pathway in pathways %} · <a href="?family={{ pathway.code }}">{{ pathway.title }}</a>{% endfor %}</p>
+<table><tr><th>Code</th><th>Programme</th><th>Title</th><th>State</th><th>Completion</th><th>Next action</th></tr>
 {% for unit in units %}<tr><td><a href="{% url 'production_unit_detail' unit.pk %}">{{ unit.code }}</a></td>
-<td>{{ unit.chapter.title }}</td><td><span class="badge">{{ unit.get_workflow_state_display }}</span></td>
+<td>{{ unit.programme_family }}</td><td>{{ unit.display_title }}</td><td><span class="badge">{{ unit.get_workflow_state_display }}</span></td>
 <td>{% if unit.gold_standard %}<span class="gold">★</span>{% endif %} {{ unit.completion_percentage }}%</td><td>{{ unit.next_action }}</td></tr>{% endfor %}</table>
 {% endblock %}

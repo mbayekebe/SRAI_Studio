@@ -20,6 +20,22 @@ class Book(models.Model):
         return f"{self.code} — {self.title}"
 
 
+class Pathway(models.Model):
+    code = models.CharField(max_length=20, unique=True)
+    title = models.CharField(max_length=255)
+    slug = models.SlugField(unique=True)
+    description = models.TextField(blank=True)
+    status = models.CharField(max_length=30, default="active")
+    sequence = models.PositiveIntegerField(default=1)
+    public_url = models.URLField(blank=True)
+
+    class Meta:
+        ordering = ["sequence", "code"]
+
+    def __str__(self):
+        return f"{self.code} — {self.title}"
+
+
 class Chapter(models.Model):
     book = models.ForeignKey(Book, on_delete=models.CASCADE, related_name="chapters")
     code = models.CharField(max_length=30, unique=True)
@@ -65,7 +81,17 @@ class ProductionUnit(models.Model):
         ("published", "Published"), ("revised", "Revised"),
     ]
     PRIORITIES = [("low", "Low"), ("normal", "Normal"), ("high", "High"), ("urgent", "Urgent")]
-    chapter = models.OneToOneField(Chapter, on_delete=models.CASCADE, related_name="production_unit")
+    chapter = models.OneToOneField(
+        Chapter, null=True, blank=True, on_delete=models.CASCADE, related_name="production_unit"
+    )
+    pathway = models.ForeignKey(
+        Pathway, null=True, blank=True, on_delete=models.CASCADE, related_name="modules"
+    )
+    module_number = models.PositiveIntegerField(null=True, blank=True)
+    title = models.CharField(max_length=255, blank=True)
+    slug = models.SlugField(blank=True)
+    summary = models.TextField(blank=True)
+    estimated_study_minutes = models.PositiveIntegerField(default=60)
     code = models.CharField(max_length=40, unique=True)
     workflow_state = models.CharField(max_length=30, choices=STATES, default="planned")
     priority = models.CharField(max_length=20, choices=PRIORITIES, default="normal")
@@ -75,6 +101,22 @@ class ProductionUnit(models.Model):
     gold_standard = models.BooleanField(default=False)
     next_action = models.CharField(max_length=255, blank=True)
     notes = models.TextField(blank=True)
+
+    class Meta:
+        constraints = [
+            models.CheckConstraint(
+                condition=(
+                    models.Q(chapter__isnull=False, pathway__isnull=True)
+                    | models.Q(chapter__isnull=True, pathway__isnull=False)
+                ),
+                name="unit_has_exactly_one_parent",
+            ),
+            models.UniqueConstraint(
+                fields=["pathway", "module_number"],
+                condition=models.Q(pathway__isnull=False),
+                name="unique_pathway_module_number",
+            ),
+        ]
 
     def recalculate_completion(self, save=True):
         assets = self.assets.select_related("asset_type")
@@ -89,6 +131,18 @@ class ProductionUnit(models.Model):
         if save:
             self.save(update_fields=["completion_percentage", "gold_standard"])
         return self.completion_percentage
+
+    @property
+    def display_title(self):
+        return self.chapter.title if self.chapter_id else self.title
+
+    @property
+    def programme_family(self):
+        return self.pathway.title if self.pathway_id else "Professional Programme"
+
+    @property
+    def parent_code(self):
+        return self.pathway.code if self.pathway_id else self.chapter.book.code
 
     @property
     def release_ready(self):
