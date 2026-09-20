@@ -7,7 +7,13 @@
 <div class="card"><div class="metric">{{ overdue_tasks }}</div><div class="muted">Overdue tasks</div></div>
 <div class="card"><div class="metric">{{ release_ready_units }}</div><div class="muted">Release-ready</div></div>
 <div class="card"><div class="metric">{{ average_completion|floatformat:1 }}%</div><div class="muted">Average completion</div></div>
+<div class="card"><div class="metric">{{ professional_units }}</div><div class="muted">Professional Programme</div></div>
+<div class="card"><div class="metric">{{ pathway_units }}</div><div class="muted">Pathway modules</div></div>
 </div>
+<div class="card"><h2>Specialized pathways</h2><table><tr><th>Pathway</th><th>Modules</th><th>Public page</th></tr>
+{% for pathway in pathways %}<tr><td>{{ pathway.title }}</td><td>{{ pathway.unit_count }}</td>
+<td>{% if pathway.public_url %}<a href="{{ pathway.public_url }}">Open</a>{% else %}—{% endif %}</td></tr>
+{% empty %}<tr><td colspan="3">No specialized pathways registered.</td></tr>{% endfor %}</table></div>
 <div class="card"><h2>Workflow states</h2><table><tr><th>State</th><th>Units</th></tr>
 {% for row in workflow_counts %}<tr><td>{{ row.workflow_state }}</td><td>{{ row.total }}</td></tr>{% endfor %}</table></div>
 {% endblock %}
