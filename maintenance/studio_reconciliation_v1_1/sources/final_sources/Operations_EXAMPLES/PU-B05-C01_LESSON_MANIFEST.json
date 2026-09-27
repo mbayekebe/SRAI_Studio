@@ -1,0 +1,82 @@
+{
+    "schema_version":  "0.2.0",
+    "production_unit":  {
+                            "code":  "PU-B05-C01",
+                            "book_number":  5,
+                            "chapter_number":  1,
+                            "title":  "MLOps Foundations",
+                            "slug":  "pu-b05-c01",
+                            "status":  "released",
+                            "version":  "0.1.1",
+                            "owner":  "Mbaye Kebe",
+                            "approver":  "Mbaye Kebe"
+                        },
+    "source_assets":  {
+                          "chapter_source":  "production-units/PU-B05-C01/lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.docx",
+                          "notebook":  "production-units/PU-B05-C01/notebook/V5_N01_mlops_foundations.ipynb",
+                          "student_assessment_source":  "production-units/PU-B05-C01/assessment/PU-B05-C01_Exercises_v0.1.docx",
+                          "solutions_source":  "production-units/PU-B05-C01/assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.docx",
+                          "executive_brief_source":  "production-units/PU-B05-C01/executive/PU-B05-C01_Executive_Brief_v0.1.docx",
+                          "video_source":  "production-units/PU-B05-C01/slides/PU-B05-C01_MLOps_Foundations_Lesson_Presentation_v0.1.pptx"
+                      },
+    "controlled_assets":  {
+                              "chapter_pdf":  "production-units/PU-B05-C01/lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.pdf",
+                              "student_assessment_pdf":  "production-units/PU-B05-C01/assessment/PU-B05-C01_Exercises_v0.1.pdf",
+                              "solutions_pdf":  "production-units/PU-B05-C01/assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+                              "executive_brief_pdf":  "production-units/PU-B05-C01/executive/PU-B05-C01_Executive_Brief_v0.1.pdf",
+                              "controlled_asset_count":  42,
+                              "installed_checksum_count":  41,
+                              "release_zip":  "PU-B05-C01_Public_Release_v0.1.1.zip",
+                              "release_zip_sha256":  "96f2ed1965548f91e827e3d6c36b9d08e87893842c2d0dbd9924955b87a51e46"
+                          },
+    "git":  {
+                "book_repository":  "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering",
+                "release_commit":  "4e3f875a03f3e5db801eb54f6bf7a91b0d861431",
+                "release_tag":  "pu-b05-c01-v0.1.1",
+                "release_url":  "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering/releases/tag/pu-b05-c01-v0.1.1",
+                "website_repository":  "https://github.com/mbayekebe/SRAI_Public_Website",
+                "website_merge_commit":  "7c1791fc28327ab9cf88c8b949571cb44ae9ca92"
+            },
+    "publication":  {
+                        "youtube_id":  "H4iQtad7-SQ",
+                        "youtube_url":  "https://www.youtube.com/watch?v=H4iQtad7-SQ",
+                        "youtube_visibility":  "unlisted_owner_confirmed",
+                        "youtube_embedding":  "enabled_and_verified",
+                        "youtube_caption_status":  "not_reported",
+                        "website_route":  "/learn/pu-b05-c01/",
+                        "website_url":  "https://srai.mbayekebe.net/learn/pu-b05-c01/",
+                        "linkedin_announcement_url":  "https://lnkd.in/p/d4Z68b5V",
+                        "linkedin_executive_url":  "https://lnkd.in/p/dY-PRe37"
+                    },
+    "validation":  {
+                       "controlled_assets":  "42 public release archive entries",
+                       "installed_checksums":  "41/41 recorded and verified",
+                       "notebook_execution":  "pass in VS Code and Google Colab; owner confirmed",
+                       "website_tests":  "43/43 pass",
+                       "production_http":  "homepage and lesson endpoint HTTP 200 pass",
+                       "live_content":  "automated production content-link checks pass",
+                       "controlled_links":  "four PDF links, Colab and video links verified",
+                       "visual_review":  "local page and PDF assets pass owner confirmed",
+                       "embedded_video":  "pass owner confirmed"
+                   },
+    "evidence":  {
+                     "closeout_record":  "EVIDENCE/PU-B05-C01_ECOSYSTEM_PUBLICATION.json",
+                     "approved_at":  "2026-09-15",
+                     "published_at":  "2026-09-15",
+                     "notes":  [
+                                   "Owner approved the lesson, notebook, exercises, solutions, executive brief, presentation and publication workflow.",
+                                   "The notebook ran successfully in VS Code and Google Colab.",
+                                   "The public GitHub v0.1.1 release includes the 42-entry archive and checksum asset.",
+                                   "Forty-three Django catalogue tests passed.",
+                                   "Migrations 0019 and 0020 were applied to PostgreSQL srai_db.",
+                                   "A pre-deployment PostgreSQL backup was created.",
+                                   "The production homepage and PU-B05-C01 endpoint returned HTTP 200.",
+                                   "The controlled lesson, assessment, solutions and executive brief use browser-readable PDFs.",
+                                   "The LinkedIn technical announcement and executive post were published.",
+                                   "Owner-authorized publication; independent review was not performed or claimed."
+                               ]
+                 },
+    "production_status":  "published",
+    "next_authorized_gate":  "closed",
+    "communications_status":  "closed_owner_confirmed"
+}

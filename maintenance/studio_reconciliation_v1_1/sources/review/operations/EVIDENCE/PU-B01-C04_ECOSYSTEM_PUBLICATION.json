@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2.0",
+  "production_unit": "PU-B01-C04",
+  "reconciliation_date": "2026-09-11",
+  "status": "published",
+  "evidence_status": "reported",
+  "release": {
+    "repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations",
+    "commit": "5e22003757623890f01c862af3caf86c1bdaba6a",
+    "tag": "pu-b01-c04-v1.0.0",
+    "url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c04-v1.0.0",
+    "zip": "PU-B01-C04_GitHub_Repository_v1.0.0.zip",
+    "sha256": "b3714af177d7164fb08f92b2fbf163aa3905229fc1f1711aba6ec44565c50675",
+    "verification": "recorded_verified"
+  },
+  "website": {"url": "https://srai.mbayekebe.net/learn/pu-b01-c04/", "commit": "b140219", "status": "owner_verified"},
+  "video": {"id": "IBTHb6iWROk", "url": "https://www.youtube.com/watch?v=IBTHb6iWROk", "status": "public", "captions": "automatic_generation_pending"},
+  "communications": {"announcement": "https://lnkd.in/p/dmxwGrgJ", "executive_post": "https://lnkd.in/p/d9_fP9p3", "status": "recorded"},
+  "validation": {"local_notebook": "environment_blocked", "colab_notebook": "13/13 code cells pass", "controlled_pdfs": "pass", "release_package": "pass", "website_tests": "pass", "production_http": "pass", "visual_review": "pass"},
+  "independent_review": {"status": "pass", "reviewer": "Aliou Diouf", "review_date": "2026-08-31"},
+  "nonblocking_followups": ["Reverify YouTube caption availability and accuracy.", "LinkedIn URLs were retained from the approved lesson manifest and were not reopened during this reconciliation."],
+  "provenance": "Reconstructed from the registry and EXAMPLES/PU-B01-C04_LESSON_MANIFEST.json; historical reported status preserved."
+}

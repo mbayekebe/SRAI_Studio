@@ -1,0 +1,10 @@
+{
+  "schema_version": "0.2.0",
+  "production_unit": {"code": "PU-B01-C01", "book_number": 1, "chapter_number": 1, "title": "Mathematical Thinking and Reproducible Computation", "slug": "pu-b01-c01", "status": "published", "version": "1.0.1", "owner": "Mbaye Kebe", "approver": "Mbaye Kebe"},
+  "controlled_assets": {"release_zip": "PU-B01-C01_GitHub_Repository_v1.0.1.zip", "release_zip_sha256": "360651ad54d6e69d6151e5a19b96741db3ede3c43657f42fc07fcb91a9817b48"},
+  "git": {"book_repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations", "release_tag": "pu-b01-c01-v1.0.1", "release_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c01-v1.0.1"},
+  "publication": {"youtube_id": "q4wa_3KRGUo", "youtube_url": "https://www.youtube.com/watch?v=q4wa_3KRGUo", "website_route": "/learn/pu-b01-c01/", "website_url": "https://srai.mbayekebe.net/learn/pu-b01-c01/", "linkedin_announcement_url": null, "linkedin_executive_url": null},
+  "validation": {"release_package": "verified_recorded", "publication_status": "published", "independent_reverification": "not_performed_during_reconciliation"},
+  "evidence": {"closeout_record": "EVIDENCE/PU-B01-C01_ECOSYSTEM_PUBLICATION.json", "reconciled_at": "2026-09-11", "notes": ["Canonical repair release v1.0.1 is the current published version.", "LinkedIn URLs remain to be recorded."]},
+  "production_status": "published"
+}

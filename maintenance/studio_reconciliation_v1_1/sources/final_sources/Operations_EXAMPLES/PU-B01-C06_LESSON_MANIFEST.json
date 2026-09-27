@@ -1,0 +1,76 @@
+{
+  "schema_version": "0.2.0",
+  "production_unit": {
+    "code": "PU-B01-C06",
+    "book_number": 1,
+    "chapter_number": 6,
+    "title": "Eigenvalues, Eigenvectors and Spectral Intuition",
+    "slug": "pu-b01-c06",
+    "status": "released",
+    "version": "1.0.0",
+    "owner": "Mbaye Kebe",
+    "approver": "Mbaye Kebe"
+  },
+  "source_assets": {
+    "chapter_source": "production-units/PU-B01-C06/docs/PU-B01-C06_Chapter6_Controlled_Candidate_v0.1.0.docx",
+    "notebook": "production-units/PU-B01-C06/notebooks/M1/M1_N06_eigenvalues_eigenvectors_spectral_intuition_v0.1.0.ipynb",
+    "exercises_source": "production-units/PU-B01-C06/docs/PU-B01-C06_Exercises_and_Solutions_v0.1.0.docx",
+    "executive_brief_source": "production-units/PU-B01-C06/docs/PU-B01-C06_Executive_Brief_v0.1.0.docx",
+    "video_source": "production-units/PU-B01-C06/slides/PU-B01-C06_Lesson6_Teaching_Deck_v0.1.2.pptx"
+  },
+  "controlled_assets": {
+    "chapter_pdf": "production-units/PU-B01-C06/docs/PU-B01-C06_Chapter6_Controlled_Candidate_v0.1.0.pdf",
+    "exercises_pdf": "production-units/PU-B01-C06/docs/PU-B01-C06_Exercises_and_Solutions_v0.1.0.pdf",
+    "executive_brief_pdf": "production-units/PU-B01-C06/docs/PU-B01-C06_Executive_Brief_v0.1.0.pdf",
+    "release_zip": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/download/pu-b01-c06-v1.0.0/PU-B01-C06_GitHub_Repository_v1.0.0.zip",
+    "release_zip_sha256": "5c76b37e6691b2be910bf056e1b2c9160d785616af0a788139d12b3658fe9def"
+  },
+  "git": {
+    "book_repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations",
+    "release_commit": "9ad4d15debe9c387fb87f4d473479185c5e845e5",
+    "release_tag": "pu-b01-c06-v1.0.0",
+    "release_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c06-v1.0.0",
+    "website_repository": "https://github.com/mbayekebe/SRAI_Public_Website",
+    "website_merge_commit": "7713dc6ab5814686a284f5acefb6eb770828a0c8"
+  },
+  "publication": {
+    "youtube_id": "a3jAhbDX2A0",
+    "youtube_url": "https://www.youtube.com/watch?v=a3jAhbDX2A0",
+    "youtube_visibility": "public",
+    "youtube_caption_language": "English",
+    "youtube_caption_status": "available_owner_confirmed",
+    "website_route": "/learn/pu-b01-c06/",
+    "website_url": "https://srai.mbayekebe.net/learn/pu-b01-c06/",
+    "linkedin_announcement_url": "https://lnkd.in/p/dZ9mdANr",
+    "linkedin_technical_url": "https://lnkd.in/p/dtTrHDMK",
+    "youtube_caption_accuracy_review": "pass_owner_confirmed"
+  },
+  "validation": {
+    "local_notebook": "pass",
+    "colab_notebook": "pass",
+    "controlled_pdfs": "pass",
+    "release_package": "pass",
+    "website_tests": "pass",
+    "production_http": "pass",
+    "visual_review": "pass"
+  },
+  "evidence": {
+    "closeout_record": "EVIDENCE/PU-B01-C06_ECOSYSTEM_PUBLICATION.json",
+    "approved_at": "",
+    "published_at": "2026-09-03",
+    "notes": [
+      "Owner approved the controlled documents and release publication.",
+      "Notebook execution in VS Code and Colab was owner-confirmed.",
+      "Runtime srai_math 1.1.1rc1 is a disclosed, checksum-pinned prerelease accepted by the owner.",
+      "Independent review was not performed or claimed.",
+      "Release ZIP and four tagged public resources matched the approved candidate bytes.",
+      "Thirteen local Django tests passed; migration 0009 was applied and the service was reported active.",
+      "Owner confirmed live page, video, resources and Lesson 5–6 navigation.",
+      "Owner confirmed both LinkedIn posts are published and supplied their URLs; links were not independently reopened.",
+      "Owner confirms captions appear during YouTube playback and mathematical terms are transcribed correctly; no independent caption audit claimed."
+    ]
+  },
+  "production_status": "published",
+  "next_authorized_gate": "closed",
+  "communications_status": "closed_owner_confirmed"
+}

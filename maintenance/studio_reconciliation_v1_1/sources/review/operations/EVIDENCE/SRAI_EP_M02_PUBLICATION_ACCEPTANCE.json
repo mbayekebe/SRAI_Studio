@@ -1,0 +1,44 @@
+{
+    "record_version":  "1.0",
+    "recorded_utc":  "2026-09-17T12:19:19.9725590Z",
+    "status":  "PUBLICATION_CLOSED",
+    "programme":  "SRAI Executive Pathway",
+    "module":  {
+                   "id":  "EP-M02",
+                   "version":  "v0.2",
+                   "title":  "Making Trade-offs Under Risk Explicit",
+                   "url":  "https://srai.mbayekebe.net/executive/modules/module-2/",
+                   "video_url":  "https://youtu.be/bjxj8xN9xNQ",
+                   "video_visibility":  "unlisted_owner_confirmed",
+                   "learner_resources_described":  5,
+                   "executive_tool":  "Value Consequence and Risk Profile",
+                   "production_asset_boundary":  "controlled downloads disabled; private routes return HTTP 404"
+               },
+    "website":  {
+                    "repository":  "mbayekebe/SRAI_Public_Website",
+                    "deployed_commit":  "d724985d5935ad497020b4fdadf99d2b90a2c463",
+                    "pull_requests":  [
+                                          27,
+                                          28,
+                                          29
+                                      ],
+                    "regression_tests":  "57/57 passed",
+                    "functional_checks":  "passed",
+                    "visual_review":  "passed_owner_confirmed"
+                },
+    "communications":  {
+                           "status":  "published_owner_confirmed",
+                           "verification":  "owner_supplied_urls",
+                           "linkedin_posts":  [
+                                                  {
+                                                      "purpose":  "Module 2 educational announcement",
+                                                      "url":  "https://lnkd.in/p/d9tn2PXE"
+                                                  },
+                                                  {
+                                                      "purpose":  "Module 2 executive announcement",
+                                                      "url":  "https://lnkd.in/p/d9nsQfXA"
+                                                  }
+                                              ]
+                       },
+    "closed_utc":  "2026-09-17T12:19:19.9725590Z"
+}

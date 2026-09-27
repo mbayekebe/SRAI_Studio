@@ -1,0 +1,76 @@
+{
+    "record_version":  "1.0",
+    "production_unit":  "PU-B06-C01",
+    "recorded_utc":  "2026-09-16T09:07:33Z",
+    "status":  "PUBLISHED_CLOSED",
+    "release_approver":  "Mbaye Kebe",
+    "independent_review":  "not_performed_owner_authorized_publication",
+    "notebook":  {
+                     "path":  "production-units/PU-B06-C01/notebook/M6_N01_generative_ai_foundations.ipynb",
+                     "sha256":  "0d0a704f28601f6ec7f6310e40e0e46ba57411169667249dc24cde6025b731a2",
+                     "package_validation":  "pass",
+                     "execution_status":  "pass_owner_confirmed",
+                     "total_cells":  37,
+                     "code_cells":  16,
+                     "markdown_cells":  21
+                 },
+    "release":  {
+                    "url":  "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/releases/tag/pu-b06-c01-v0.1.0",
+                    "commit":  "a2f5fcd10d4365b081a4f0470b5d1aa20b5e5660",
+                    "tag":  "pu-b06-c01-v0.1.0",
+                    "manifest_entry_count":  26,
+                    "installed_checksum_count":  27,
+                    "checksum_failures":  0,
+                    "attached_release_archive":  null,
+                    "release_archive_sha256":  null,
+                    "verification":  "Annotated tag, GitHub release, manifest and checksums owner confirmed."
+                },
+    "website":  {
+                    "url":  "https://srai.mbayekebe.net/learn/pu-b06-c01/",
+                    "pull_requests":  [
+                                          25
+                                      ],
+                    "merge_commit":  "14befc9e22a9dc2f002e84695a6ff22f4ebb516f",
+                    "production_deployment_commit":  "18743761b87c05c8d68c476d0ad464464d76a47f",
+                    "local_tests":  "48/48 pass",
+                    "migrations":  [
+                                       "catalog.0021_publish_book6_lesson_01"
+                                   ],
+                    "database":  "PostgreSQL srai_db",
+                    "production_backup":  {
+                                              "status":  "performed",
+                                              "path":  "/srv/srai/backups/pre-b06-epm01-20260916T083732Z.dump"
+                                          },
+                    "rollback_tag":  "pre-b06-epm01-deploy-20260916T083732Z",
+                    "deployment":  "pass_owner_supplied_server_log",
+                    "service":  "active",
+                    "http_status":  200,
+                    "visual_review":  "local_and_production_pass_owner_confirmed",
+                    "live_content_checks":  "automated_production_checks_pass",
+                    "controlled_links":  "five PDFs, notebook and video verified"
+                },
+    "video":  {
+                  "url":  "https://youtu.be/tRexg64h9t0",
+                  "publication_status":  "published_owner_confirmed",
+                  "publication_date":  "2026-09-15",
+                  "playback":  "pass_owner_confirmed",
+                  "embedding":  "enabled_and_live",
+                  "captions":  "not_reported",
+                  "title_thumbnail":  "owner_configured",
+                  "duration":  null,
+                  "duration_seconds":  null,
+                  "presentation_slides":  null
+              },
+    "communications":  {
+                           "announcement":  "https://lnkd.in/p/d9C5arZa",
+                           "executive_post":  "https://lnkd.in/p/d5uvkHyF",
+                           "featured":  "not_recorded",
+                           "status":  "published_owner_confirmed",
+                           "verification":  "Owner supplied both published LinkedIn URLs."
+                       },
+    "nonblocking_followups":  [
+                                  "Confirm YouTube caption availability and synchronization.",
+                                  "Record video duration and presentation slide count.",
+                                  "Record LinkedIn Featured placement if applied."
+                              ]
+}

@@ -1,0 +1,2537 @@
+{
+  "version": "1.1",
+  "units": {
+    "PU-B01-C06": {
+      "title": "Eigenvalues, Eigenvectors and Spectral Intuition",
+      "version": "1.0.0",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B01-C06 - book chapter",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Chapter6_Controlled_Candidate_v0.1.0.pdf",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/blob/pu-b01-c06-v1.0.0/production-units/PU-B01-C06/docs/PU-B01-C06_Chapter6_Controlled_Candidate_v0.1.0.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Chapter6_Controlled_Candidate_v0.1.0.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B01-C06 - notebook",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/notebooks/M1/M1_N06_eigenvalues_eigenvectors_spectral_intuition_v0.1.0.ipynb",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/blob/pu-b01-c06-v1.0.0/production-units/PU-B01-C06/notebooks/M1/M1_N06_eigenvalues_eigenvectors_spectral_intuition_v0.1.0.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/notebooks/M1/M1_N06_eigenvalues_eigenvectors_spectral_intuition_v0.1.0.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B01-C06 - exercises",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Exercises_and_Solutions_v0.1.0.pdf",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/blob/pu-b01-c06-v1.0.0/production-units/PU-B01-C06/docs/PU-B01-C06_Exercises_and_Solutions_v0.1.0.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Exercises_and_Solutions_v0.1.0.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B01-C06 - executive brief",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Executive_Brief_v0.1.0.pdf",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/blob/pu-b01-c06-v1.0.0/production-units/PU-B01-C06/docs/PU-B01-C06_Executive_Brief_v0.1.0.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Executive_Brief_v0.1.0.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B01-C06 - presentation",
+          "status": "approved",
+          "version": "0.1.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/slides/PU-B01-C06_Lesson6_Teaching_Deck_v0.1.2.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/slides/PU-B01-C06_Lesson6_Teaching_Deck_v0.1.2.pptx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B01-C06 - website page",
+          "status": "published",
+          "version": "1.0.0",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b01-c06/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B01-C06 - youtube",
+          "status": "published",
+          "version": "1.0.0",
+          "file_path": "",
+          "public_url": "https://youtu.be/a3jAhbDX2A0",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B01-C06 - github",
+          "status": "published",
+          "version": "1.0.0",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c06-v1.0.0",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B01-C06 - linkedin",
+          "status": "published",
+          "version": "1.0.0",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/dZ9mdANr",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b01-c06/",
+          "version": "1.0.0",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/a3jAhbDX2A0",
+          "version": "1.0.0",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c06-v1.0.0",
+          "version": "1.0.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dZ9mdANr",
+          "version": "1.0.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dtTrHDMK",
+          "version": "1.0.0",
+          "status": "published"
+        }
+      ]
+    },
+    "PU-B01-C07": {
+      "title": "Singular Value Decomposition, PCA, and Dimensionality Reduction",
+      "version": "0.1.0",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B01-C07 - book chapter",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Lesson_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/blob/pu-b01-c07-v0.1.0/production-units/PU-B01-C07/docs/PU-B01-C07_Lesson_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Lesson_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B01-C07 - notebook",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/notebooks/M1_N07_svd_pca_dimensionality_reduction.ipynb",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/blob/pu-b01-c07-v0.1.0/production-units/PU-B01-C07/notebooks/M1_N07_svd_pca_dimensionality_reduction.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/notebooks/M1_N07_svd_pca_dimensionality_reduction.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B01-C07 - exercises",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Exercises_and_Solutions_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/blob/pu-b01-c07-v0.1.0/production-units/PU-B01-C07/docs/PU-B01-C07_Exercises_and_Solutions_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Exercises_and_Solutions_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B01-C07 - executive brief",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Executive_Brief_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/blob/pu-b01-c07-v0.1.0/production-units/PU-B01-C07/docs/PU-B01-C07_Executive_Brief_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Executive_Brief_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B01-C07 - presentation",
+          "status": "approved",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/slides/PU-B01-C07_Lesson_Presentation_v0.1.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/slides/PU-B01-C07_Lesson_Presentation_v0.1.pptx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B01-C07 - website page",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b01-c07/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B01-C07 - youtube",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://youtu.be/nGWG4j2QTMI",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B01-C07 - github",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c07-v0.1.0",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B01-C07 - linkedin",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/dVSPAwDE",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b01-c07/",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/nGWG4j2QTMI",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c07-v0.1.0",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dVSPAwDE",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dRpMGy6n",
+          "version": "0.1.0",
+          "status": "published"
+        }
+      ]
+    },
+    "PU-B02-C01": {
+      "title": "Supervised Learning Foundations",
+      "version": "0.1.1",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B02-C01 - book chapter",
+          "status": "published",
+          "version": "0.3",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/lesson/PU-B02-C01_Supervised_Learning_Foundations_SRAI_v0.3.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_02_Machine_Learning/blob/pu-b02-c01-v0.1.1/production-units/PU-B02-C01/lesson/PU-B02-C01_Supervised_Learning_Foundations_SRAI_v0.3.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/lesson/PU-B02-C01_Supervised_Learning_Foundations_SRAI_v0.3.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B02-C01 - notebook",
+          "status": "published",
+          "version": "0.3",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/notebook/M2_N01_supervised_learning_foundations_SRAI_v0.3.ipynb",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_02_Machine_Learning/blob/pu-b02-c01-v0.1.1/production-units/PU-B02-C01/notebook/M2_N01_supervised_learning_foundations_SRAI_v0.3.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/notebook/M2_N01_supervised_learning_foundations_SRAI_v0.3.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B02-C01 - exercises",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/assessment/PU-B02-C01_Student_Assessment_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_02_Machine_Learning/blob/pu-b02-c01-v0.1.1/production-units/PU-B02-C01/assessment/PU-B02-C01_Student_Assessment_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/assessment/PU-B02-C01_Student_Assessment_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B02-C01 - executive brief",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/executive/PU-B02-C01_Executive_Brief_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_02_Machine_Learning/blob/pu-b02-c01-v0.1.1/production-units/PU-B02-C01/executive/PU-B02-C01_Executive_Brief_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/executive/PU-B02-C01_Executive_Brief_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "instructor_solutions",
+          "title": "PU-B02-C01 - instructor solutions",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/assessment/PU-B02-C01_Instructor_Solutions_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_02_Machine_Learning/blob/pu-b02-c01-v0.1.1/production-units/PU-B02-C01/assessment/PU-B02-C01_Instructor_Solutions_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/assessment/PU-B02-C01_Instructor_Solutions_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B02-C01 - presentation",
+          "status": "approved",
+          "version": "0.4",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/slides/PU-B02-C01_Supervised_Learning_Foundations_Lesson_Presentation_v0.4.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/slides/PU-B02-C01_Supervised_Learning_Foundations_Lesson_Presentation_v0.4.pptx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B02-C01 - website page",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b02-c01/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B02-C01 - youtube",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "",
+          "public_url": "https://youtu.be/P4XVRjUZfIQ",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B02-C01 - github",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_02_Machine_Learning/releases/tag/pu-b02-c01-v0.1.1",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B02-C01 - linkedin",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/dvxRej3P",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b02-c01/",
+          "version": "0.1.1",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/P4XVRjUZfIQ",
+          "version": "0.1.1",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_02_Machine_Learning/releases/tag/pu-b02-c01-v0.1.1",
+          "version": "0.1.1",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dvxRej3P",
+          "version": "0.1.1",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dd7bSiPH",
+          "version": "0.1.1",
+          "status": "published"
+        }
+      ]
+    },
+    "PU-B03-C01": {
+      "title": "Neural Network Foundations",
+      "version": "0.2.1",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B03-C01 - book chapter",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/lesson/PU-B03-C01_Neural_Network_Foundations_Lesson_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/blob/pu-b03-c01-v0.2.1/production-units/PU-B03-C01/lesson/PU-B03-C01_Neural_Network_Foundations_Lesson_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/lesson/PU-B03-C01_Neural_Network_Foundations_Lesson_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B03-C01 - notebook",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/lesson/M3_N01_neural_network_foundations_v0.1.ipynb",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/blob/pu-b03-c01-v0.2.1/production-units/PU-B03-C01/lesson/M3_N01_neural_network_foundations_v0.1.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/lesson/M3_N01_neural_network_foundations_v0.1.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B03-C01 - exercises",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/assessment/PU-B03-C01_Assessment_Book_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/blob/pu-b03-c01-v0.2.1/production-units/PU-B03-C01/assessment/PU-B03-C01_Assessment_Book_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/assessment/PU-B03-C01_Assessment_Book_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B03-C01 - executive brief",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/executive/PU-B03-C01_Executive_Brief_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/blob/pu-b03-c01-v0.2.1/production-units/PU-B03-C01/executive/PU-B03-C01_Executive_Brief_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/executive/PU-B03-C01_Executive_Brief_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "instructor_solutions",
+          "title": "PU-B03-C01 - instructor solutions",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/assessment/PU-B03-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/blob/pu-b03-c01-v0.2.1/production-units/PU-B03-C01/assessment/PU-B03-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/assessment/PU-B03-C01_Solutions_and_Marking_Guide_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B03-C01 - presentation",
+          "status": "approved",
+          "version": "0.1.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/slides/PU-B03-C01_Neural_Network_Foundations_Lesson_Presentation_v0.1.1.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/slides/PU-B03-C01_Neural_Network_Foundations_Lesson_Presentation_v0.1.1.pptx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B03-C01 - website page",
+          "status": "published",
+          "version": "0.2.1",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b03-c01/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B03-C01 - youtube",
+          "status": "published",
+          "version": "0.2.1",
+          "file_path": "",
+          "public_url": "https://youtu.be/Cpd9cPob4QY",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B03-C01 - github",
+          "status": "published",
+          "version": "0.2.1",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/releases/tag/pu-b03-c01-v0.2.1",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B03-C01 - linkedin",
+          "status": "published",
+          "version": "0.2.1",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/dpGB7jkj",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b03-c01/",
+          "version": "0.2.1",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/Cpd9cPob4QY",
+          "version": "0.2.1",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/releases/tag/pu-b03-c01-v0.2.1",
+          "version": "0.2.1",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dpGB7jkj",
+          "version": "0.2.1",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dDvvRPE2",
+          "version": "0.2.1",
+          "status": "published"
+        }
+      ]
+    },
+    "PU-B04-C01": {
+      "title": "Generative AI and LLM Foundations",
+      "version": "0.1.0",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B04-C01 - book chapter",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/lesson/PU-B04-C01_Generative_AI_LLM_Foundations_Controlled_Lesson_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/blob/pu-b04-c01-v0.1.0/production-units/PU-B04-C01/lesson/PU-B04-C01_Generative_AI_LLM_Foundations_Controlled_Lesson_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/lesson/PU-B04-C01_Generative_AI_LLM_Foundations_Controlled_Lesson_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B04-C01 - notebook",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/notebook/PU-B04-C01_Generative_AI_LLM_Foundations_v0.1.ipynb",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/blob/pu-b04-c01-v0.1.0/production-units/PU-B04-C01/notebook/PU-B04-C01_Generative_AI_LLM_Foundations_v0.1.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/notebook/PU-B04-C01_Generative_AI_LLM_Foundations_v0.1.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B04-C01 - exercises",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/assessment/PU-B04-C01_Exercises_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/blob/pu-b04-c01-v0.1.0/production-units/PU-B04-C01/assessment/PU-B04-C01_Exercises_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/assessment/PU-B04-C01_Exercises_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B04-C01 - executive brief",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/executive/PU-B04-C01_Executive_Brief_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/blob/pu-b04-c01-v0.1.0/production-units/PU-B04-C01/executive/PU-B04-C01_Executive_Brief_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/executive/PU-B04-C01_Executive_Brief_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "instructor_solutions",
+          "title": "PU-B04-C01 - instructor solutions",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/assessment/PU-B04-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/blob/pu-b04-c01-v0.1.0/production-units/PU-B04-C01/assessment/PU-B04-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/assessment/PU-B04-C01_Solutions_and_Marking_Guide_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B04-C01 - presentation",
+          "status": "approved",
+          "version": "0.1.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/slides/PU-B04-C01_Generative_AI_LLM_Foundations_Lesson_Presentation_v0.1.2.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/slides/PU-B04-C01_Generative_AI_LLM_Foundations_Lesson_Presentation_v0.1.2.pptx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B04-C01 - website page",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b04-c01/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B04-C01 - youtube",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://youtu.be/cdp_uzccJPU",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B04-C01 - github",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/releases/tag/pu-b04-c01-v0.1.0",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B04-C01 - linkedin",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/dqQ4nWib",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b04-c01/",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/cdp_uzccJPU",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/releases/tag/pu-b04-c01-v0.1.0",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dqQ4nWib",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dWVXgmp4",
+          "version": "0.1.0",
+          "status": "published"
+        }
+      ]
+    },
+    "PU-B05-C01": {
+      "title": "MLOps Foundations",
+      "version": "0.1.1",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B05-C01 - book chapter",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering/blob/pu-b05-c01-v0.1.1/production-units/PU-B05-C01/lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B05-C01 - notebook",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/notebook/V5_N01_mlops_foundations.ipynb",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering/blob/pu-b05-c01-v0.1.1/production-units/PU-B05-C01/notebook/V5_N01_mlops_foundations.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/notebook/V5_N01_mlops_foundations.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B05-C01 - exercises",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/assessment/PU-B05-C01_Exercises_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering/blob/pu-b05-c01-v0.1.1/production-units/PU-B05-C01/assessment/PU-B05-C01_Exercises_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/assessment/PU-B05-C01_Exercises_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B05-C01 - executive brief",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/executive/PU-B05-C01_Executive_Brief_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering/blob/pu-b05-c01-v0.1.1/production-units/PU-B05-C01/executive/PU-B05-C01_Executive_Brief_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/executive/PU-B05-C01_Executive_Brief_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "instructor_solutions",
+          "title": "PU-B05-C01 - instructor solutions",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering/blob/pu-b05-c01-v0.1.1/production-units/PU-B05-C01/assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B05-C01 - presentation",
+          "status": "approved",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/slides/PU-B05-C01_MLOps_Foundations_Lesson_Presentation_v0.1.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/slides/PU-B05-C01_MLOps_Foundations_Lesson_Presentation_v0.1.pptx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B05-C01 - website page",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b05-c01/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B05-C01 - youtube",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "",
+          "public_url": "https://youtu.be/H4iQtad7-SQ",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B05-C01 - github",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering/releases/tag/pu-b05-c01-v0.1.1",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B05-C01 - linkedin",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/d4Z68b5V",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b05-c01/",
+          "version": "0.1.1",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/H4iQtad7-SQ",
+          "version": "0.1.1",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_05_MLOps_and_AI_Engineering/releases/tag/pu-b05-c01-v0.1.1",
+          "version": "0.1.1",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/d4Z68b5V",
+          "version": "0.1.1",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dY-PRe37",
+          "version": "0.1.1",
+          "status": "published"
+        }
+      ]
+    },
+    "PU-B06-C01": {
+      "title": "Foundations of Generative AI",
+      "version": "0.1.0",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B06-C01 - book chapter",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/lesson/PU-B06-C01_Foundations_of_Generative_AI_SRAI_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/blob/pu-b06-c01-v0.1.0/production-units/PU-B06-C01/lesson/PU-B06-C01_Foundations_of_Generative_AI_SRAI_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/lesson/PU-B06-C01_Foundations_of_Generative_AI_SRAI_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B06-C01 - notebook",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/notebook/M6_N01_generative_ai_foundations.ipynb",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/blob/pu-b06-c01-v0.1.0/production-units/PU-B06-C01/notebook/M6_N01_generative_ai_foundations.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/notebook/M6_N01_generative_ai_foundations.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B06-C01 - exercises",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/assessment/PU-B06-C01_Student_Exercises_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/blob/pu-b06-c01-v0.1.0/production-units/PU-B06-C01/assessment/PU-B06-C01_Student_Exercises_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/assessment/PU-B06-C01_Student_Exercises_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B06-C01 - executive brief",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/executive/PU-B06-C01_Executive_Brief_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/blob/pu-b06-c01-v0.1.0/production-units/PU-B06-C01/executive/PU-B06-C01_Executive_Brief_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/executive/PU-B06-C01_Executive_Brief_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "instructor_solutions",
+          "title": "PU-B06-C01 - instructor solutions",
+          "status": "published",
+          "version": "0.1.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/assessment/PU-B06-C01_Instructor_Solutions_v0.1.2.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/blob/pu-b06-c01-v0.1.0/production-units/PU-B06-C01/assessment/PU-B06-C01_Instructor_Solutions_v0.1.2.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/assessment/PU-B06-C01_Instructor_Solutions_v0.1.2.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B06-C01 - presentation",
+          "status": "published",
+          "version": "0.1.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/slides/PU-B06-C01_Foundations_of_Generative_AI_Lesson_Presentation_v0.1.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/slides/PU-B06-C01_Foundations_of_Generative_AI_Lesson_Presentation_v0.1.1.pdf"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B06-C01 - website page",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b06-c01/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B06-C01 - youtube",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://youtu.be/tRexg64h9t0",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B06-C01 - github",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/releases/tag/pu-b06-c01-v0.1.0",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B06-C01 - linkedin",
+          "status": "published",
+          "version": "0.1.0",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/d9C5arZa",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b06-c01/",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/tRexg64h9t0",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/releases/tag/pu-b06-c01-v0.1.0",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/d9C5arZa",
+          "version": "0.1.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/d5uvkHyF",
+          "version": "0.1.0",
+          "status": "published"
+        }
+      ]
+    },
+    "PU-B08-C01": {
+      "title": "Enterprise AI Architecture",
+      "version": "0.4.1",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B08-C01 - book chapter",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/lesson/PU-B08-C01_Enterprise_AI_Architecture_Lesson_v0.2.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/blob/pu-b08-c01-v0.4.1/production-units/PU-B08-C01/lesson/PU-B08-C01_Enterprise_AI_Architecture_Lesson_v0.2.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/lesson/PU-B08-C01_Enterprise_AI_Architecture_Lesson_v0.2.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B08-C01 - notebook",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/notebook/PU-B08-C01_Enterprise_AI_Architecture_Notebook_v0.2.ipynb",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/blob/pu-b08-c01-v0.4.1/production-units/PU-B08-C01/notebook/PU-B08-C01_Enterprise_AI_Architecture_Notebook_v0.2.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/notebook/PU-B08-C01_Enterprise_AI_Architecture_Notebook_v0.2.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B08-C01 - exercises",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/assessment/PU-B08-C01_Exercises_and_Solutions_v0.2.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/blob/pu-b08-c01-v0.4.1/production-units/PU-B08-C01/assessment/PU-B08-C01_Exercises_and_Solutions_v0.2.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/assessment/PU-B08-C01_Exercises_and_Solutions_v0.2.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B08-C01 - executive brief",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/executive/PU-B08-C01_Executive_Brief_v0.2.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/blob/pu-b08-c01-v0.4.1/production-units/PU-B08-C01/executive/PU-B08-C01_Executive_Brief_v0.2.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/executive/PU-B08-C01_Executive_Brief_v0.2.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B08-C01 - presentation",
+          "status": "approved",
+          "version": "0.4",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/slides/PU-B08-C01_Lesson_Presentation_v0.4.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/slides/PU-B08-C01_Lesson_Presentation_v0.4.pptx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B08-C01 - website page",
+          "status": "published",
+          "version": "0.4.1",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b08-c01/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B08-C01 - youtube",
+          "status": "published",
+          "version": "0.4.1",
+          "file_path": "",
+          "public_url": "https://youtu.be/99VrKrVlbUQ",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B08-C01 - github",
+          "status": "published",
+          "version": "0.4.1",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/releases/tag/pu-b08-c01-v0.4.1",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B08-C01 - linkedin",
+          "status": "published",
+          "version": "0.4.1",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/dQ6-QtRd",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b08-c01/",
+          "version": "0.4.1",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/99VrKrVlbUQ",
+          "version": "0.4.1",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/releases/tag/pu-b08-c01-v0.4.1",
+          "version": "0.4.1",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dQ6-QtRd",
+          "version": "0.4.1",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dP3Ywb6k",
+          "version": "0.4.1",
+          "status": "published"
+        }
+      ]
+    },
+    "PU-B09-C01": {
+      "title": "AI Strategy and Transformation",
+      "version": "0.3.0",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "PU-B09-C01 - book chapter",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/lesson/PU-B09-C01_AI_Strategy_and_Transformation_Lesson_v0.1.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/blob/pu-b09-c01-v0.3.0/production-units/PU-B09-C01/lesson/PU-B09-C01_AI_Strategy_and_Transformation_Lesson_v0.1.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/lesson/PU-B09-C01_AI_Strategy_and_Transformation_Lesson_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "PU-B09-C01 - notebook",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/notebook/PU-B09-C01_AI_Strategy_and_Transformation_Notebook_v0.1.ipynb",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/blob/pu-b09-c01-v0.3.0/production-units/PU-B09-C01/notebook/PU-B09-C01_AI_Strategy_and_Transformation_Notebook_v0.1.ipynb",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/notebook/PU-B09-C01_AI_Strategy_and_Transformation_Notebook_v0.1.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "PU-B09-C01 - exercises",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/assessment/PU-B09-C01_Exercises_and_Solutions_v0.2.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/blob/pu-b09-c01-v0.3.0/production-units/PU-B09-C01/assessment/PU-B09-C01_Exercises_and_Solutions_v0.2.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/assessment/PU-B09-C01_Exercises_and_Solutions_v0.2.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "PU-B09-C01 - executive brief",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/executive/PU-B09-C01_Executive_Brief_v0.2.pdf",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/blob/pu-b09-c01-v0.3.0/production-units/PU-B09-C01/executive/PU-B09-C01_Executive_Brief_v0.2.pdf",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/executive/PU-B09-C01_Executive_Brief_v0.2.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "PU-B09-C01 - presentation",
+          "status": "approved",
+          "version": "0.3",
+          "file_path": "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/slides/PU-B09-C01_Lesson_Presentation_v0.3.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/slides/PU-B09-C01_Lesson_Presentation_v0.3.pptx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "PU-B09-C01 - website page",
+          "status": "published",
+          "version": "0.3.0",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b09-c01/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "PU-B09-C01 - youtube",
+          "status": "published",
+          "version": "0.3.0",
+          "file_path": "",
+          "public_url": "https://youtu.be/FbCCa5NwXfc",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "PU-B09-C01 - github",
+          "status": "published",
+          "version": "0.3.0",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/releases/tag/pu-b09-c01-v0.3.0",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "PU-B09-C01 - linkedin",
+          "status": "published",
+          "version": "0.3.0",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/dqPV9DhN",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/learn/pu-b09-c01/",
+          "version": "0.3.0",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/FbCCa5NwXfc",
+          "version": "0.3.0",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/releases/tag/pu-b09-c01-v0.3.0",
+          "version": "0.3.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dqPV9DhN",
+          "version": "0.3.0",
+          "status": "published"
+        }
+      ]
+    },
+    "OS-A01": {
+      "title": "The National Information Ecosystem",
+      "version": "1.0",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "OS-A01 - Canonical lesson",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/lesson/OS-A01-A01_Canonical_Lesson_The_National_Information_Ecosystem_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/lesson/OS-A01-A01_Canonical_Lesson_The_National_Information_Ecosystem_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "OS-A01 - Executive brief",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/executive/OS-A01-A02_Executive_Brief_The_National_Information_Ecosystem_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/executive/OS-A01-A02_Executive_Brief_The_National_Information_Ecosystem_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "learner_guide",
+          "title": "OS-A01 - Learner guide",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/learner/OS-A01-A03_Learner_Guide_The_National_Information_Ecosystem_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/learner/OS-A01-A03_Learner_Guide_The_National_Information_Ecosystem_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "OS-A01 - Teaching presentation",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/slides/OS-A01-A05_Teaching_Presentation_The_National_Information_Ecosystem_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/slides/OS-A01-A05_Teaching_Presentation_The_National_Information_Ecosystem_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "OS-A01 - Executable notebook package",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/release/OS-A01-A06_Executable_Notebook_Package_v1.0.zip",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/release/OS-A01-A06_Executable_Notebook_Package_v1.0.zip"
+          ]
+        },
+        {
+          "type": "supporting_data",
+          "title": "OS-A01 - Data and supporting resources",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/data/OS-A01-A07_Data_and_Supporting_Resources_v1.0.zip",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/data/OS-A01-A07_Data_and_Supporting_Resources_v1.0.zip"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "OS-A01 - Practice exercises",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/assessment/OS-A01-A08_Practice_Exercises_Workbook_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/assessment/OS-A01-A08_Practice_Exercises_Workbook_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "assessment_brief",
+          "title": "OS-A01 - Learner assessment brief",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/assessment/OS-A01-A09_Learner_Assessment_Brief_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/assessment/OS-A01-A09_Learner_Assessment_Brief_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "institutional_toolkit",
+          "title": "OS-A01 - Ecosystem mapping toolkit",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/institutional-toolkit/OS-A01-A10_National_Information_Ecosystem_Mapping_Toolkit_v1.0.xlsx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/institutional-toolkit/OS-A01-A10_National_Information_Ecosystem_Mapping_Toolkit_v1.0.xlsx"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "OS-A01 - website page",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/official-statistics/modules/a1/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "OS-A01 - youtube",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "",
+          "public_url": "https://youtu.be/Zp0Y9PdgGL0",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "OS-A01 - github",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Official_Statistics_and_AI_Pathway/tree/os-a01-v1.0.0",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/official-statistics/modules/a1/",
+          "version": "1.0",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/Zp0Y9PdgGL0",
+          "version": "1.0",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Official_Statistics_and_AI_Pathway/tree/os-a01-v1.0.0",
+          "version": "1.0",
+          "status": "published"
+        }
+      ]
+    },
+    "OS-A02": {
+      "title": "AI Concepts for Official Statisticians",
+      "version": "1.0",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "OS-A02 - book chapter",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/lesson/OS-A02-A01_Canonical_Lesson_AI_Concepts_for_Official_Statisticians_v0.2.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/lesson/OS-A02-A01_Canonical_Lesson_AI_Concepts_for_Official_Statisticians_v0.2.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "OS-A02 - executive brief",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/executive/OS-A02-A02_Executive_Brief_AI_Concepts_for_Official_Statisticians_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/executive/OS-A02-A02_Executive_Brief_AI_Concepts_for_Official_Statisticians_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "learner_guide",
+          "title": "OS-A02 - learner guide",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/learner/OS-A02-A03_Learner_Guide_AI_Concepts_for_Official_Statisticians_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/learner/OS-A02-A03_Learner_Guide_AI_Concepts_for_Official_Statisticians_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "OS-A02 - presentation",
+          "status": "published",
+          "version": "2.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/slides/OS-A02-A05_Presentation_and_Narration_AI_Concepts_for_Official_Statisticians_v2.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/slides/OS-A02-A05_Presentation_and_Narration_AI_Concepts_for_Official_Statisticians_v2.1.pdf",
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/slides/OS-A02-A05_Presentation_and_Narration_AI_Concepts_for_Official_Statisticians_v2.2.pptx"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "OS-A02 - notebook",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/notebook/OS-A02-A06_Executable_Classification_Laboratory_AI_Concepts_for_Official_Statisticians_v1.0.ipynb",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/notebook/OS-A02-A06_Executable_Classification_Laboratory_AI_Concepts_for_Official_Statisticians_v1.0.ipynb",
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/data/OS-A02-A06_Kintaba_Stress_Test_Data_v1.0.csv",
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/data/OS-A02-A06_Kintaba_Task_Classification_Data_v1.0.csv",
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/notebook/OS-A02-A06_README_v1.0.md",
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/notebook/requirements.txt"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "OS-A02 - exercises",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/learner/OS-A02-A07_Practice_Exercises_and_Case_Packet_AI_Concepts_for_Official_Statisticians_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/learner/OS-A02-A07_Practice_Exercises_and_Case_Packet_AI_Concepts_for_Official_Statisticians_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "assessment_brief",
+          "title": "OS-A02 - assessment brief",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/assessment/OS-A02-A09_Learner_Assessment_Brief_AI_Concepts_for_Official_Statisticians_v1.0.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/assessment/OS-A02-A09_Learner_Assessment_Brief_AI_Concepts_for_Official_Statisticians_v1.0.pdf"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "OS-A02 - website page",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/official-statistics/modules/a2/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "OS-A02 - youtube",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "",
+          "public_url": "https://youtu.be/Gnm0OHTeqgg",
+          "supporting_files": []
+        },
+        {
+          "type": "github",
+          "title": "OS-A02 - github",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "",
+          "public_url": "https://github.com/mbayekebe/SRAI_Official_Statistics_and_AI_Pathway/tree/os-a02-v1.0.0",
+          "supporting_files": []
+        },
+        {
+          "type": "linkedin",
+          "title": "OS-A02 - linkedin",
+          "status": "published",
+          "version": "1.0",
+          "file_path": "",
+          "public_url": "https://lnkd.in/p/dYzUqbzE",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/official-statistics/modules/a2/",
+          "version": "1.0",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/Gnm0OHTeqgg",
+          "version": "1.0",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Official_Statistics_and_AI_Pathway/tree/os-a02-v1.0.0",
+          "version": "1.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dYzUqbzE",
+          "version": "1.0",
+          "status": "published"
+        },
+        {
+          "platform": "LinkedIn",
+          "public_url": "https://lnkd.in/p/dFbH4AwF",
+          "version": "1.0",
+          "status": "published"
+        }
+      ]
+    },
+    "OS-A03": {
+      "title": "Professional Obligations",
+      "version": "0.2",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "OS-A03 - Canonical lesson",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/lesson/OS-A03-A01_Canonical_Lesson_Professional_Obligations_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/lesson/OS-A03-A01_Canonical_Lesson_Professional_Obligations_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "OS-A03 - Executive brief",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/executive/01_Executive_Brief.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/executive/01_Executive_Brief.pdf"
+          ]
+        },
+        {
+          "type": "learner_guide",
+          "title": "OS-A03 - Learner guide",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/learner/02_Learner_Guide.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/learner/02_Learner_Guide.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "OS-A03 - Illustrated teaching presentation",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/slides/OS-A03_Teaching_Presentation_Illustrated_v0.2.pptx",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/slides/OS-A03_Teaching_Presentation_Illustrated_v0.2.pptx"
+          ]
+        },
+        {
+          "type": "thumbnail",
+          "title": "OS-A03 - Video thumbnail",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/slides/OS-A03_Video_Thumbnail_v0.2.png",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/slides/OS-A03_Video_Thumbnail_v0.2.png"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "OS-A03 - Standalone executable notebook",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/notebook/OS-A03-A06_Professional_Obligations_Laboratory_v0.2.ipynb",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/notebook/OS-A03-A06_Professional_Obligations_Laboratory_v0.2.ipynb"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "OS-A03 - Practice exercises",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/04_Practice_Exercises.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/04_Practice_Exercises.pdf"
+          ]
+        },
+        {
+          "type": "instructor_solutions",
+          "title": "OS-A03 - Practice solutions",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/07_Practice_Solutions_and_Assessor_Key.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/07_Practice_Solutions_and_Assessor_Key.pdf"
+          ]
+        },
+        {
+          "type": "assessment_brief",
+          "title": "OS-A03 - Learner assessment brief",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/05_Learner_Assessment_Brief.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/05_Learner_Assessment_Brief.pdf"
+          ]
+        },
+        {
+          "type": "institutional_toolkit",
+          "title": "OS-A03 - Professional judgement toolkit",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/toolkit/06_Professional_Judgement_Toolkit.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/toolkit/06_Professional_Judgement_Toolkit.pdf"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "OS-A03 - website page",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/official-statistics/modules/a3/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "OS-A03 - youtube",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "",
+          "public_url": "https://youtu.be/5nwDm-KUigk",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/official-statistics/modules/a3/",
+          "version": "0.2",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/5nwDm-KUigk",
+          "version": "0.2",
+          "status": "published"
+        }
+      ]
+    },
+    "EP-M01": {
+      "title": "Making a Defensible AI Decision",
+      "version": "0.1",
+      "assets": [
+        {
+          "type": "exercises",
+          "title": "EP-M01 - exercises",
+          "status": "approved",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/assessment/EP-M01-A04_Practice_Exercises_v0.2.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/assessment/EP-M01-A04_Practice_Exercises_v0.2.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "EP-M01 - executive brief",
+          "status": "approved",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/executive/EP-M01-A02_Executive_Brief_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/executive/EP-M01-A02_Executive_Brief_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "book_chapter",
+          "title": "EP-M01 - book chapter",
+          "status": "approved",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/lesson/EP-M01-A01_Canonical_Lesson_Making_a_Defensible_AI_Decision_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/lesson/EP-M01-A01_Canonical_Lesson_Making_a_Defensible_AI_Decision_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "EP-M01 - notebook",
+          "status": "approved",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/notebook/EP-M01-A08_Companion_Notebook_v0.1.ipynb",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/notebook/EP-M01-A08_Companion_Notebook_v0.1.ipynb"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "EP-M01 - presentation",
+          "status": "approved",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/slides/SRAI_EP_M01_A03_Executive_Decision_Deck_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/slides/SRAI_EP_M01_A03_Executive_Decision_Deck_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "EP-M01 - website page",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/executive/modules/module-1/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "EP-M01 - youtube",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "",
+          "public_url": "https://youtu.be/ZWmfKqQ70I0",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/executive/modules/module-1/",
+          "version": "0.1",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/ZWmfKqQ70I0",
+          "version": "0.1",
+          "status": "published"
+        },
+        {
+          "platform": "GitHub Release",
+          "public_url": "https://github.com/mbayekebe/SRAI_Executive_Pathway/releases/tag/ep-m01-v0.1.0",
+          "version": "0.1",
+          "status": "published"
+        }
+      ]
+    },
+    "EP-M03": {
+      "title": "Deciding When Evidence Is Incomplete",
+      "version": "0.1",
+      "assets": [
+        {
+          "type": "book_chapter",
+          "title": "EP-M03 - book chapter",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/lesson/EP-M03-A01_Canonical_Executive_Lesson_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/lesson/EP-M03-A01_Canonical_Executive_Lesson_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "executive_brief",
+          "title": "EP-M03 - executive brief",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/executive/EP-M03-A02_Executive_Brief_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/executive/EP-M03-A02_Executive_Brief_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "exercises",
+          "title": "EP-M03 - exercises",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/assessment/EP-M03-A03_Practice_Exercises_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/assessment/EP-M03-A03_Practice_Exercises_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "presentation",
+          "title": "EP-M03 - presentation",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/slides/EP-M03-A05_Executive_Presentation_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/slides/EP-M03-A05_Executive_Presentation_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "notebook",
+          "title": "EP-M03 - notebook",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/notebook/EP-M03-A08_Companion_Notebook_v0.2.ipynb",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/notebook/EP-M03-A08_Companion_Notebook_v0.2.ipynb"
+          ]
+        },
+        {
+          "type": "institutional_toolkit",
+          "title": "EP-M03 - institutional toolkit",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/tools/EP-M03-A07_Evidence_Update_and_Decision_Loss_Matrix_v0.1.pdf",
+          "public_url": "",
+          "supporting_files": [
+            "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/tools/EP-M03-A07_Evidence_Update_and_Decision_Loss_Matrix_v0.1.pdf"
+          ]
+        },
+        {
+          "type": "website_page",
+          "title": "EP-M03 - website page",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/executive/modules/module-3/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "EP-M03 - youtube",
+          "status": "published",
+          "version": "0.1",
+          "file_path": "",
+          "public_url": "https://youtu.be/jexl6cojmS0",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/executive/modules/module-3/",
+          "version": "0.1",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/jexl6cojmS0",
+          "version": "0.1",
+          "status": "published"
+        }
+      ]
+    },
+    "EP-M02": {
+      "title": "Making Trade-offs Under Risk Explicit",
+      "version": "0.2",
+      "assets": [
+        {
+          "type": "website_page",
+          "title": "EP-M02 - website page",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "",
+          "public_url": "https://srai.mbayekebe.net/executive/modules/module-2/",
+          "supporting_files": []
+        },
+        {
+          "type": "youtube",
+          "title": "EP-M02 - youtube",
+          "status": "published",
+          "version": "0.2",
+          "file_path": "",
+          "public_url": "https://youtu.be/bjxj8xN9xNQ",
+          "supporting_files": []
+        },
+        {
+          "type": "controlled_resources",
+          "title": "EP-M02 - Private learning resources - inventory required",
+          "status": "not_started",
+          "version": "0.2",
+          "file_path": "",
+          "public_url": "",
+          "supporting_files": []
+        }
+      ],
+      "publications": [
+        {
+          "platform": "SRAI Website",
+          "public_url": "https://srai.mbayekebe.net/executive/modules/module-2/",
+          "version": "0.2",
+          "status": "published"
+        },
+        {
+          "platform": "YouTube",
+          "public_url": "https://youtu.be/bjxj8xN9xNQ",
+          "version": "0.2",
+          "status": "published"
+        }
+      ]
+    }
+  },
+  "files": {
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Chapter6_Controlled_Candidate_v0.1.0.pdf": {
+      "bytes": 352013,
+      "sha256": "fe7a688cd94fc507ccb59b83a54a8a495b6de7c363034eb0a861a285870f1f03"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/notebooks/M1/M1_N06_eigenvalues_eigenvectors_spectral_intuition_v0.1.0.ipynb": {
+      "bytes": 32656,
+      "sha256": "0b2a59c2c908e890ad7706d60ae0a9f82a78db4fe0d674c4fb0e1f58a499e7ff"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Exercises_and_Solutions_v0.1.0.pdf": {
+      "bytes": 205100,
+      "sha256": "d1390efb3cfac1f1748e22eb109ca53c037435f7ba651338c31fe9cf949c6415"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/docs/PU-B01-C06_Executive_Brief_v0.1.0.pdf": {
+      "bytes": 79663,
+      "sha256": "25ed3b0324f89d3d3e158a54bf3f284647f57e9fe7ee1fa740ca934ce4dfb7a3"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C06/slides/PU-B01-C06_Lesson6_Teaching_Deck_v0.1.2.pptx": {
+      "bytes": 122354,
+      "sha256": "9d78fbb1456008ce510cfedc0c2c6a6549c91146526cc19dce5d95cc5d79613b"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Lesson_v0.1.pdf": {
+      "bytes": 135076,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/notebooks/M1_N07_svd_pca_dimensionality_reduction.ipynb": {
+      "bytes": 139601,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Exercises_and_Solutions_v0.1.pdf": {
+      "bytes": 94373,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/docs/PU-B01-C07_Executive_Brief_v0.1.pdf": {
+      "bytes": 76912,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_01_Mathematical_Foundations/production-units/PU-B01-C07/slides/PU-B01-C07_Lesson_Presentation_v0.1.pptx": {
+      "bytes": 58255,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/lesson/PU-B02-C01_Supervised_Learning_Foundations_SRAI_v0.3.pdf": {
+      "bytes": 511534,
+      "sha256": "83bab1264cf2f38539495be5ee7e4c0ad5c7ded81b2f2bd33d53ced7cb0ec237"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/notebook/M2_N01_supervised_learning_foundations_SRAI_v0.3.ipynb": {
+      "bytes": 488545,
+      "sha256": "706e319989b713a77784fdd952c178db5cd5362a1d7a56651918e419cb2a45a7"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/assessment/PU-B02-C01_Student_Assessment_v0.1.pdf": {
+      "bytes": 79392,
+      "sha256": "aa817482f0cba0a27fa747ec4f2737042ba6163f605ec91b419e195281943da5"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/executive/PU-B02-C01_Executive_Brief_v0.1.pdf": {
+      "bytes": 88783,
+      "sha256": "a6a11c841c30aedde1188e89f6400a71e9ecdfc449508f9536ee5647c07792b8"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/assessment/PU-B02-C01_Instructor_Solutions_v0.1.pdf": {
+      "bytes": 93134,
+      "sha256": "df6a1b2e015279be32d5e1d5d619029540db40aab89b704b077b0e3f46edc900"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_02_Machine_Learning/production-units/PU-B02-C01/slides/PU-B02-C01_Supervised_Learning_Foundations_Lesson_Presentation_v0.4.pptx": {
+      "bytes": 132413,
+      "sha256": "f4ad7499c9ecd50b1e100043780ad66a116597e00dba7433511b8345122cee36"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/lesson/PU-B03-C01_Neural_Network_Foundations_Lesson_v0.1.pdf": {
+      "bytes": 805874,
+      "sha256": "b18589c5bac64675f6276f3d39e70da0b5a97b6e81f0a4bcb2e17d137cf6eb61"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/lesson/M3_N01_neural_network_foundations_v0.1.ipynb": {
+      "bytes": 30597,
+      "sha256": "008d4e01ff78978ec0271fd7cf16f667e46a43d12b0347bff39ef1f2396c977e"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/assessment/PU-B03-C01_Assessment_Book_v0.1.pdf": {
+      "bytes": 221537,
+      "sha256": "4254940669ecc5a1b3db1cdb4e4396c4e2aa2385b3724828e30dc5fdc5a57fe9"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/executive/PU-B03-C01_Executive_Brief_v0.1.pdf": {
+      "bytes": 210273,
+      "sha256": "b185defa5f1dd3c2cbb85676acd00409e10fbe8c7f403effe688fd3e95cd9407"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/assessment/PU-B03-C01_Solutions_and_Marking_Guide_v0.1.pdf": {
+      "bytes": 252546,
+      "sha256": "567b0e890d53908a7687932ac3e3ccda06564dec94d2faec5b68680cd7a1f810"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_03_Deep_Learning/production-units/PU-B03-C01/slides/PU-B03-C01_Neural_Network_Foundations_Lesson_Presentation_v0.1.1.pptx": {
+      "bytes": 151934,
+      "sha256": "49678c4292c4e7f39d849683b222f2fdacf83150539837b899fee89201e5048e"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/lesson/PU-B04-C01_Generative_AI_LLM_Foundations_Controlled_Lesson_v0.1.pdf": {
+      "bytes": 418069,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/notebook/PU-B04-C01_Generative_AI_LLM_Foundations_v0.1.ipynb": {
+      "bytes": 26415,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/assessment/PU-B04-C01_Exercises_v0.1.pdf": {
+      "bytes": 97100,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/executive/PU-B04-C01_Executive_Brief_v0.1.pdf": {
+      "bytes": 79089,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/assessment/PU-B04-C01_Solutions_and_Marking_Guide_v0.1.pdf": {
+      "bytes": 91441,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_04_Generative_AI_and_Large_Language_Models/production-units/PU-B04-C01/slides/PU-B04-C01_Generative_AI_LLM_Foundations_Lesson_Presentation_v0.1.2.pptx": {
+      "bytes": 1899264,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.pdf": {
+      "bytes": 477179,
+      "sha256": "7b34ae5e2728cb71b36e741d51ef05fcceebec7a30d95373350b633dc11dcbfa"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/notebook/V5_N01_mlops_foundations.ipynb": {
+      "bytes": 23781,
+      "sha256": "aa4438a77621b4de1451230b4004074e58ceab0db9a5deb8e4dca734a2880cd8"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/assessment/PU-B05-C01_Exercises_v0.1.pdf": {
+      "bytes": 245353,
+      "sha256": "1a1ee050814315d7a32d0ba7d9fdea7d0fa7017ecbf72aec170c46fcba5d21ae"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/executive/PU-B05-C01_Executive_Brief_v0.1.pdf": {
+      "bytes": 225622,
+      "sha256": "c9dcedd4bce7b8d97ee407f7947719a7ba1973ffcf1e3754e3b907055fbd196b"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.pdf": {
+      "bytes": 234967,
+      "sha256": "03de458f956e786a5bfddb37febb453c161136109f4b04d3e85f58387f72d519"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_05_MLOps_and_AI_Engineering/production-units/PU-B05-C01/slides/PU-B05-C01_MLOps_Foundations_Lesson_Presentation_v0.1.pptx": {
+      "bytes": 114158,
+      "sha256": "4bb5bebda50a9cb525ac62105bc2990f18b30d00d8938e4a3bcc767c40bcb651"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/lesson/PU-B06-C01_Foundations_of_Generative_AI_SRAI_v0.1.pdf": {
+      "bytes": 532132,
+      "sha256": "f1766d7da4728ac507917ec02486459ff30b313fa9baa7fe931e9cfe7ddd81b7"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/notebook/M6_N01_generative_ai_foundations.ipynb": {
+      "bytes": 25206,
+      "sha256": "0d0a704f28601f6ec7f6310e40e0e46ba57411169667249dc24cde6025b731a2"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/assessment/PU-B06-C01_Student_Exercises_v0.1.pdf": {
+      "bytes": 257547,
+      "sha256": "64e2beb59a3fddd06155d5ecf137f140df65b707abbbb282385e7141ab0a6587"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/executive/PU-B06-C01_Executive_Brief_v0.1.pdf": {
+      "bytes": 183974,
+      "sha256": "a152f4fb8e02ff60afbf659ae76d271ab122c0bba12aa122dca3aa62335fb034"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/assessment/PU-B06-C01_Instructor_Solutions_v0.1.2.pdf": {
+      "bytes": 261881,
+      "sha256": "f3a40d2709eec695e10d26a2e86d9bcf74fca5d0534b6e6e3b176aaa1d6d9067"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_06_Generative_Artificial_Intelligence/production-units/PU-B06-C01/slides/PU-B06-C01_Foundations_of_Generative_AI_Lesson_Presentation_v0.1.1.pdf": {
+      "bytes": 355039,
+      "sha256": "3567a3117845ccac2c3b284aae73803dadbdc2eac57cc2e247615fed54ada45d"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/lesson/PU-B08-C01_Enterprise_AI_Architecture_Lesson_v0.2.pdf": {
+      "bytes": 746843,
+      "sha256": "ab7ebdc320b6f4cf65c86d73562363af44b9da358842d2abd341d1f3549c4e74"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/notebook/PU-B08-C01_Enterprise_AI_Architecture_Notebook_v0.2.ipynb": {
+      "bytes": 15993,
+      "sha256": "9cdcbcfb65ceb83f9fa13df900e16c078b16d64a0840931e58a6d08e25d290ec"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/assessment/PU-B08-C01_Exercises_and_Solutions_v0.2.pdf": {
+      "bytes": 154807,
+      "sha256": "71f19ced0695101e47b9c5d560dd5b8d0c2a5f272719921c2074a32488dce3b4"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/executive/PU-B08-C01_Executive_Brief_v0.2.pdf": {
+      "bytes": 137887,
+      "sha256": "289f607cc29cc3b007686f1524a38419eed1310f39aac0e771d3a440ee5a4145"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_08_Enterprise_AI_Systems/production-units/PU-B08-C01/slides/PU-B08-C01_Lesson_Presentation_v0.4.pptx": {
+      "bytes": 124411,
+      "sha256": "de747503673e956cb91e172d5dd4f1ff4c1f285a82aa545fe1b1b1c3f1e3fe71"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/lesson/PU-B09-C01_AI_Strategy_and_Transformation_Lesson_v0.1.pdf": {
+      "bytes": 526031,
+      "sha256": "e6961ec8210ffb3783cc05565e12c3335dc839a19fd2c194445e95856af16b02"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/notebook/PU-B09-C01_AI_Strategy_and_Transformation_Notebook_v0.1.ipynb": {
+      "bytes": 289301,
+      "sha256": "0f985e0081a67b6f1723a5c9b2dc82c3df46032fb5b89c51c9fd76c75880ca90"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/assessment/PU-B09-C01_Exercises_and_Solutions_v0.2.pdf": {
+      "bytes": 129129,
+      "sha256": "4dfced672b7bb8394a7080720228653e3a51e82ec3f670c124ad2fd5e0276b3d"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/executive/PU-B09-C01_Executive_Brief_v0.2.pdf": {
+      "bytes": 80825,
+      "sha256": "f711da92d09a66ae650b6fc0ca53364961a3b50cbcf3cf345b7a25c6f554e310"
+    },
+    "C:/SRAI_GitHub/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/production-units/PU-B09-C01/slides/PU-B09-C01_Lesson_Presentation_v0.3.pptx": {
+      "bytes": 408299,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/lesson/OS-A01-A01_Canonical_Lesson_The_National_Information_Ecosystem_v1.0.pdf": {
+      "bytes": 489869,
+      "sha256": "b5f0e01cde35c65383bf6c097a99f0804885473721fbc03adcf1433d6ecb9968"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/executive/OS-A01-A02_Executive_Brief_The_National_Information_Ecosystem_v1.0.pdf": {
+      "bytes": 202884,
+      "sha256": "63cae6a33b29a39f943443c29d5ba499ca5a33883009804e62e25acb0ba26d3a"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/learner/OS-A01-A03_Learner_Guide_The_National_Information_Ecosystem_v1.0.pdf": {
+      "bytes": 525076,
+      "sha256": "198cd372c48c0be14ea27a45a8beaf59dfdd6f54483238338a10799150a3b81c"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/slides/OS-A01-A05_Teaching_Presentation_The_National_Information_Ecosystem_v1.0.pdf": {
+      "bytes": 2876566,
+      "sha256": "1786c0cd8eb6f0dc61a0e38bfb2ae868229dae52f283162ae0c423dd53a1441d"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/release/OS-A01-A06_Executable_Notebook_Package_v1.0.zip": {
+      "bytes": 115158,
+      "sha256": "c7445af3b8308dd1b52aa5db58e399bee9b876610c0673682e11340e1ed590dd"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/data/OS-A01-A07_Data_and_Supporting_Resources_v1.0.zip": {
+      "bytes": 8702,
+      "sha256": "5929a9ed791eb7f4ba79210e846ada206372444e7184817d46a7f1801ab5d89f"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/assessment/OS-A01-A08_Practice_Exercises_Workbook_v1.0.pdf": {
+      "bytes": 380341,
+      "sha256": "158a4f9313b8f394be4faceae22b76ec1942780add63a3bf33676c3f99b6874f"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/assessment/OS-A01-A09_Learner_Assessment_Brief_v1.0.pdf": {
+      "bytes": 244233,
+      "sha256": "ecc37d2402e0dea2cca6c0d36e2450f8fdb5d6ee43a29c1a8c03414980c0edf7"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A01/institutional-toolkit/OS-A01-A10_National_Information_Ecosystem_Mapping_Toolkit_v1.0.xlsx": {
+      "bytes": 113112,
+      "sha256": "5153ec86a3e4b9420644bf096017bc123d51e1bd341987b5057a7f0058c04480"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/lesson/OS-A02-A01_Canonical_Lesson_AI_Concepts_for_Official_Statisticians_v0.2.pdf": {
+      "bytes": 572252,
+      "sha256": "1166aa02eb811e110ac6f9cadcd3f782e9c5e8a52cfda0bef5433455ce983c82"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/executive/OS-A02-A02_Executive_Brief_AI_Concepts_for_Official_Statisticians_v1.0.pdf": {
+      "bytes": 244900,
+      "sha256": "7c544ac0edaf03d78ad67748335fafd3fe5505fc0fdba01853935227e40c3a98"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/learner/OS-A02-A03_Learner_Guide_AI_Concepts_for_Official_Statisticians_v1.0.pdf": {
+      "bytes": 270285,
+      "sha256": "a0f80c48b69559af53a5cb848aee7e17c9e348c54e31093ca9a1fd1ae2a3a715"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/slides/OS-A02-A05_Presentation_and_Narration_AI_Concepts_for_Official_Statisticians_v2.1.pdf": {
+      "bytes": 15361445,
+      "sha256": "c47309f344ac9bb4d041645f765e83850ed750169aea55e792a06a09e83caf70"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/slides/OS-A02-A05_Presentation_and_Narration_AI_Concepts_for_Official_Statisticians_v2.2.pptx": {
+      "bytes": 9380682,
+      "sha256": "442cc97456aeaf58dc0b985d622606b2c7275e0e6d33ff82108310ec17fb4af9"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/notebook/OS-A02-A06_Executable_Classification_Laboratory_AI_Concepts_for_Official_Statisticians_v1.0.ipynb": {
+      "bytes": 16671,
+      "sha256": "24cd73d29b112976c2707a2454f25407bac16ab3ea97044501cb8c33f8677e57"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/data/OS-A02-A06_Kintaba_Stress_Test_Data_v1.0.csv": {
+      "bytes": 5260,
+      "sha256": "541299c71e339c99e4def7b238bfbf026787375671e3d62bc16f441a81171c1d"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/data/OS-A02-A06_Kintaba_Task_Classification_Data_v1.0.csv": {
+      "bytes": 29490,
+      "sha256": "742451082194abcba39eb104a5db1127ea82ebcb9bebad23fd2b0f63a3bec9cf"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/notebook/OS-A02-A06_README_v1.0.md": {
+      "bytes": 577,
+      "sha256": "411041f609f675f779d00e60acb92935e01b896d3f4074b8bee7e2e6d7b2d70c"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/notebook/requirements.txt": {
+      "bytes": 88,
+      "sha256": "f09d228cdb09340580d4135ceda36a1c63a7643d789629a0350bea23c484c59e"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/learner/OS-A02-A07_Practice_Exercises_and_Case_Packet_AI_Concepts_for_Official_Statisticians_v1.0.pdf": {
+      "bytes": 265910,
+      "sha256": "76c62edc368597b86db987e6086c506e14dff160ab11d17d163e7743ad53bf2b"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/assessment/OS-A02-A09_Learner_Assessment_Brief_AI_Concepts_for_Official_Statisticians_v1.0.pdf": {
+      "bytes": 166985,
+      "sha256": "633a0e041e268d7b90856f2e14ee4fbe41afb3a9a7ce91290500d68cd61fe534"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/lesson/OS-A03-A01_Canonical_Lesson_Professional_Obligations_v0.1.pdf": {
+      "bytes": 759980,
+      "sha256": "65f8b66d92d61b2695660be76615f36852e4dd93ada56c21a414cf11de6ee8b8"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/executive/01_Executive_Brief.pdf": {
+      "bytes": 30629,
+      "sha256": "518d6c129fa63c0e0b0a293175412178ff8e77d7b0b835713b3fb22b85b1764b"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/learner/02_Learner_Guide.pdf": {
+      "bytes": 36587,
+      "sha256": "087af33a0a90511a58a4e1888020993ef2dc25750a9ba6e6b8205fa673693b0a"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/slides/OS-A03_Teaching_Presentation_Illustrated_v0.2.pptx": {
+      "bytes": 7673597,
+      "sha256": "80544e233bc92b6bd1fd7feea3d7299f82fdcb228715d28f1ebdae3af91d0ec5"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/slides/OS-A03_Video_Thumbnail_v0.2.png": {
+      "bytes": 848325,
+      "sha256": "437bdb77354707e08d8dbfe4d3b09524326557abb7251e5c9ec25447d1355d1e"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/notebook/OS-A03-A06_Professional_Obligations_Laboratory_v0.2.ipynb": {
+      "bytes": 17931,
+      "sha256": "57e92945f655d9ec71081a7bf171fc727e5c4af2753d850909fa7fa0eabe6a41"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/04_Practice_Exercises.pdf": {
+      "bytes": 29412,
+      "sha256": "e08812067efd8a732fcd4c1267e12a2ed944b53356a427dea2a882d316ea9245"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/07_Practice_Solutions_and_Assessor_Key.pdf": {
+      "bytes": 34408,
+      "sha256": "f374b79591f3a0b99bbffa306e11e51238c8b47b3b3513217187120f1cede390"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/assessment/05_Learner_Assessment_Brief.pdf": {
+      "bytes": 30131,
+      "sha256": "9bb03ffe4ad94791250471bcafc023e49bc71dd978fc7ddc14555892556f1a6c"
+    },
+    "C:/SRAI_GitHub/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/toolkit/06_Professional_Judgement_Toolkit.pdf": {
+      "bytes": 32994,
+      "sha256": "47440889447dd3927d83d0944a75f1334c6837cae1ea9d72a0c64aba496f9d2b"
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/assessment/EP-M01-A04_Practice_Exercises_v0.2.pdf": {
+      "bytes": 346521,
+      "sha256": "168797383066e9f957bc552d58dafb19154307985981cd7b51c1348ea9ea985f"
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/executive/EP-M01-A02_Executive_Brief_v0.1.pdf": {
+      "bytes": 266945,
+      "sha256": "76f14ce75eca16a5140abbc0952abd5490ea6f68761beec1cf6d90ee052400f0"
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/lesson/EP-M01-A01_Canonical_Lesson_Making_a_Defensible_AI_Decision_v0.1.pdf": {
+      "bytes": 322559,
+      "sha256": "ea872d1da286b7c058492c77a6d2027fec30ddc680225542ecb9e689561b289a"
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/notebook/EP-M01-A08_Companion_Notebook_v0.1.ipynb": {
+      "bytes": 10007,
+      "sha256": "4222ce22f4c9c18da82c206cf9c2943497c59dcebc876fd8240bb679dd42b46c"
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/slides/SRAI_EP_M01_A03_Executive_Decision_Deck_v0.1.pdf": {
+      "bytes": 375914,
+      "sha256": "6cb7244f45503fb01a2438ea1d6099860bad40ab4e9ad87d7e7b5b3e1ca4f620"
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/lesson/EP-M03-A01_Canonical_Executive_Lesson_v0.1.pdf": {
+      "bytes": 499300,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/executive/EP-M03-A02_Executive_Brief_v0.1.pdf": {
+      "bytes": 152428,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/assessment/EP-M03-A03_Practice_Exercises_v0.1.pdf": {
+      "bytes": 131048,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/slides/EP-M03-A05_Executive_Presentation_v0.1.pdf": {
+      "bytes": 1027819,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/notebook/EP-M03-A08_Companion_Notebook_v0.2.ipynb": {
+      "bytes": 342029,
+      "sha256": null
+    },
+    "C:/SRAI_GitHub/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/tools/EP-M03-A07_Evidence_Update_and_Decision_Loss_Matrix_v0.1.pdf": {
+      "bytes": 142218,
+      "sha256": null
+    }
+  },
+  "sources": {
+    "sources/review/operations/REGISTRY/production_units.json": "9df456adb3b7a515d14071d55e9bfcfef4e0a747f27a0b94423d181dd5bac4d0",
+    "sources/review/operations/EVIDENCE/PU-B01-C01_ECOSYSTEM_PUBLICATION.json": "62dba2e996abc9daf7c2e7ce8a1e60d6485e15d77ca270230ae83f6979229b66",
+    "sources/review/operations/EVIDENCE/PU-B01-C02_ECOSYSTEM_PUBLICATION.json": "304dd8c4fc914853fd3b342b1dbc296e0e08289aabd0e8757af2b21b33c1bdd7",
+    "sources/review/operations/EVIDENCE/PU-B01-C03_ECOSYSTEM_PUBLICATION.json": "4d69f382307b8b29b8d23ec2fab7be908a0e7697cfe7a8bf0a55fa9df53f9607",
+    "sources/review/operations/EVIDENCE/PU-B01-C04_ECOSYSTEM_PUBLICATION.json": "2dabd3aa01486bfdc384697fd0b45c6596a7c70db883f61d8a00e35c851882d9",
+    "sources/review/operations/EVIDENCE/PU-B01-C05_ECOSYSTEM_PUBLICATION.json": "10af420f411248028fcb83555ab02405526302fce2133d76a6b4fe1cb15959f7",
+    "sources/review/operations/EVIDENCE/PU-B01-C06_ECOSYSTEM_PUBLICATION.json": "ea160a0ce0e0b1e98cf740019c7fc27c9e0d885cebcddae77f706b764f23e57b",
+    "sources/review/operations/EVIDENCE/PU-B01-C07_ECOSYSTEM_PUBLICATION.json": "862ea9ec052e1bfaf7276051a60d129f054d3f6d6b4a68762595b76b9338f3bf",
+    "sources/review/operations/EVIDENCE/PU-B02-C01_ECOSYSTEM_PUBLICATION.json": "6c26e298802ae4a814fc86df337fef4598c7208ebe8b5f0a71cfb7031b8706c4",
+    "sources/review/operations/EVIDENCE/PU-B03-C01_ECOSYSTEM_PUBLICATION.json": "74b3d867bf7a475e49cefed4841226d7bdbac1068589eac6170176968c2f1228",
+    "sources/review/operations/EVIDENCE/PU-B04-C01_ECOSYSTEM_PUBLICATION.json": "ffd89a601480dc5ebdc2f24d34b8d3ce96f4616daf95dec18d03cdf02791a7fd",
+    "sources/review/operations/EVIDENCE/PU-B05-C01_ECOSYSTEM_PUBLICATION.json": "cc6da78aa293602652cd3bab4c925dbf4214c9c2c5d717d9165749373a6fb650",
+    "sources/review/operations/EVIDENCE/PU-B08-C01_ECOSYSTEM_PUBLICATION.json": "17b7841debe49cf6f616a4a79bb78a45205ad7af04d12280c18e6c4a16058b66",
+    "sources/review/operations/EVIDENCE/PU-B09-C01_ECOSYSTEM_PUBLICATION.json": "6456474f01afd1c2c23e23e0c27b4db5ba1312b4cf3fca36f7940aec1f1aa7c5",
+    "sources/review/operations/EVIDENCE/PU-B06-C01_ECOSYSTEM_PUBLICATION.json": "63eefb82a6b79b5d9cfa50b1f68ecef8bdb7dbeca9a290596db4f1a93ef4b1a4",
+    "sources/review/operations/EVIDENCE/SRAI_BOOK7_EP_M01_PUBLICATION_ACCEPTANCE.json": "d1e59f0327762d2e09bd85d40123de97be4d5dfb8d5fa1bc87c97139fb728c78",
+    "sources/review/operations/EVIDENCE/SRAI_EP_M02_PUBLICATION_ACCEPTANCE.json": "d358b9af6a675dd1f3669fe3cb098187f8b8b2cd8e9ea3e5a50a3d5328db5609",
+    "sources/review/operations/EVIDENCE/SRAI_EP_M03_PUBLICATION_ACCEPTANCE.json": "c356599a83e4359fe2d536df270b854e58a8826687c313214df26823be381f47",
+    "sources/review/operations/EVIDENCE/SRAI_OS_A01_V1_PUBLICATION_ACCEPTANCE.json": "90c1879b35f821e2f5fffafd856aa6062ca74a19b8b824c3c4de7185726c7e41",
+    "sources/review/operations/EVIDENCE/SRAI_OS_A02_V1_PUBLICATION_ACCEPTANCE.json": "e858d03d3c333fd106943dac5753eb4b88876d80ca746d456c31fc275df8fff7",
+    "sources/review/operations/EVIDENCE/SRAI_OS_A03_V02_PUBLICATION_ACCEPTANCE.json": "397d3d3f0449ea949ce631ed2be2e0982c8dbd76a0ce6a7e3fa44195c585fb58",
+    "sources/final_sources/Operations_EXAMPLES/PU-B01-C01_LESSON_MANIFEST.json": "44a2cd4a1e02a509ea7b24f3f169db4ab3f687f2bbc37a2e71e2f8578ceb7fb8",
+    "sources/final_sources/Operations_EXAMPLES/PU-B01-C02_LESSON_MANIFEST.json": "a4c4122029a4a7e382b6c30f92394b53286512a4279886e67c8618b42a8f55e2",
+    "sources/final_sources/Operations_EXAMPLES/PU-B01-C03_LESSON_MANIFEST.json": "07a6912e1b902af7d1fc4e647c6567dded190e7425993da820d9bd0d6665b362",
+    "sources/final_sources/Operations_EXAMPLES/PU-B01-C04_LESSON_MANIFEST.json": "af8522c773d1593f42696a07a801ffbe22f1c36f3ce9820702ff8a5cb7c67b0c",
+    "sources/final_sources/Operations_EXAMPLES/PU-B01-C05_LESSON_MANIFEST.json": "d8d810386b762c8b1cf64bd7c2100b68d1ff529205c4368cabda8abaaba62939",
+    "sources/final_sources/Operations_EXAMPLES/PU-B01-C06_LESSON_MANIFEST.json": "810363f89af5c38f210e98260fcd8456a9da019ebdce21a1fdc115edff03487f",
+    "sources/final_sources/Operations_EXAMPLES/PU-B01-C07_LESSON_MANIFEST.json": "832e760b87e579bacb265f1b60fd0099dbd1cdd058061e307384500e0c5bb4fa",
+    "sources/final_sources/Operations_EXAMPLES/PU-B02-C01_LESSON_MANIFEST.json": "a22796021fde2dba995318d6d0a8f8da1720f318ba50a08ec8477e87c7ea224e",
+    "sources/final_sources/Operations_EXAMPLES/PU-B03-C01_LESSON_MANIFEST.json": "4ae4a4bd8936e0b5ed37422c18628e9c4dd5a73801c4a03ff3e2440f7e1fa1be",
+    "sources/final_sources/Operations_EXAMPLES/PU-B04-C01_LESSON_MANIFEST.json": "c72f50ca747eb98aae67502d530e7dc06882d90d6dcdee102a5e01a33f494a9c",
+    "sources/final_sources/Operations_EXAMPLES/PU-B05-C01_LESSON_MANIFEST.json": "ab6b41ae2823e171b403d37f4448803101b2ec614d7946216f13bac495840486",
+    "sources/final_sources/Operations_EXAMPLES/PU-B06-C01_LESSON_MANIFEST.json": "ba5cdce4014c0dd697d1e054381e6117b8e54caa8f967c9f710a8b72ccd7041d",
+    "sources/final_sources/Operations_EXAMPLES/PU-B08-C01_LESSON_MANIFEST.json": "127212fc46458540c7dd5f98938e4716ca992f7af2d0b5929d996cf29eee450b",
+    "sources/final_sources/Operations_EXAMPLES/PU-B09-C01_LESSON_MANIFEST.json": "936ab129d6fa990e5731f5a869712b5a785e2c774f0c86250a23c2d103a8d98d",
+    "sources/final_sources/SRAI_Official_Statistics_and_AI_Pathway/PUBLIC_ASSET_MANIFEST.json": "2b9076f1c5b9504ac515470d6d4a5ede6aad1d79d0be0247d8827d42b256820e",
+    "sources/final_sources/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A02/release/PUBLIC_ASSET_MANIFEST.json": "2e4edd2f0f829bd57f31880c27661f1d18c4a8c07dd5cb8add29f19bac9be3fa",
+    "sources/final_sources/SRAI_Official_Statistics_and_AI_Pathway/modules/OS-A03/release/PUBLIC_ASSET_MANIFEST.json": "0f4094629ba0a4bae610072452ca326ea88f828b8d4074b20e20a946e2a14760",
+    "sources/final_sources/SRAI_Executive_Pathway/modules/EP-M01/v0.1/public-release/MANIFEST.json": "554c305a05337bdcf2687266f5d8b8c665a8b74e008d1087be233e481ebbcde6",
+    "sources/final_sources/SRAI_Executive_Pathway/modules/EP-M03/v0.1/public-release/MANIFEST.json": "687bb9179ff8f32ee3913bdf6059d424f70c3bf2387fbbe1530abecaf1175c1e"
+  },
+  "notes": [
+    "Book 6 future syllabus not in supplied repository: import only verified Lesson 1.",
+    "EP-M02 private file inventory missing: leave a blocked task and incomplete resource asset.",
+    "Book 1 Lessons 1-5 and Book 7 records are preserved.",
+    "Existing Notebook validation records are preserved; canonical published files are mapped through ProductionAsset.",
+    "Completion covers registered required assets; it is not an independent review or Gold Standard decision."
+  ],
+  "legacy_b6": [
+    {
+      "chapter": {
+        "code": "B06-C01",
+        "number": 1,
+        "title": "Decision Framing"
+      },
+      "notebook": {
+        "code": "V6_N01",
+        "title": "Decision Framing",
+        "repository_path": "content\\notebooks\\V6\\V6_N01_decision_framing.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C02",
+        "number": 2,
+        "title": "Utility and Value"
+      },
+      "notebook": {
+        "code": "V6_N02",
+        "title": "Utility and Value",
+        "repository_path": "content\\notebooks\\V6\\V6_N02_utility_value.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C03",
+        "number": 3,
+        "title": "Bayesian Decision Analysis"
+      },
+      "notebook": {
+        "code": "V6_N03",
+        "title": "Bayesian Decision Analysis",
+        "repository_path": "content\\notebooks\\V6\\V6_N03_bayesian_decisions.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C04",
+        "number": 4,
+        "title": "Multi-Criteria Decision Analysis"
+      },
+      "notebook": {
+        "code": "V6_N04",
+        "title": "Multi-Criteria Decision Analysis",
+        "repository_path": "content\\notebooks\\V6\\V6_N04_multi_criteria_decision_analysis.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C05",
+        "number": 5,
+        "title": "Scenario-Based Decision Analysis"
+      },
+      "notebook": {
+        "code": "V6_N05",
+        "title": "Scenario-Based Decision Analysis",
+        "repository_path": "content\\notebooks\\V6\\V6_N05_scenario_decision_analysis.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C06",
+        "number": 6,
+        "title": "Optimization for Decisions"
+      },
+      "notebook": {
+        "code": "V6_N06",
+        "title": "Optimization for Decisions",
+        "repository_path": "content\\notebooks\\V6\\V6_N06_optimization_decisions.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C07",
+        "number": 7,
+        "title": "Monte Carlo Simulation"
+      },
+      "notebook": {
+        "code": "V6_N07",
+        "title": "Monte Carlo Simulation",
+        "repository_path": "content\\notebooks\\V6\\V6_N07_monte_carlo_simulation.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C08",
+        "number": 8,
+        "title": "Causal Decision Analysis"
+      },
+      "notebook": {
+        "code": "V6_N08",
+        "title": "Causal Decision Analysis",
+        "repository_path": "content\\notebooks\\V6\\V6_N08_causal_decision_analysis.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C09",
+        "number": 9,
+        "title": "Policy Evaluation"
+      },
+      "notebook": {
+        "code": "V6_N09",
+        "title": "Policy Evaluation",
+        "repository_path": "content\\notebooks\\V6\\V6_N09_policy_evaluation.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C10",
+        "number": 10,
+        "title": "Prescriptive Analytics"
+      },
+      "notebook": {
+        "code": "V6_N10",
+        "title": "Prescriptive Analytics",
+        "repository_path": "content\\notebooks\\V6\\V6_N10_prescriptive_analytics.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C11",
+        "number": 11,
+        "title": "Digital Twins and Dynamic Simulation"
+      },
+      "notebook": {
+        "code": "V6_N11",
+        "title": "Digital Twins and Dynamic Simulation",
+        "repository_path": "content\\notebooks\\V6\\V6_N11_digital_twins.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C12",
+        "number": 12,
+        "title": "System Dynamics"
+      },
+      "notebook": {
+        "code": "V6_N12",
+        "title": "System Dynamics",
+        "repository_path": "content\\notebooks\\V6\\V6_N12_system_dynamics.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C13",
+        "number": 13,
+        "title": "Adaptive and Sequential Decisions"
+      },
+      "notebook": {
+        "code": "V6_N13",
+        "title": "Adaptive and Sequential Decisions",
+        "repository_path": "content\\notebooks\\V6\\V6_N13_adaptive_decisions.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C14",
+        "number": 14,
+        "title": "Decision Dashboards"
+      },
+      "notebook": {
+        "code": "V6_N14",
+        "title": "Decision Dashboards",
+        "repository_path": "content\\notebooks\\V6\\V6_N14_decision_dashboards.ipynb",
+        "validation_status": "not_tested"
+      }
+    },
+    {
+      "chapter": {
+        "code": "B06-C15",
+        "number": 15,
+        "title": "Decision Intelligence Capstone"
+      },
+      "notebook": {
+        "code": "V6_N15",
+        "title": "Decision Intelligence Capstone",
+        "repository_path": "content\\notebooks\\V6\\V6_N15_decision_intelligence_capstone.ipynb",
+        "validation_status": "not_tested"
+      }
+    }
+  ]
+}

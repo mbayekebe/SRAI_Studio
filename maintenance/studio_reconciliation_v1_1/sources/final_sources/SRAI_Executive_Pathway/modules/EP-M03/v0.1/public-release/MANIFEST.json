@@ -1,0 +1,25 @@
+{
+    "module":  "EP-M03",
+    "title":  "Deciding When Evidence Is Incomplete",
+    "release":  "v0.1",
+    "video_url":  "https://youtu.be/jexl6cojmS0",
+    "priority_sectors":  [
+                             "Agriculture",
+                             "Education",
+                             "Health",
+                             "Habitat"
+                         ],
+    "public_assets":  [
+                          "lesson/EP-M03-A01_Canonical_Executive_Lesson_v0.1.pdf",
+                          "executive/EP-M03-A02_Executive_Brief_v0.1.pdf",
+                          "assessment/EP-M03-A03_Practice_Exercises_v0.1.pdf",
+                          "slides/EP-M03-A05_Executive_Presentation_v0.1.pdf",
+                          "notebook/EP-M03-A08_Companion_Notebook_v0.2.ipynb"
+                      ],
+    "controlled_assets":  [
+                              "EP-M03-A04_Worked_Solutions_v0.1"
+                          ],
+    "executive_tools":  [
+                            "tools/EP-M03-A07_Evidence_Update_and_Decision_Loss_Matrix_v0.1.pdf"
+                        ]
+}

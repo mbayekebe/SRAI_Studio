@@ -1,0 +1,75 @@
+{
+    "schema_version":  "0.2.0",
+    "production_unit":  {
+                            "code":  "PU-B09-C01",
+                            "book_number":  9,
+                            "chapter_number":  1,
+                            "title":  "AI Strategy and Transformation",
+                            "slug":  "pu-b09-c01",
+                            "status":  "released",
+                            "version":  "0.3.0",
+                            "owner":  "Mbaye Kebe",
+                            "approver":  "Mbaye Kebe"
+                        },
+    "source_assets":  {
+                          "chapter_source":  "production-units/PU-B09-C01/lesson/PU-B09-C01_AI_Strategy_and_Transformation_Lesson_v0.1.docx",
+                          "notebook":  "production-units/PU-B09-C01/notebook/PU-B09-C01_AI_Strategy_and_Transformation_Notebook_v0.1.ipynb",
+                          "exercises_source":  "production-units/PU-B09-C01/assessment/PU-B09-C01_Exercises_and_Solutions_v0.2.docx",
+                          "executive_brief_source":  "production-units/PU-B09-C01/executive/PU-B09-C01_Executive_Brief_v0.2.docx",
+                          "video_source":  "production-units/PU-B09-C01/slides/PU-B09-C01_Lesson_Presentation_v0.3.pptx"
+                      },
+    "controlled_assets":  {
+                              "chapter_pdf":  "production-units/PU-B09-C01/lesson/PU-B09-C01_AI_Strategy_and_Transformation_Lesson_v0.1.pdf",
+                              "exercises_pdf":  "production-units/PU-B09-C01/assessment/PU-B09-C01_Exercises_and_Solutions_v0.2.pdf",
+                              "executive_brief_pdf":  "production-units/PU-B09-C01/executive/PU-B09-C01_Executive_Brief_v0.2.pdf",
+                              "repository_file_count":  46,
+                              "release_zip":  null,
+                              "release_zip_sha256":  null
+                          },
+    "git":  {
+                "book_repository":  "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership",
+                "release_commit":  "d635c378a54ad2cef143b214daa11c36f4f5b092",
+                "release_tag":  "pu-b09-c01-v0.3.0",
+                "release_url":  "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/releases/tag/pu-b09-c01-v0.3.0",
+                "website_repository":  "https://github.com/mbayekebe/SRAI_Public_Website",
+                "website_merge_commit":  "3a4ff5ffa91a5976148479bb0cf669db96cb38d2"
+            },
+    "publication":  {
+                        "youtube_id":  "FbCCa5NwXfc",
+                        "youtube_url":  "https://www.youtube.com/watch?v=FbCCa5NwXfc",
+                        "youtube_visibility":  "unlisted",
+                        "youtube_embedding":  "enabled_and_owner_confirmed",
+                        "youtube_caption_status":  "pass_owner_confirmed",
+                        "website_route":  "/learn/pu-b09-c01/",
+                        "website_url":  "https://srai.mbayekebe.net/learn/pu-b09-c01/",
+                        "linkedin_announcement_url":  "https://lnkd.in/p/dqPV9DhN",
+                        "linkedin_executive_url":  "https://lnkd.in/p/dqPV9DhN"
+                    },
+    "validation":  {
+                       "repository_inventory":  "46 files",
+                       "notebook_execution":  "pass",
+                       "website_tests":  "41/41 pass",
+                       "production_http":  "200 pass",
+                       "visual_review":  "pass_owner_confirmed",
+                       "embedded_video":  "pass_owner_confirmed",
+                       "controlled_links":  "pass_owner_confirmed"
+                   },
+    "evidence":  {
+                     "closeout_record":  "EVIDENCE/PU-B09-C01_ECOSYSTEM_PUBLICATION.json",
+                     "approved_at":  "2026-09-09",
+                     "published_at":  "2026-09-09",
+                     "notes":  [
+                                   "Owner approved reconstruction of the lesson and notebook and authorized the complete publication workflow.",
+                                   "The reconstructed lesson contains 39 pages and integrates practitioner experience from international consulting assignments.",
+                                   "The notebook was executed and its instructional outputs were verified.",
+                                   "The v0.3.0 tag resolves to the approved Book 9 merge commit.",
+                                   "Forty-one Django tests passed and migration 0014 was applied to the PostgreSQL production database after a verified backup.",
+                                   "The production endpoint returned HTTP 200; the page, embedded video, lesson PDF and notebook passed owner verification.",
+                                   "The LinkedIn announcement and executive post were published, and the executive post was added to Featured.",
+                                   "Independent review was not performed or claimed."
+                               ]
+                 },
+    "production_status":  "published",
+    "next_authorized_gate":  "closed",
+    "communications_status":  "closed_owner_confirmed"
+}

@@ -1,0 +1,72 @@
+{
+    "schema_version":  "0.2.0",
+    "production_unit":  {
+                            "code":  "PU-B08-C01",
+                            "book_number":  8,
+                            "chapter_number":  1,
+                            "title":  "Enterprise AI Architecture",
+                            "slug":  "pu-b08-c01",
+                            "status":  "released",
+                            "version":  "0.4.1",
+                            "owner":  "Mbaye Kebe",
+                            "approver":  "Mbaye Kebe"
+                        },
+    "source_assets":  {
+                          "chapter_source":  "production-units/PU-B08-C01/lesson/PU-B08-C01_Enterprise_AI_Architecture_Lesson_v0.2.docx",
+                          "notebook":  "production-units/PU-B08-C01/notebook/PU-B08-C01_Enterprise_AI_Architecture_Notebook_v0.2.ipynb",
+                          "exercises_source":  "production-units/PU-B08-C01/assessment/PU-B08-C01_Exercises_and_Solutions_v0.2.docx",
+                          "executive_brief_source":  "production-units/PU-B08-C01/executive/PU-B08-C01_Executive_Brief_v0.2.docx",
+                          "video_source":  "production-units/PU-B08-C01/slides/PU-B08-C01_Lesson_Presentation_v0.4.pptx"
+                      },
+    "controlled_assets":  {
+                              "chapter_pdf":  "production-units/PU-B08-C01/lesson/PU-B08-C01_Enterprise_AI_Architecture_Lesson_v0.2.pdf",
+                              "exercises_pdf":  "production-units/PU-B08-C01/assessment/PU-B08-C01_Exercises_and_Solutions_v0.2.pdf",
+                              "executive_brief_pdf":  "production-units/PU-B08-C01/executive/PU-B08-C01_Executive_Brief_v0.2.pdf",
+                              "release_zip":  "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/releases/download/pu-b08-c01-v0.4.1/PU-B08-C01_Stage2_Production_Package_v0.4.1.zip",
+                              "release_zip_sha256":  "783661420c789100a0cff5cd067d21f0b597e6e2e75da2e1a25349048bca342d"
+                          },
+    "git":  {
+                "book_repository":  "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems",
+                "release_commit":  "597efcd7ebbb851a3789779e3bd1b1893d759d22",
+                "release_tag":  "pu-b08-c01-v0.4.1",
+                "release_url":  "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/releases/tag/pu-b08-c01-v0.4.1",
+                "website_repository":  "https://github.com/mbayekebe/SRAI_Public_Website",
+                "website_merge_commit":  "dc5aa45dba1cd9a9bd7a70a6c0cdb67ee1f7d846"
+            },
+    "publication":  {
+                        "youtube_id":  "99VrKrVlbUQ",
+                        "youtube_url":  "https://www.youtube.com/watch?v=99VrKrVlbUQ",
+                        "youtube_visibility":  "unlisted",
+                        "youtube_embedding":  "enabled_and_owner_confirmed",
+                        "youtube_caption_status":  "supplied_not_reverified",
+                        "website_route":  "/learn/pu-b08-c01/",
+                        "website_url":  "https://srai.mbayekebe.net/learn/pu-b08-c01/",
+                        "linkedin_announcement_url":  "https://lnkd.in/p/dQ6-QtRd",
+                        "linkedin_technical_url":  "https://lnkd.in/p/dP3Ywb6k"
+                    },
+    "validation":  {
+                       "controlled_package":  "pass_34_payload_files",
+                       "release_archive":  "pass_36_files_sha256_verified",
+                       "website_tests":  "41/41 pass",
+                       "production_http":  "200 pass",
+                       "visual_review":  "pass_owner_confirmed",
+                       "mobile_review":  "not_reverified"
+                   },
+    "evidence":  {
+                     "closeout_record":  "EVIDENCE/PU-B08-C01_ECOSYSTEM_PUBLICATION.json",
+                     "approved_at":  "2026-09-08",
+                     "published_at":  "2026-09-09",
+                     "notes":  [
+                                   "Owner approved the foundation assets, continuous executive presentation and publication workflow.",
+                                   "Corrective annotated tag resolves to the approved Book 8 commit; v0.4.0 remains as superseded audit evidence.",
+                                   "The v0.4.1 ZIP contained 36 files and its SHA-256 was verified before publication.",
+                                   "Forty-one Django catalogue tests passed; migration 0013 applied; the SRAI service reported active and the public endpoint returned HTTP 200.",
+                                   "Owner confirmed the live page, controlled resources and embedded Unlisted video.",
+                                   "Independent review was not performed or claimed; LinkedIn publication, mobile review and caption recheck remain follow-ups.",
+                                   "LinkedIn announcement and technical post were published and their URLs supplied by the owner."
+                               ]
+                 },
+    "production_status":  "published",
+    "next_authorized_gate":  "closed",
+    "communications_status":  "closed_owner_confirmed"
+}

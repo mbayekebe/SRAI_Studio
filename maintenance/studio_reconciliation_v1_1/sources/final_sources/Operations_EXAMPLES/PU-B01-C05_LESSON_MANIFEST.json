@@ -1,0 +1,81 @@
+{
+  "schema_version": "0.2.0",
+  "production_unit": {
+    "code": "PU-B01-C05",
+    "book_number": 1,
+    "chapter_number": 5,
+    "title": "Vector Spaces, Bases, Rank and Projections",
+    "slug": "pu-b01-c05",
+    "status": "released",
+    "version": "1.0.0",
+    "owner": "Mbaye Kebe",
+    "approver": "Mbaye Kebe"
+  },
+  "source_assets": {
+    "chapter_source": "production-units/PU-B01-C05/docs/PU-B01-C05_Chapter5_Vector_Spaces_Bases_Rank_and_Projections_Controlled_Edition_v1.0.docx",
+    "notebook": "production-units/PU-B01-C05/notebooks/M1/M1_N05_vector_spaces_bases_rank_projections_v0.2.2.ipynb",
+    "exercises_source": "production-units/PU-B01-C05/docs/PU-B01-C05_Educational_Exercises_and_Solutions_v1.0.docx",
+    "executive_brief_source": "production-units/PU-B01-C05/docs/PU-B01-C05_Executive_Brief_v1.0.docx",
+    "video_source": "production-units/PU-B01-C05/video/PU-B01-C05_Video_Lesson_Deck_v1.0.pptx"
+  },
+  "controlled_assets": {
+    "chapter_pdf": "production-units/PU-B01-C05/docs/PU-B01-C05_Chapter5_Vector_Spaces_Bases_Rank_and_Projections_Controlled_Edition_v1.0.pdf",
+    "exercises_pdf": "production-units/PU-B01-C05/docs/PU-B01-C05_Educational_Exercises_and_Solutions_v1.0.pdf",
+    "executive_brief_pdf": "production-units/PU-B01-C05/docs/PU-B01-C05_Executive_Brief_v1.0.pdf",
+    "release_zip": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/download/pu-b01-c05-v1.0.0/PU-B01-C05_GitHub_Repository_v1.0.0.zip",
+    "release_zip_sha256": "a191cdfd56a059e91ca2d4510171f9f6215c326939e4b47142d44a507a6eef9d"
+  },
+  "git": {
+    "book_repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations",
+    "release_commit": "fa755b3392f6a5911f403af649db3eec1444979e",
+    "release_tag": "pu-b01-c05-v1.0.0",
+    "release_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c05-v1.0.0",
+    "website_repository": "https://github.com/mbayekebe/SRAI_Public_Website",
+    "website_merge_commit": "9b867837adf5a4b475c5a9397f2cd81ff54bd404"
+  },
+  "publication": {
+    "youtube_id": "tZtdYcMEaIQ",
+    "youtube_url": "https://www.youtube.com/watch?v=tZtdYcMEaIQ",
+    "youtube_visibility": "public",
+    "youtube_caption_language": "English",
+    "youtube_caption_status": "pending",
+    "website_route": "/learn/pu-b01-c05/",
+    "website_url": "https://srai.mbayekebe.net/learn/pu-b01-c05/",
+    "linkedin_announcement_url": "https://lnkd.in/p/dV2XgXci",
+    "linkedin_technical_url": "https://lnkd.in/p/dndyUqMa"
+  },
+  "validation": {
+    "local_notebook": "pass",
+    "colab_notebook": "pass",
+    "controlled_pdfs": "pass",
+    "release_package": "pass",
+    "website_tests": "pass",
+    "production_http": "pass",
+    "visual_review": "pass"
+  },
+  "evidence": {
+    "closeout_record": "EVIDENCE/PU-B01-C05_RELEASE_CLOSEOUT.md",
+    "approved_at": "",
+    "published_at": "",
+    "notes": [
+      "Controlled source intake recorded at 2026-09-01T00:10:57.159883Z.",
+      "Owner approved the chapter, notebook and new production assets in conversation.",
+      "Owner confirmed notebook v0.2.2 works in Colab and approved the 16-minute video.",
+      "Evidence: EVIDENCE/PU-B01-C05_ASSET_AND_VIDEO_APPROVAL.json",
+      "The approver field identifies a person; this update records no independent reviewer signoff.",
+      "Exact-version local notebook verification remains pending. Release, website and communications gates remain unfinished.",
+      "YouTube visibility and caption status have not been independently rechecked.",
+      "Historical intake notes above are preserved; current evidence supersedes their pending states.",
+      "Owner confirmed exact released notebook v0.2.2 executed successfully in VS Code; Colab previously confirmed.",
+      "Mbaye Kebe is the release approver under explicit owner-authorized exception. Aliou Diouf was previously named but no independent signoff was recorded.",
+      "Runtime 1.1.1rc1 remains a disclosed, checksum-pinned prerelease.",
+      "Release ZIP: 32 files and 20 mathematical tests passed; GitHub asset digest matched the local archive.",
+      "Website: 10 local tests passed; owner-supplied production log shows migration 0008 applied, service active, HTTP 200 and content checks passed.",
+      "Owner confirmed visual verification and public video playback; LinkedIn URLs are owner-reported, not independently inspected.",
+      "Caption availability remains unverified/pending and is retained as a non-blocking follow-up.",
+      "Exact approval/publication timestamps were not supplied; recorded_utc is a record timestamp only."
+    ]
+  },
+  "production_status": "ecosystem_release_closed",
+  "next_authorized_gate": "closed"
+}

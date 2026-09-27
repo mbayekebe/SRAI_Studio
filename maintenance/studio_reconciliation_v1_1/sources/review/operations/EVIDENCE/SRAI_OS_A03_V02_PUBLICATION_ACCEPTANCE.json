@@ -1,0 +1,50 @@
+﻿{
+    "schema_version":  "0.1.0",
+    "recorded_date":  "2026-09-27",
+    "module":  {
+                   "title":  "Professional Obligations",
+                   "code":  "OS-A03",
+                   "pathway":  "Official Statistics \u0026 AI",
+                   "version":  "0.2"
+               },
+    "status":  "PUBLICATION_CLOSED",
+    "content_repository":  {
+                               "commit":  "a908ed524ac559b338faab48ef41ecdccd11afa9",
+                               "branch":  "main",
+                               "pull_request":  3,
+                               "public_manifest":  "modules/OS-A03/release/PUBLIC_ASSET_MANIFEST.json",
+                               "url":  "https://github.com/mbayekebe/SRAI_Official_Statistics_and_AI_Pathway",
+                               "checksums":  "modules/OS-A03/release/SHA256SUMS.txt"
+                           },
+    "website":  {
+                    "deployed_commit":  "9b7ae6ffa0c8aaed7b1cde8116d7a6a339743c9d",
+                    "module_url":  "https://srai.mbayekebe.net/official-statistics/modules/a3/",
+                    "deployment_status":  "verified_live",
+                    "pull_request":  37
+                },
+    "video":  {
+                  "url":  "https://youtu.be/5nwDm-KUigk",
+                  "status":  "published_and_embedded"
+              },
+    "assets":  {
+                   "asset_boundary":  "Public learner resources include the exercise solutions and assessor key at the owner\u0027s direction.",
+                   "published_resource_count":  10
+               },
+    "validation":  {
+                       "live_thumbnail":  "HTTP 200",
+                       "django_system_check":  "PASS",
+                       "production_service":  "active",
+                       "live_module_route":  "HTTP 200",
+                       "live_resource_links":  "10 of 10 HTTP 200",
+                       "django_pathway_tests":  "7 of 7 PASS"
+                   },
+    "production":  {
+                       "deployed_commit":  "9b7ae6ffa0c8aaed7b1cde8116d7a6a339743c9d",
+                       "previous_commit":  "9f34999759f2b8542e39f8b7c093b04e41783b8d",
+                       "backup_status":  "Application archive and PostgreSQL dump readable; service and Nginx configurations saved.",
+                       "backup_path":  "/srv/srai/backups/os-a03-20260927T183303Z"
+                   },
+    "publication_authorized":  true,
+    "public_access_authorized":  true,
+    "evidence_status":  "verified"
+}

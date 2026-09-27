@@ -1,0 +1,69 @@
+{
+    "schema_version":  "0.1.0",
+    "recorded_date":  "2026-09-27",
+    "module":  {
+                   "code":  "OS-A02",
+                   "title":  "AI Concepts for Official Statisticians",
+                   "pathway":  "Official Statistics \u0026 AI",
+                   "version":  "1.0"
+               },
+    "status":  "PUBLICATION_CLOSED",
+    "content_repository":  {
+                               "url":  "https://github.com/mbayekebe/SRAI_Official_Statistics_and_AI_Pathway",
+                               "branch":  "main",
+                               "commit":  "b983a2d6dcfd0c1756d46fdf6d6c9e27d15100fe",
+                               "release_tag":  "os-a02-v1.0.0",
+                               "pull_request":  2,
+                               "public_manifest":  "modules/OS-A02/release/PUBLIC_ASSET_MANIFEST.json",
+                               "checksums":  "modules/OS-A02/release/SHA256SUMS.txt"
+                           },
+    "website":  {
+                    "module_url":  "https://srai.mbayekebe.net/official-statistics/modules/a2/",
+                    "integration_commit":  "9f34999759f2b8542e39f8b7c093b04e41783b8d",
+                    "pull_request":  36,
+                    "deployment_status":  "owner_verified_live"
+                },
+    "video":  {
+                  "url":  "https://youtu.be/Gnm0OHTeqgg",
+                  "status":  "published and live"
+              },
+    "communications":  {
+                           "linkedin_announcement":  "https://lnkd.in/p/dYzUqbzE",
+                           "linkedin_executive_post":  "https://lnkd.in/p/dFbH4AwF",
+                           "status":  "published"
+                       },
+    "assets":  {
+                   "published_resource_count":  12,
+                   "asset_boundary":  "Learner-facing public resources only; facilitator guidance, explained solutions, assessor and scoring materials, executed reference outputs and institutional toolkit materials remain excluded.",
+                   "presentation":  {
+                                        "editable_filename":  "OS-A02-A05_Presentation_and_Narration_AI_Concepts_for_Official_Statisticians_v2.2.pptx",
+                                        "editable_sha256":  "442cc97456aeaf58dc0b985d622606b2c7275e0e6d33ff82108310ec17fb4af9",
+                                        "speaker_notes_status":  "24 slides aligned with their visible bullet points"
+                                    },
+                   "executable_laboratory":  {
+                                                 "filename":  "OS-A02-A06_Executable_Classification_Laboratory_AI_Concepts_for_Official_Statisticians_v1.0.ipynb",
+                                                 "validation":  "PASS"
+                                             }
+               },
+    "validation":  {
+                       "asset_hashes":  "12 of 12 PASS",
+                       "django_system_check":  "PASS",
+                       "django_regression_tests":  "6 of 6 PASS",
+                       "local_download_links":  "12 of 12 HTTP 200",
+                       "production_service":  "active",
+                       "nginx_service":  "active",
+                       "live_module_route":  "HTTP 200",
+                       "live_modules_index":  "HTTP 200",
+                       "live_video_page":  "HTTP 200",
+                       "live_public_download_links":  "12 of 12 HTTP 200"
+                   },
+    "production":  {
+                       "deployed_commit":  "9f34999759f2b8542e39f8b7c093b04e41783b8d",
+                       "backup_path":  "/srv/srai/backups/os-a02-20260927T110427Z",
+                       "backup_status":  "application archive, database dump and service configurations verified"
+                   },
+    "publication_authorized":  true,
+    "public_access_authorized":  true,
+    "evidence_status":  "verified",
+    "provenance":  "Recorded from the merged pathway and website repositories, controlled release tag, verified public manifest, local and production validation results, published video and LinkedIn communications."
+}

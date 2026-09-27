@@ -1,0 +1,49 @@
+{
+    "record_version":  "1.0",
+    "production_unit":  "PU-B08-C01",
+    "recorded_utc":  "2026-09-09T00:45:00Z",
+    "status":  "PUBLISHED_CLOSED",
+    "release_approver":  "Mbaye Kebe",
+    "independent_review":  "not_performed_owner_authorized_publication",
+    "notebook":  {
+                     "path":  "production-units/PU-B08-C01/notebook/PU-B08-C01_Enterprise_AI_Architecture_Notebook_v0.2.ipynb",
+                     "sha256":  "9cdcbcfb65ceb83f9fa13df900e16c078b16d64a0840931e58a6d08e25d290ec",
+                     "package_validation":  "pass",
+                     "colab":  "not_reverified_in_publication_workflow"
+                 },
+    "release":  {
+                    "url":  "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/releases/tag/pu-b08-c01-v0.4.1",
+                    "commit":  "597efcd7ebbb851a3789779e3bd1b1893d759d22",
+                    "zip_url":  "https://github.com/mbayekebe/SRAI_Book_08_Enterprise_AI_Systems/releases/download/pu-b08-c01-v0.4.1/PU-B08-C01_Stage2_Production_Package_v0.4.1.zip",
+                    "zip_sha256":  "783661420c789100a0cff5cd067d21f0b597e6e2e75da2e1a25349048bca342d",
+                    "verification":  "Corrective annotated tag and 36-file release archive verified; v0.4.0 preserved as superseded evidence"
+                },
+    "website":  {
+                    "url":  "https://srai.mbayekebe.net/learn/pu-b08-c01/",
+                    "pull_request":  "https://github.com/mbayekebe/SRAI_Public_Website/pull/16",
+                    "merge_commit":  "dc5aa45dba1cd9a9bd7a70a6c0cdb67ee1f7d846",
+                    "local_tests":  "41/41 pass",
+                    "migration":  "catalog.0013_publish_book8_lesson_01",
+                    "production_backup":  "private logical backup created before code and migration deployment; location retained off-repository",
+                    "deployment":  "pass_owner_supplied_server_log",
+                    "service":  "active",
+                    "http_status":  200,
+                    "visual_review":  "pass_owner_confirmed",
+                    "mobile_review":  "not_reverified"
+                },
+    "video":  {
+                  "url":  "https://www.youtube.com/watch?v=99VrKrVlbUQ",
+                  "visibility":  "unlisted_owner_confirmed",
+                  "embedding":  "enabled_and_live_embed_owner_confirmed",
+                  "caption_status":  "supplied_not_reverified"
+              },
+    "communications":  {
+                           "announcement":  "https://lnkd.in/p/dQ6-QtRd",
+                           "technical_brief":  "https://lnkd.in/p/dP3Ywb6k",
+                           "status":  "published_owner_confirmed",
+                           "verification":  "Owner supplied both publication URLs."
+                       },
+    "nonblocking_followups":  [
+                                  "Reconfirm caption synchronization and mobile presentation before final closeout."
+                              ]
+}

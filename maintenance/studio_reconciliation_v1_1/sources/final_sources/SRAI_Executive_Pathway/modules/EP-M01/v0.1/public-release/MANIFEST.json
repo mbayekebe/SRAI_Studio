@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "module":  "EP-M01",
+    "title":  "Making a Defensible AI Decision",
+    "release_target":  "ep-m01-v0.1.1",
+    "validation_status":  "PASS",
+    "public_asset_count":  5,
+    "document_policy":  "PDF documents and one IPYNB notebook",
+    "files":  [
+                  {
+                      "path":  "assessment/EP-M01-A04_Practice_Exercises_v0.2.pdf",
+                      "size_bytes":  346521,
+                      "sha256":  "168797383066e9f957bc552d58dafb19154307985981cd7b51c1348ea9ea985f"
+                  },
+                  {
+                      "path":  "executive/EP-M01-A02_Executive_Brief_v0.1.pdf",
+                      "size_bytes":  266945,
+                      "sha256":  "76f14ce75eca16a5140abbc0952abd5490ea6f68761beec1cf6d90ee052400f0"
+                  },
+                  {
+                      "path":  "lesson/EP-M01-A01_Canonical_Lesson_Making_a_Defensible_AI_Decision_v0.1.pdf",
+                      "size_bytes":  322559,
+                      "sha256":  "ea872d1da286b7c058492c77a6d2027fec30ddc680225542ecb9e689561b289a"
+                  },
+                  {
+                      "path":  "notebook/EP-M01-A08_Companion_Notebook_v0.1.ipynb",
+                      "size_bytes":  10007,
+                      "sha256":  "4222ce22f4c9c18da82c206cf9c2943497c59dcebc876fd8240bb679dd42b46c"
+                  },
+                  {
+                      "path":  "README.md",
+                      "size_bytes":  629,
+                      "sha256":  "64da1f1db623084a215cdefee4652a02574596a5122e1f9b429a709534bc44fa"
+                  },
+                  {
+                      "path":  "RELEASE_RECORD.md",
+                      "size_bytes":  567,
+                      "sha256":  "9df0d5550f64abb88910e074e48c124d5feeedc9beae8b0cb016d6c60a6b8d50"
+                  },
+                  {
+                      "path":  "slides/SRAI_EP_M01_A03_Executive_Decision_Deck_v0.1.pdf",
+                      "size_bytes":  375914,
+                      "sha256":  "6cb7244f45503fb01a2438ea1d6099860bad40ab4e9ad87d7e7b5b3e1ca4f620"
+                  },
+                  {
+                      "path":  "VALIDATION_REPORT.md",
+                      "size_bytes":  536,
+                      "sha256":  "00a488b13aae2ce59cfc55669a34a75dc8790951fb2249fc2651b31e092d50d5"
+                  }
+              ]
+}

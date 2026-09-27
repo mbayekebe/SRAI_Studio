@@ -1,0 +1,71 @@
+{
+    "record_version":  "1.0",
+    "production_unit":  "PU-B03-C01",
+    "recorded_utc":  "2026-09-11T09:08:45Z",
+    "status":  "PUBLISHED_CLOSED",
+    "release_approver":  "Mbaye Kebe",
+    "independent_review":  "not_performed_owner_authorized_publication",
+    "notebook":  {
+                     "path":  "production-units/PU-B03-C01/lesson/M3_N01_neural_network_foundations_v0.1.ipynb",
+                     "sha256":  null,
+                     "package_validation":  "pass",
+                     "execution_status":  "32_code_cells_executed_zero_errors",
+                     "seed":  42
+                 },
+    "release":  {
+                    "url":  "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/releases/tag/pu-b03-c01-v0.2.1",
+                    "commit":  "d2168a415b365ad17465b9f5d9deb5abbff06e08",
+                    "tag":  "pu-b03-c01-v0.2.1",
+                    "controlled_asset_count":  37,
+                    "installed_checksum_count":  36,
+                    "checksum_failures":  0,
+                    "attached_release_archive":  "PU-B03-C01_Public_Release_v0.2.1.zip",
+                    "release_archive_sha256":  "e44eefcfbf335617396e2a1b4573ed3da2be95d6c6a0ab8d3545a0265265fa89",
+                    "verification":  "Annotated tag and finalized latest GitHub release verified; assessment and solutions published separately."
+                },
+    "website":  {
+                    "url":  "https://srai.mbayekebe.net/learn/pu-b03-c01/",
+                    "pull_requests":  [
+                                          18,
+                                          19
+                                      ],
+                    "merge_commit":  "bde44a68fe8363b4fe1120b889ec72578c90c5f9",
+                    "local_tests":  "41/41 pass",
+                    "migrations":  [
+                                       "catalog.0016_publish_book3_lesson_01",
+                                       "catalog.0017_fix_book3_lesson_01_assets"
+                                   ],
+                    "database":  "PostgreSQL srai_db",
+                    "production_backup":  {
+                                              "file":  "before-pu-b03-c01-20260911T014007Z.dump",
+                                              "format":  "PostgreSQL custom-format logical backup",
+                                              "sha256":  "587f954d473eb808c6811b77220c0c5c005f8b7ea7902025c6121fa8674bc6c2",
+                                              "verification":  "pg_restore_list_pass"
+                                          },
+                    "deployment":  "pass_owner_supplied_server_log",
+                    "service":  "active",
+                    "http_status":  200,
+                    "visual_review":  "local_page_pass_owner_confirmed",
+                    "live_content_checks":  "6/6 pass",
+                    "controlled_links":  "7/7 HTTP 200"
+                },
+    "video":  {
+                  "url":  "https://www.youtube.com/watch?v=Cpd9cPob4QY",
+                  "visibility":  "owner_finalized",
+                  "embedding":  "enabled_and_live",
+                  "playback":  "pass_owner_confirmed",
+                  "captions":  "supplied_owner_finalized_not_independently_reverified",
+                  "title_thumbnail":  "owner_configured"
+              },
+    "communications":  {
+                           "announcement":  "https://lnkd.in/p/dpGB7jkj",
+                           "executive_post":  "https://lnkd.in/p/dDvvRPE2",
+                           "featured":  "not_recorded",
+                           "status":  "published_owner_confirmed",
+                           "verification":  "Owner supplied both published LinkedIn URLs."
+                       },
+    "nonblocking_followups":  [
+                                  "Reconfirm final YouTube caption synchronization if the video is re-edited.",
+                                  "Record Featured placement if the two LinkedIn posts are later added to Featured."
+                              ]
+}
