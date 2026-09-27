@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.2.0",
+  "production_unit": "PU-B01-C03",
+  "reconciliation_date": "2026-09-11",
+  "status": "published",
+  "evidence_status": "verified",
+  "release": {
+    "repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations",
+    "commit": "24530f256e0eff13a4b4e54f4de57dff859fad89",
+    "tag": "pu-b01-c03-v1.0.0",
+    "url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c03-v1.0.0",
+    "zip": "PU-B01-C03_GitHub_Repository_v1.0.0.zip",
+    "sha256": "adbd35226072c7f36a543191f8e382b992176b0aefff07c323980caeb1c08922",
+    "verification": "verified"
+  },
+  "website": {"url": "https://srai.mbayekebe.net/learn/pu-b01-c03/", "commit": "2d8c0d3899aba14185c54ddd7716b3e98250af7d", "status": "verified"},
+  "video": {"id": "THvzO5_L-Zs", "url": "https://www.youtube.com/watch?v=THvzO5_L-Zs", "status": "published"},
+  "communications": {
+    "announcement": "https://www.linkedin.com/feed/update/urn:li:activity:7499771320365113344/",
+    "executive_post": "https://www.linkedin.com/feed/update/urn:li:activity:7499771947216723968/",
+    "status": "recorded"
+  },
+  "validation": {"local_notebook": "pass", "colab_notebook": "pass", "controlled_pdfs": "pass", "release_package": "pass", "website_tests": "pass", "production_http": "pass", "visual_review": "pass"},
+  "nonblocking_followups": ["LinkedIn URLs are retained from the approved lesson manifest and were not reopened during this reconciliation."],
+  "provenance": "Reconstructed from the registry and EXAMPLES/PU-B01-C03_LESSON_MANIFEST.json."
+}

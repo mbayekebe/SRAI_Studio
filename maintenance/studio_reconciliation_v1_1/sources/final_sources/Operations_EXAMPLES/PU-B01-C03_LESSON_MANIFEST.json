@@ -1,0 +1,62 @@
+{
+  "schema_version": "0.1.0",
+  "production_unit": {
+    "code": "PU-B01-C03",
+    "book_number": 1,
+    "chapter_number": 3,
+    "title": "Vector Foundations",
+    "slug": "pu-b01-c03",
+    "status": "published",
+    "version": "1.0.0",
+    "owner": "Mbaye Kebe",
+    "approver": "Mbaye Kebe"
+  },
+  "source_assets": {
+    "chapter_source": "production-units/PU-B01-C03/docs/PU-B01-C03_Chapter3_Vector_Foundations_Audited_Controlled_Edition_v1.0.docx",
+    "notebook": "production-units/PU-B01-C03/notebooks/M1_N03_vector_foundations.ipynb",
+    "exercises_source": "production-units/PU-B01-C03/docs/PU-B01-C03_Exercises_and_Solutions_v1.0.docx",
+    "executive_brief_source": "production-units/PU-B01-C03/docs/PU-B01-C03_Executive_Brief_v1.0.docx",
+    "video_source": "controlled external video master"
+  },
+  "controlled_assets": {
+    "chapter_pdf": "production-units/PU-B01-C03/docs/PU-B01-C03_Chapter3_Vector_Foundations_Audited_Controlled_Edition_v1.0.pdf",
+    "exercises_pdf": "production-units/PU-B01-C03/docs/PU-B01-C03_Exercises_and_Solutions_v1.0.pdf",
+    "executive_brief_pdf": "production-units/PU-B01-C03/docs/PU-B01-C03_Executive_Brief_v1.0.pdf",
+    "release_zip": "PU-B01-C03_GitHub_Repository_v1.0.0.zip",
+    "release_zip_sha256": "adbd35226072c7f36a543191f8e382b992176b0aefff07c323980caeb1c08922"
+  },
+  "git": {
+    "book_repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations",
+    "release_commit": "24530f256e0eff13a4b4e54f4de57dff859fad89",
+    "release_tag": "pu-b01-c03-v1.0.0",
+    "release_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c03-v1.0.0",
+    "website_repository": "https://github.com/mbayekebe/SRAI_Public_Website",
+    "website_merge_commit": "2d8c0d3899aba14185c54ddd7716b3e98250af7d"
+  },
+  "publication": {
+    "youtube_id": "THvzO5_L-Zs",
+    "youtube_url": "https://www.youtube.com/watch?v=THvzO5_L-Zs",
+    "website_route": "/learn/pu-b01-c03/",
+    "website_url": "https://srai.mbayekebe.net/learn/pu-b01-c03/",
+    "linkedin_announcement_url": "https://www.linkedin.com/feed/update/urn:li:activity:7499771320365113344/",
+    "linkedin_technical_url": "https://www.linkedin.com/feed/update/urn:li:activity:7499771947216723968/"
+  },
+  "validation": {
+    "local_notebook": "pass",
+    "colab_notebook": "pass",
+    "controlled_pdfs": "pass",
+    "release_package": "pass",
+    "website_tests": "pass",
+    "production_http": "pass",
+    "visual_review": "pass"
+  },
+  "evidence": {
+    "closeout_record": "EVIDENCE/PU-B01-C03_RELEASE_CLOSEOUT.md",
+    "approved_at": "2026-08-30",
+    "published_at": "2026-08-30",
+    "notes": [
+      "Reference implementation for the canonical SRAI lesson-production golden path.",
+      "LinkedIn activity classification recorded from the publication chronology and owner-supplied URLs."
+    ]
+  }
+}

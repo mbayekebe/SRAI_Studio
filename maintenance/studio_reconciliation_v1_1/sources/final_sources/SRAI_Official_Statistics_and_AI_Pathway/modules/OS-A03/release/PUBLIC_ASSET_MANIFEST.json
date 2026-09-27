@@ -1,0 +1,89 @@
+{
+  "module": "OS-A03",
+  "version": "v0.2",
+  "status": "owner_approved_publication_staging",
+  "required_product": "Professional judgement memorandum",
+  "solutions_public": true,
+  "assets": [
+    {
+      "key": "lesson",
+      "asset_id": "OS-A03-A01",
+      "label": "Canonical lesson",
+      "relative_path": "modules/OS-A03/lesson/OS-A03-A01_Canonical_Lesson_Professional_Obligations_v0.1.pdf",
+      "sha256": "65f8b66d92d61b2695660be76615f36852e4dd93ada56c21a414cf11de6ee8b8",
+      "bytes": 759980
+    },
+    {
+      "key": "brief",
+      "asset_id": "OS-A03-A02",
+      "label": "Executive brief",
+      "relative_path": "modules/OS-A03/executive/01_Executive_Brief.pdf",
+      "sha256": "518d6c129fa63c0e0b0a293175412178ff8e77d7b0b835713b3fb22b85b1764b",
+      "bytes": 30629
+    },
+    {
+      "key": "guide",
+      "asset_id": "OS-A03-A03",
+      "label": "Learner guide",
+      "relative_path": "modules/OS-A03/learner/02_Learner_Guide.pdf",
+      "sha256": "087af33a0a90511a58a4e1888020993ef2dc25750a9ba6e6b8205fa673693b0a",
+      "bytes": 36587
+    },
+    {
+      "key": "slides",
+      "asset_id": "OS-A03-A05",
+      "label": "Illustrated teaching presentation",
+      "relative_path": "modules/OS-A03/slides/OS-A03_Teaching_Presentation_Illustrated_v0.2.pptx",
+      "sha256": "80544e233bc92b6bd1fd7feea3d7299f82fdcb228715d28f1ebdae3af91d0ec5",
+      "bytes": 7673597
+    },
+    {
+      "key": "thumbnail",
+      "asset_id": "OS-A03-A05",
+      "label": "Video thumbnail",
+      "relative_path": "modules/OS-A03/slides/OS-A03_Video_Thumbnail_v0.2.png",
+      "sha256": "437bdb77354707e08d8dbfe4d3b09524326557abb7251e5c9ec25447d1355d1e",
+      "bytes": 848325
+    },
+    {
+      "key": "lab",
+      "asset_id": "OS-A03-A06",
+      "label": "Standalone executable notebook",
+      "relative_path": "modules/OS-A03/notebook/OS-A03-A06_Professional_Obligations_Laboratory_v0.2.ipynb",
+      "sha256": "57e92945f655d9ec71081a7bf171fc727e5c4af2753d850909fa7fa0eabe6a41",
+      "bytes": 17806
+    },
+    {
+      "key": "practice",
+      "asset_id": "OS-A03-A08",
+      "label": "Practice exercises",
+      "relative_path": "modules/OS-A03/assessment/04_Practice_Exercises.pdf",
+      "sha256": "e08812067efd8a732fcd4c1267e12a2ed944b53356a427dea2a882d316ea9245",
+      "bytes": 29412
+    },
+    {
+      "key": "solutions",
+      "asset_id": "OS-A03-A08",
+      "label": "Practice solutions",
+      "relative_path": "modules/OS-A03/assessment/07_Practice_Solutions_and_Assessor_Key.pdf",
+      "sha256": "f374b79591f3a0b99bbffa306e11e51238c8b47b3b3513217187120f1cede390",
+      "bytes": 34408
+    },
+    {
+      "key": "assessment",
+      "asset_id": "OS-A03-A09",
+      "label": "Learner assessment brief",
+      "relative_path": "modules/OS-A03/assessment/05_Learner_Assessment_Brief.pdf",
+      "sha256": "9bb03ffe4ad94791250471bcafc023e49bc71dd978fc7ddc14555892556f1a6c",
+      "bytes": 30131
+    },
+    {
+      "key": "toolkit",
+      "asset_id": "OS-A03-A10",
+      "label": "Professional judgement toolkit",
+      "relative_path": "modules/OS-A03/toolkit/06_Professional_Judgement_Toolkit.pdf",
+      "sha256": "47440889447dd3927d83d0944a75f1334c6837cae1ea9d72a0c64aba496f9d2b",
+      "bytes": 32994
+    }
+  ]
+}

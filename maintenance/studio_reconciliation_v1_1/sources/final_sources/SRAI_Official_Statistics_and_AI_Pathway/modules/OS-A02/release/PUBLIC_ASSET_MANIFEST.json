@@ -1,0 +1,75 @@
+{
+    "module":  "OS-A02",
+    "version":  "v1.0",
+    "status":  "publication_candidate",
+    "file_count":  12,
+    "files":  [
+                  {
+                      "asset_id":  "OS-A02-A01",
+                      "path":  "lesson/OS-A02-A01_Canonical_Lesson_AI_Concepts_for_Official_Statisticians_v0.2.pdf",
+                      "sha256":  "1166aa02eb811e110ac6f9cadcd3f782e9c5e8a52cfda0bef5433455ce983c82"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A02",
+                      "path":  "executive/OS-A02-A02_Executive_Brief_AI_Concepts_for_Official_Statisticians_v1.0.pdf",
+                      "sha256":  "7c544ac0edaf03d78ad67748335fafd3fe5505fc0fdba01853935227e40c3a98"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A03",
+                      "path":  "learner/OS-A02-A03_Learner_Guide_AI_Concepts_for_Official_Statisticians_v1.0.pdf",
+                      "sha256":  "a0f80c48b69559af53a5cb848aee7e17c9e348c54e31093ca9a1fd1ae2a3a715"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A05",
+                      "path":  "slides/OS-A02-A05_Presentation_and_Narration_AI_Concepts_for_Official_Statisticians_v2.1.pdf",
+                      "sha256":  "c47309f344ac9bb4d041645f765e83850ed750169aea55e792a06a09e83caf70"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A05",
+                      "path":  "slides/OS-A02-A05_Presentation_and_Narration_AI_Concepts_for_Official_Statisticians_v2.2.pptx",
+                      "sha256":  "442cc97456aeaf58dc0b985d622606b2c7275e0e6d33ff82108310ec17fb4af9"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A06",
+                      "path":  "notebook/OS-A02-A06_Executable_Classification_Laboratory_AI_Concepts_for_Official_Statisticians_v1.0.ipynb",
+                      "sha256":  "24cd73d29b112976c2707a2454f25407bac16ab3ea97044501cb8c33f8677e57"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A06",
+                      "path":  "data/OS-A02-A06_Kintaba_Stress_Test_Data_v1.0.csv",
+                      "sha256":  "541299c71e339c99e4def7b238bfbf026787375671e3d62bc16f441a81171c1d"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A06",
+                      "path":  "data/OS-A02-A06_Kintaba_Task_Classification_Data_v1.0.csv",
+                      "sha256":  "742451082194abcba39eb104a5db1127ea82ebcb9bebad23fd2b0f63a3bec9cf"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A06",
+                      "path":  "notebook/OS-A02-A06_README_v1.0.md",
+                      "sha256":  "411041f609f675f779d00e60acb92935e01b896d3f4074b8bee7e2e6d7b2d70c"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A06",
+                      "path":  "notebook/requirements.txt",
+                      "sha256":  "f09d228cdb09340580d4135ceda36a1c63a7643d789629a0350bea23c484c59e"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A07",
+                      "path":  "learner/OS-A02-A07_Practice_Exercises_and_Case_Packet_AI_Concepts_for_Official_Statisticians_v1.0.pdf",
+                      "sha256":  "76c62edc368597b86db987e6086c506e14dff160ab11d17d163e7743ad53bf2b"
+                  },
+                  {
+                      "asset_id":  "OS-A02-A09",
+                      "path":  "assessment/OS-A02-A09_Learner_Assessment_Brief_AI_Concepts_for_Official_Statisticians_v1.0.pdf",
+                      "sha256":  "633a0e041e268d7b90856f2e14ee4fbe41afb3a9a7ce91290500d68cd61fe534"
+                  }
+              ],
+    "restricted_exclusions":  [
+                                  "A04",
+                                  "A08",
+                                  "A09 assessor/scoring",
+                                  "A06 executed reference",
+                                  "A10"
+                              ]
+}

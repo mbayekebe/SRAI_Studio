@@ -1,0 +1,55 @@
+{
+  "record_version": "1.0",
+  "production_unit": "PU-B01-C05",
+  "recorded_utc": "2026-09-01T18:02:28.043833+00:00",
+  "status": "ECOSYSTEM_CLOSEOUT",
+  "release_approver": "Mbaye Kebe",
+  "independent_review": "not_performed_owner_authorized_exception",
+  "previous_named_approver": "Aliou Diouf",
+  "runtime": {
+    "version": "1.1.1rc1",
+    "status": "disclosed_prerelease_owner_accepted",
+    "sha256": "6e7033465ad3d9bf4650227a11be0380512a44fd476a83d5828ad4ec4f07e923"
+  },
+  "notebook": {
+    "path": "production-units/PU-B01-C05/notebooks/M1/M1_N05_vector_spaces_bases_rank_projections_v0.2.2.ipynb",
+    "sha256": "010d9a5f3109890312b5dcbf8fe143edcb733936ae75d5e2a86b5fc82ff90b89",
+    "local_vscode": "pass_owner_confirmed_exact_v0.2.2",
+    "colab": "pass_owner_reported"
+  },
+  "release": {
+    "url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c05-v1.0.0",
+    "commit": "fa755b3392f6a5911f403af649db3eec1444979e",
+    "zip_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/download/pu-b01-c05-v1.0.0/PU-B01-C05_GitHub_Repository_v1.0.0.zip",
+    "zip_size_bytes": 444912,
+    "zip_sha256": "a191cdfd56a059e91ca2d4510171f9f6215c326939e4b47142d44a507a6eef9d",
+    "package_verification": "32 files; 20 tests; owner-provided verification output",
+    "github_asset_digest": "Matched through GitHub release metadata during this workflow"
+  },
+  "website": {
+    "url": "https://srai.mbayekebe.net/learn/pu-b01-c05/",
+    "merge_commit": "9b867837adf5a4b475c5a9397f2cd81ff54bd404",
+    "local_tests": "10/10 pass",
+    "migration": "catalog.0008_publish_lesson_05",
+    "deployment": "pass_owner_supplied_server_log",
+    "http": 200,
+    "service": "active",
+    "visual_review": "pass_owner_confirmed"
+  },
+  "video": {
+    "url": "https://www.youtube.com/watch?v=tZtdYcMEaIQ",
+    "visibility": "public_owner_confirmed",
+    "duration": "00:16:00",
+    "size_bytes": 131209644,
+    "sha256": "a2c905e1ec253d75f4fbe8507224f9cf1f7982b2001fee9ceb36d77832ebf2ed"
+  },
+  "communications": {
+    "basis": "owner-supplied published links",
+    "announcement": "https://lnkd.in/p/dV2XgXci",
+    "executive_brief": "https://lnkd.in/p/dndyUqMa"
+  },
+  "nonblocking_followups": [
+    "Confirm and review YouTube captions; no claim of caption availability"
+  ],
+  "prior_manifest_semantic_sha256": "b24d952ec54261a0c2a6e69ee422f9cfd7f7e9d45adbad75b66d199b07126b5d"
+}

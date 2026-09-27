@@ -1,0 +1,10 @@
+{
+  "schema_version": "0.2.0",
+  "production_unit": {"code": "PU-B01-C02", "book_number": 1, "chapter_number": 2, "title": "Sets, Logic, Relations and Functions", "slug": "pu-b01-c02", "status": "published", "version": "1.0.2", "owner": "Mbaye Kebe", "approver": "Mbaye Kebe"},
+  "controlled_assets": {"release_zip_sha256": "743c55b141a64b834a5d3348d5bcb39b4cb4f2bf7dbe20f3718d1f7fe259d571"},
+  "git": {"book_repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations", "release_tag": "pu-b01-c02-v1.0.2", "release_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c02-v1.0.2"},
+  "publication": {"youtube_id": "VYXyB1-wUFs", "youtube_url": "https://www.youtube.com/watch?v=VYXyB1-wUFs", "website_route": "/learn/pu-b01-c02/", "website_url": "https://srai.mbayekebe.net/learn/pu-b01-c02/", "linkedin_announcement_url": null, "linkedin_executive_url": null},
+  "validation": {"release_package": "verified_recorded", "publication_status": "published", "independent_reverification": "not_performed_during_reconciliation"},
+  "evidence": {"closeout_record": "EVIDENCE/PU-B01-C02_ECOSYSTEM_PUBLICATION.json", "reconciled_at": "2026-09-11", "notes": ["GitHub release and checksum were recorded as verified.", "YouTube and website publication are recorded from the publication workflow.", "LinkedIn URLs require verification."]},
+  "production_status": "published"
+}

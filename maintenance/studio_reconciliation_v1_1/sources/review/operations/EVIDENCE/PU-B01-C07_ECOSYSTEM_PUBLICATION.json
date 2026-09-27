@@ -1,0 +1,50 @@
+{
+  "record_version": "1.0",
+  "production_unit": "PU-B01-C07",
+  "recorded_utc": "2026-09-07T21:00:00Z",
+  "status": "PUBLISHED_CLOSED",
+  "release_approver": "Mbaye Kebe",
+  "independent_review": "not_performed_owner_authorized_publication",
+  "notebook": {
+    "path": "production-units/PU-B01-C07/notebooks/M1_N07_svd_pca_dimensionality_reduction.ipynb",
+    "sha256": "c9718fd683ec76f3a41d766cd7d2b70f7f97530e7f158b6db3ad5c0aefc31d85",
+    "local_vscode": "pass_owner_confirmed",
+    "colab": "pass_owner_confirmed",
+    "portable_validation": "16/16 code cells; saved outputs; no errors"
+  },
+  "release": {
+    "url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c07-v0.1.0",
+    "commit": "283f897c02d60b2a06d59aa65629ae673047de4f",
+    "zip_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/download/pu-b01-c07-v0.1.0/PU-B01-C07_Offline_Publication_Candidate_v0.1.0.zip",
+    "zip_sha256": "dd1a8fe9ddaefd031acee44692eacf8aec9c029482eb5414a6ee90e2bb3f2d52",
+    "verification": "Published ZIP downloaded and SHA-256 recorded; annotated tag resolves to approved merge commit"
+  },
+  "website": {
+    "url": "https://srai.mbayekebe.net/learn/pu-b01-c07/",
+    "pull_request": "https://github.com/mbayekebe/SRAI_Public_Website/pull/15",
+    "merge_commit": "f4254c339110b204890471e0b259d3d1ac135d20",
+    "local_tests": "39/39 pass",
+    "migration": "catalog.0012_publish_lesson_07",
+    "production_backup": "fresh private backup passed nonempty and archive-readability checks; sensitive location and digest retained off-repository",
+    "deployment": "pass_owner_supplied_server_log",
+    "service": "active",
+    "http_status": 200,
+    "visual_review": "pass_owner_confirmed",
+    "mobile_review": "pass_owner_confirmed"
+  },
+  "video": {
+    "url": "https://www.youtube.com/watch?v=nGWG4j2QTMI",
+    "visibility": "public_owner_confirmed",
+    "embedding": "enabled_and_live_embed_owner_confirmed",
+    "caption_status": "not_reverified_in_recovered_workflow"
+  },
+  "communications": {
+    "announcement": "https://lnkd.in/p/dVSPAwDE",
+    "executive_brief": "https://lnkd.in/p/dRpMGy6n",
+    "status": "published_owner_confirmed",
+    "verification": "Owner supplied both publication URLs; not independently reopened"
+  },
+  "nonblocking_followups": [
+    "Reconfirm YouTube caption availability and mathematical transcription accuracy when convenient."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "record_version": "1.0",
+  "recorded_utc": "2026-09-05T21:02:59.774462+00:00",
+  "status": "PUBLICATION_CLOSED",
+  "website": {
+    "url": "https://srai.mbayekebe.net/",
+    "deployed_commit": "c87d4fc00498aae6f3507e91d47484851b60d0ed",
+    "publication_merge_commit": "c24dfe9c28f619e618eac9641f709e757ba54c77",
+    "layout_hotfix_merge_commit": "c87d4fc00498aae6f3507e91d47484851b60d0ed",
+    "migrations": [
+      "catalog.0010_prepare_book7_lesson_01_candidate",
+      "catalog.0011_publish_book7_lesson_01"
+    ],
+    "service": "active",
+    "functional_checks": "passed",
+    "visual_review": "passed_owner_confirmed"
+  },
+  "book7": {
+    "production_unit": "PU-B07-C01",
+    "version": "v0.2",
+    "url": "https://srai.mbayekebe.net/learn/pu-b07-c01/",
+    "learner_assets": 6,
+    "video_id": "J60im-aqBBk",
+    "video_visibility": "public_owner_confirmed",
+    "package_sha256": "e0d87938e7bca52e88dffe2e4edc4bc2361e95c6d757a23dd8679777f25b41de",
+    "controlled_release": "https://github.com/mbayekebe/SRAI_Book_07_Applied_AI_Studio/releases/tag/pu-b07-c01-v0.2.0"
+  },
+  "executive_pathway": {
+    "module": "EP-M01",
+    "version": "v0.1",
+    "public_status": "Executive Early Access",
+    "url": "https://srai.mbayekebe.net/executive/modules/module-1/",
+    "learner_assets": 13,
+    "private_asset_groups": [
+      "A07",
+      "A12",
+      "A13"
+    ],
+    "private_route_checks": "passed_http_404",
+    "video_id": "ZWmfKqQ70I0",
+    "video_visibility": "public_owner_confirmed",
+    "package_sha256": "0ca92784fa6509a33222bbf38bd642e5504514694630de0ca567519ff6f03819",
+    "controlled_release": "https://github.com/mbayekebe/SRAI_Executive_Pathway/releases/tag/ep-m01-v0.1.0"
+  },
+  "communications": {
+    "status": "published_owner_confirmed",
+    "verification": "owner_supplied_urls_not_independently_reopened",
+    "linkedin_posts": [
+      {
+        "purpose": "Book 7 Lesson 1 and website expansion",
+        "url": "https://lnkd.in/p/dEHQX_eH"
+      },
+      {
+        "purpose": "Executive Pathway announcement",
+        "url": "https://lnkd.in/p/dbjq9zcC"
+      }
+    ]
+  },
+  "closed_utc": "2026-09-05T21:18:44.034052+00:00"
+}

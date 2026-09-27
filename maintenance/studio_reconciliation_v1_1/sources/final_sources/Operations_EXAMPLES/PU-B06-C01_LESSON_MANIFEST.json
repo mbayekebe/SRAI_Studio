@@ -1,0 +1,86 @@
+{
+    "schema_version":  "0.2.0",
+    "production_unit":  {
+                            "code":  "PU-B06-C01",
+                            "book_number":  6,
+                            "chapter_number":  1,
+                            "title":  "Foundations of Generative AI",
+                            "slug":  "pu-b06-c01",
+                            "status":  "released",
+                            "version":  "0.1.0",
+                            "owner":  "Mbaye Kebe",
+                            "approver":  "Mbaye Kebe"
+                        },
+    "source_assets":  {
+                          "chapter_source":  "production-units/PU-B06-C01/lesson/PU-B06-C01_Foundations_of_Generative_AI_SRAI_v0.1.docx",
+                          "notebook":  "production-units/PU-B06-C01/notebook/M6_N01_generative_ai_foundations.ipynb",
+                          "student_assessment_source":  "production-units/PU-B06-C01/assessment/PU-B06-C01_Student_Exercises_v0.1.docx",
+                          "solutions_source":  "production-units/PU-B06-C01/assessment/PU-B06-C01_Instructor_Solutions_v0.1.2.docx",
+                          "executive_brief_source":  "production-units/PU-B06-C01/executive/PU-B06-C01_Executive_Brief_v0.1.docx",
+                          "video_source":  "production-units/PU-B06-C01/slides/PU-B06-C01_Foundations_of_Generative_AI_Lesson_Presentation_v0.1.1.pptx"
+                      },
+    "controlled_assets":  {
+                              "chapter_pdf":  "production-units/PU-B06-C01/lesson/PU-B06-C01_Foundations_of_Generative_AI_SRAI_v0.1.pdf",
+                              "student_assessment_pdf":  "production-units/PU-B06-C01/assessment/PU-B06-C01_Student_Exercises_v0.1.pdf",
+                              "solutions_pdf":  "production-units/PU-B06-C01/assessment/PU-B06-C01_Instructor_Solutions_v0.1.2.pdf",
+                              "executive_brief_pdf":  "production-units/PU-B06-C01/executive/PU-B06-C01_Executive_Brief_v0.1.pdf",
+                              "presentation_pdf":  "production-units/PU-B06-C01/slides/PU-B06-C01_Foundations_of_Generative_AI_Lesson_Presentation_v0.1.1.pdf",
+                              "manifest_entry_count":  26,
+                              "installed_checksum_count":  27,
+                              "website_pdf_count":  5,
+                              "release_zip":  null,
+                              "release_zip_sha256":  null
+                          },
+    "git":  {
+                "book_repository":  "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence",
+                "release_commit":  "a2f5fcd10d4365b081a4f0470b5d1aa20b5e5660",
+                "release_tag":  "pu-b06-c01-v0.1.0",
+                "release_url":  "https://github.com/mbayekebe/SRAI_Book_06_Generative_Artificial_Intelligence/releases/tag/pu-b06-c01-v0.1.0",
+                "website_repository":  "https://github.com/mbayekebe/SRAI_Public_Website",
+                "website_merge_commit":  "14befc9e22a9dc2f002e84695a6ff22f4ebb516f",
+                "production_deployment_commit":  "18743761b87c05c8d68c476d0ad464464d76a47f"
+            },
+    "publication":  {
+                        "youtube_id":  "tRexg64h9t0",
+                        "youtube_url":  "https://youtu.be/tRexg64h9t0",
+                        "youtube_visibility":  "published_owner_confirmed",
+                        "youtube_embedding":  "enabled_and_verified",
+                        "youtube_caption_status":  "not_reported",
+                        "website_route":  "/learn/pu-b06-c01/",
+                        "website_url":  "https://srai.mbayekebe.net/learn/pu-b06-c01/",
+                        "linkedin_announcement_url":  "https://lnkd.in/p/d9C5arZa",
+                        "linkedin_executive_url":  "https://lnkd.in/p/d5uvkHyF"
+                    },
+    "validation":  {
+                       "package_validation":  "PASS",
+                       "manifest_entries":  "26 recorded",
+                       "installed_checksums":  "27 recorded",
+                       "notebook_json":  "pass",
+                       "notebook_execution":  "pass owner confirmed",
+                       "website_tests":  "48/48 pass",
+                       "production_http":  "lesson and Executive Module endpoints pass",
+                       "live_content":  "production content and asset checks pass",
+                       "controlled_links":  "five PDFs, notebook and video verified",
+                       "visual_review":  "local and production pages pass owner confirmed"
+                   },
+    "evidence":  {
+                     "closeout_record":  "EVIDENCE/PU-B06-C01_ECOSYSTEM_PUBLICATION.json",
+                     "approved_at":  "2026-09-16",
+                     "published_at":  "2026-09-16",
+                     "notes":  [
+                                   "Owner approved the Book 6 Lesson 1 learning package.",
+                                   "The notebook package and JSON structure passed validation.",
+                                   "The GitHub v0.1.0 release and annotated tag were published.",
+                                   "Five website-facing PDFs and one notebook were verified.",
+                                   "Forty-eight Django catalogue tests passed.",
+                                   "Migration catalog.0021 was applied to production PostgreSQL.",
+                                   "A pre-deployment PostgreSQL backup and Git rollback tag were created.",
+                                   "The DigitalOcean deployment and live content checks passed.",
+                                   "The LinkedIn announcement and executive post were published.",
+                                   "Owner-authorized publication; independent review was not performed or claimed."
+                               ]
+                 },
+    "production_status":  "published",
+    "next_authorized_gate":  "closed",
+    "communications_status":  "closed_owner_confirmed"
+}

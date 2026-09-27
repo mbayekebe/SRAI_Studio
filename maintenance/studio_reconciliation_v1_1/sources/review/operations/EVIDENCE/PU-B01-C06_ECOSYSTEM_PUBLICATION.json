@@ -1,0 +1,50 @@
+{
+  "record_version": "1.0",
+  "production_unit": "PU-B01-C06",
+  "recorded_utc": "2026-09-03T00:00:00Z",
+  "status": "PUBLISHED_CLOSED",
+  "release_approver": "Mbaye Kebe",
+  "independent_review": "not_performed_owner_authorized_publication",
+  "runtime": {
+    "version": "1.1.1rc1",
+    "status": "disclosed_prerelease_owner_accepted",
+    "sha256": "6e7033465ad3d9bf4650227a11be0380512a44fd476a83d5828ad4ec4f07e923"
+  },
+  "notebook": {
+    "path": "production-units/PU-B01-C06/notebooks/M1/M1_N06_eigenvalues_eigenvectors_spectral_intuition_v0.1.0.ipynb",
+    "sha256": "0b2a59c2c908e890ad7706d60ae0a9f82a78db4fe0d674c4fb0e1f58a499e7ff",
+    "local_vscode": "pass_owner_confirmed",
+    "colab": "pass_owner_confirmed"
+  },
+  "release": {
+    "url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c06-v1.0.0",
+    "commit": "9ad4d15debe9c387fb87f4d473479185c5e845e5",
+    "zip_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/download/pu-b01-c06-v1.0.0/PU-B01-C06_GitHub_Repository_v1.0.0.zip",
+    "zip_sha256": "5c76b37e6691b2be910bf056e1b2c9160d785616af0a788139d12b3658fe9def",
+    "verification": "Published ZIP and four tagged resources matched approved candidate bytes"
+  },
+  "website": {
+    "url": "https://srai.mbayekebe.net/learn/pu-b01-c06/",
+    "merge_commit": "7713dc6ab5814686a284f5acefb6eb770828a0c8",
+    "local_tests": "13/13 pass",
+    "migration": "catalog.0009_publish_lesson_06",
+    "deployment": "pass_owner_supplied_server_log",
+    "service": "active",
+    "visual_review": "pass_owner_confirmed",
+    "operations_deployment_pointer": "Reconciled in REGISTRY/ecosystem.json with explicit owner authorization."
+  },
+  "video": {
+    "url": "https://www.youtube.com/watch?v=a3jAhbDX2A0",
+    "visibility": "public_owner_confirmed",
+    "caption_status": "available_owner_confirmed",
+    "caption_accuracy_review": "pass_owner_confirmed",
+    "caption_evidence": "Owner confirms captions appear during playback and mathematical terms are transcribed correctly; no independent caption audit claimed."
+  },
+  "communications": {
+    "announcement": "https://lnkd.in/p/dZ9mdANr",
+    "executive_brief": "https://lnkd.in/p/dtTrHDMK",
+    "status": "published_owner_confirmed",
+    "verification": "Owner supplied both publication URLs; not independently reopened."
+  },
+  "nonblocking_followups": []
+}

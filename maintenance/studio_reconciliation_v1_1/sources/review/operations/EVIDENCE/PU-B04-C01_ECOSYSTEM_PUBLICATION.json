@@ -1,0 +1,75 @@
+{
+    "record_version":  "1.0",
+    "production_unit":  "PU-B04-C01",
+    "recorded_utc":  "2026-09-14T17:33:41Z",
+    "status":  "PUBLISHED_CLOSED",
+    "release_approver":  "Mbaye Kebe",
+    "independent_review":  "not_performed_owner_authorized_publication",
+    "notebook":  {
+                     "path":  "production-units/PU-B04-C01/notebook/PU-B04-C01_Generative_AI_LLM_Foundations_v0.1.ipynb",
+                     "sha256":  "3db3e519f4a59ea9f3683423e37809fa5131022ace68856df603350ceced3c42",
+                     "package_validation":  "pass",
+                     "execution_status":  "pass_owner_confirmed_vscode_and_google_colab",
+                     "total_cells":  41,
+                     "code_cells":  21,
+                     "markdown_cells":  20,
+                     "seed":  42
+                 },
+    "release":  {
+                    "url":  "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/releases/tag/pu-b04-c01-v0.1.0",
+                    "commit":  "cf17d4f305ce4e0b863e944f2d8061e93eeb36bd",
+                    "tag":  "pu-b04-c01-v0.1.0",
+                    "controlled_asset_count":  18,
+                    "installed_checksum_count":  18,
+                    "checksum_failures":  0,
+                    "attached_release_archive":  "PU-B04-C01_Public_Release_v0.1.0.zip",
+                    "release_archive_sha256":  "384315b47297866cfbfce3bb7b31856f1513d6b721c73755043f38ef80cf0acc",
+                    "verification":  "Annotated tag, public GitHub release, archive and checksum asset verified."
+                },
+    "website":  {
+                    "url":  "https://srai.mbayekebe.net/learn/pu-b04-c01/",
+                    "pull_requests":  [
+                                          20,
+                                          21
+                                      ],
+                    "merge_commit":  "e2de7a9cc2156d0867621d4bceb016e38ed96cba",
+                    "local_tests":  "41/41 pass",
+                    "migrations":  [
+                                       "catalog.0018_publish_book4_lesson_01"
+                                   ],
+                    "database":  "PostgreSQL srai_db",
+                    "production_backup":  {
+                                              "status":  "not_performed_for_this_increment",
+                                              "note":  "Idempotent update_or_create publication migration; deployment and post-migration checks passed."
+                                          },
+                    "deployment":  "pass_owner_supplied_server_log",
+                    "service":  "active",
+                    "http_status":  200,
+                    "visual_review":  "local_and_live_page_pass_owner_confirmed",
+                    "live_content_checks":  "pass_owner_confirmed",
+                    "controlled_links":  "all_links_open_owner_confirmed"
+                },
+    "video":  {
+                  "url":  "https://www.youtube.com/watch?v=cdp_uzccJPU",
+                  "duration":  "20:15",
+                  "duration_seconds":  1215,
+                  "visibility":  "public_owner_confirmed",
+                  "embedding":  "enabled_and_live",
+                  "playback":  "pass_owner_confirmed",
+                  "captions":  "not_reported",
+                  "title_thumbnail":  "owner_configured",
+                  "presentation_slides":  37,
+                  "narrated_slide_notes":  "37/37"
+              },
+    "communications":  {
+                           "announcement":  "https://lnkd.in/p/dqQ4nWib",
+                           "executive_post":  "https://lnkd.in/p/dWVXgmp4",
+                           "featured":  "not_recorded",
+                           "status":  "published_owner_confirmed",
+                           "verification":  "Owner supplied both published LinkedIn URLs."
+                       },
+    "nonblocking_followups":  [
+                                  "Confirm YouTube caption availability and synchronization.",
+                                  "Record LinkedIn Featured placement if applied."
+                              ]
+}

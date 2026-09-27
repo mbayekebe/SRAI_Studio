@@ -1,0 +1,55 @@
+{
+    "record_version":  "1.0",
+    "production_unit":  "PU-B09-C01",
+    "recorded_utc":  "2026-09-09T22:01:55Z",
+    "status":  "PUBLISHED_CLOSED",
+    "release_approver":  "Mbaye Kebe",
+    "independent_review":  "not_performed_owner_authorized_publication",
+    "notebook":  {
+                     "path":  "production-units/PU-B09-C01/notebook/PU-B09-C01_AI_Strategy_and_Transformation_Notebook_v0.1.ipynb",
+                     "sha256":  "03811395496db7d1cecd5d9d918787c75285f5462ce647416e807c885cb04901",
+                     "package_validation":  "pass",
+                     "execution_status":  "executed_outputs_verified"
+                 },
+    "release":  {
+                    "url":  "https://github.com/mbayekebe/SRAI_Book_09_AI_Transformation_and_Executive_Leadership/releases/tag/pu-b09-c01-v0.3.0",
+                    "commit":  "d635c378a54ad2cef143b214daa11c36f4f5b092",
+                    "tag":  "pu-b09-c01-v0.3.0",
+                    "repository_file_count":  46,
+                    "attached_release_archive":  null,
+                    "verification":  "Annotated tag resolves to approved merge commit; GitHub release published as latest production release."
+                },
+    "website":  {
+                    "url":  "https://srai.mbayekebe.net/learn/pu-b09-c01/",
+                    "pull_request":  "https://github.com/mbayekebe/SRAI_Public_Website/pull/17",
+                    "merge_commit":  "3a4ff5ffa91a5976148479bb0cf669db96cb38d2",
+                    "local_tests":  "41/41 pass",
+                    "migration":  "catalog.0014_publish_book9_lesson_01",
+                    "database":  "PostgreSQL srai_db",
+                    "production_backup":  "private PostgreSQL custom-format logical backup created and verified before migration",
+                    "deployment":  "pass_owner_supplied_server_log",
+                    "service":  "active",
+                    "http_status":  200,
+                    "visual_review":  "pass_owner_confirmed",
+                    "controlled_links":  "lesson_pdf_and_notebook_pass_owner_confirmed"
+                },
+    "video":  {
+                  "url":  "https://www.youtube.com/watch?v=FbCCa5NwXfc",
+                  "duration":  "00:22:22",
+                  "visibility":  "unlisted_owner_confirmed",
+                  "embedding":  "enabled_and_live_embed_owner_confirmed",
+                  "playback":  "pass_owner_confirmed",
+                  "captions":  "pass_owner_confirmed",
+                  "title_thumbnail":  "pass_owner_confirmed"
+              },
+    "communications":  {
+                           "announcement":  "https://lnkd.in/p/dqPV9DhN",
+                           "executive_post":  "https://lnkd.in/p/dqPV9DhN",
+                           "featured":  "executive_post_featured_owner_confirmed",
+                           "status":  "published_owner_confirmed",
+                           "verification":  "Owner supplied both publication URLs and confirmed Featured placement."
+                       },
+    "nonblocking_followups":  [
+                                  "Optionally attach a versioned controlled ZIP and checksum to a future corrective release."
+                              ]
+}

@@ -1,0 +1,81 @@
+{
+    "schema_version":  "0.2.0",
+    "production_unit":  {
+                            "code":  "PU-B03-C01",
+                            "book_number":  3,
+                            "chapter_number":  1,
+                            "title":  "Neural Network Foundations",
+                            "slug":  "pu-b03-c01",
+                            "status":  "released",
+                            "version":  "0.2.1",
+                            "owner":  "Mbaye Kebe",
+                            "approver":  "Mbaye Kebe"
+                        },
+    "source_assets":  {
+                          "chapter_source":  "production-units/PU-B03-C01/lesson/PU-B03-C01_Neural_Network_Foundations_Lesson_v0.1.docx",
+                          "notebook":  "production-units/PU-B03-C01/lesson/M3_N01_neural_network_foundations_v0.1.ipynb",
+                          "executed_notebook":  "production-units/PU-B03-C01/lesson/M3_N01_neural_network_foundations_v0.1_executed.ipynb",
+                          "student_assessment_source":  "production-units/PU-B03-C01/assessment/PU-B03-C01_Assessment_Book_v0.1.docx",
+                          "solutions_source":  "production-units/PU-B03-C01/assessment/PU-B03-C01_Solutions_and_Marking_Guide_v0.1.docx",
+                          "executive_brief_source":  "production-units/PU-B03-C01/executive/PU-B03-C01_Executive_Brief_v0.1.docx",
+                          "video_source":  "production-units/PU-B03-C01/slides/PU-B03-C01_Neural_Network_Foundations_Lesson_Presentation_v0.1.1.pptx"
+                      },
+    "controlled_assets":  {
+                              "chapter_pdf":  "production-units/PU-B03-C01/lesson/PU-B03-C01_Neural_Network_Foundations_Lesson_v0.1.pdf",
+                              "student_assessment_pdf":  "production-units/PU-B03-C01/assessment/PU-B03-C01_Assessment_Book_v0.1.pdf",
+                              "solutions_pdf":  "production-units/PU-B03-C01/assessment/PU-B03-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+                              "executive_brief_pdf":  "production-units/PU-B03-C01/executive/PU-B03-C01_Executive_Brief_v0.1.pdf",
+                              "controlled_asset_count":  37,
+                              "installed_checksum_count":  36,
+                              "release_zip":  "PU-B03-C01_Public_Release_v0.2.1.zip",
+                              "release_zip_sha256":  "e44eefcfbf335617396e2a1b4573ed3da2be95d6c6a0ab8d3545a0265265fa89"
+                          },
+    "git":  {
+                "book_repository":  "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning",
+                "release_commit":  "d2168a415b365ad17465b9f5d9deb5abbff06e08",
+                "release_tag":  "pu-b03-c01-v0.2.1",
+                "release_url":  "https://github.com/mbayekebe/SRAI_Book_03_Deep_Learning/releases/tag/pu-b03-c01-v0.2.1",
+                "website_repository":  "https://github.com/mbayekebe/SRAI_Public_Website",
+                "website_merge_commit":  "bde44a68fe8363b4fe1120b889ec72578c90c5f9"
+            },
+    "publication":  {
+                        "youtube_id":  "Cpd9cPob4QY",
+                        "youtube_url":  "https://www.youtube.com/watch?v=Cpd9cPob4QY",
+                        "youtube_visibility":  "owner_finalized",
+                        "youtube_embedding":  "enabled_and_verified",
+                        "youtube_caption_status":  "supplied_not_independently_reverified",
+                        "website_route":  "/learn/pu-b03-c01/",
+                        "website_url":  "https://srai.mbayekebe.net/learn/pu-b03-c01/",
+                        "linkedin_announcement_url":  "https://lnkd.in/p/dpGB7jkj",
+                        "linkedin_executive_url":  "https://lnkd.in/p/dDvvRPE2"
+                    },
+    "validation":  {
+                       "controlled_assets":  "37 manifest entries",
+                       "installed_checksums":  "36/36 pass",
+                       "notebook_execution":  "32 code cells executed; 0 errors",
+                       "website_tests":  "41/41 pass",
+                       "production_http":  "200 pass",
+                       "live_content":  "6/6 pass",
+                       "controlled_links":  "7/7 HTTP 200",
+                       "visual_review":  "local page pass owner confirmed",
+                       "embedded_video":  "pass owner confirmed"
+                   },
+    "evidence":  {
+                     "closeout_record":  "EVIDENCE/PU-B03-C01_ECOSYSTEM_PUBLICATION.json",
+                     "approved_at":  "2026-09-11",
+                     "published_at":  "2026-09-11",
+                     "notes":  [
+                                   "Owner approved the lesson, notebook, assessments, solutions, executive brief, presentation and publication workflow.",
+                                   "The finalized v0.2.1 release includes the separate student assessment and answers and marking guide.",
+                                   "The notebook executed 32 code cells with zero errors using seed 42.",
+                                   "Forty-one Django tests passed.",
+                                   "Migrations 0016 and 0017 were applied after a verified PostgreSQL backup.",
+                                   "The live production endpoint and all seven controlled links returned HTTP 200.",
+                                   "The LinkedIn announcement and executive post were published.",
+                                   "Independent review was not performed or claimed."
+                               ]
+                 },
+    "production_status":  "published",
+    "next_authorized_gate":  "closed",
+    "communications_status":  "closed_owner_confirmed"
+}

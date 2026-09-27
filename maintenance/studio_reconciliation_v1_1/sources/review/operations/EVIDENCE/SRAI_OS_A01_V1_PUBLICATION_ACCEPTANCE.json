@@ -1,0 +1,60 @@
+{
+  "schema_version": "0.1.0",
+  "recorded_date": "2026-09-21",
+  "module": {
+    "code": "OS-A01",
+    "title": "The National Information Ecosystem",
+    "pathway": "Official Statistics & AI",
+    "version": "1.0"
+  },
+  "status": "PUBLICATION_CLOSED",
+  "supersedes": "EVIDENCE/SRAI_OS_A01_PUBLICATION_ACCEPTANCE.json",
+  "content_repository": {
+    "url": "https://github.com/mbayekebe/SRAI_Official_Statistics_and_AI_Pathway",
+    "branch": "main",
+    "commit": "086b04ac987c1d24550ec4b83f66ee400dbf78a3",
+    "release_tag": "os-a01-v1.0.0",
+    "pull_request": 1,
+    "public_manifest": "PUBLIC_ASSET_MANIFEST.json"
+  },
+  "website": {
+    "module_url": "https://srai.mbayekebe.net/official-statistics/modules/a1/",
+    "integration_commit": "e2644c23413b98c9e529343401dfbd9412e71368",
+    "pull_request": 35,
+    "deployment_status": "owner_verified_live"
+  },
+  "video": {
+    "url": "https://youtu.be/Zp0Y9PdgGL0",
+    "status": "published and locally visually confirmed"
+  },
+  "assets": {
+    "published_resource_count": 9,
+    "controlled_asset_class_count": 10,
+    "asset_boundary": "learner-facing public resources; facilitator and assessor restricted files excluded",
+    "notebook_package": {
+      "filename": "OS-A01-A06_Executable_Notebook_Package_v1.0.zip",
+      "sha256": "c7445af3b8308dd1b52aa5db58e399bee9b876610c0673682e11340e1ed590dd",
+      "validation": {
+        "packaged_and_standalone_execution": "PASS",
+        "outputs_generated": 11
+      }
+    }
+  },
+  "validation": {
+    "asset_hashes": "9 of 9 PASS",
+    "django_system_check": "PASS",
+    "local_download_links": "9 of 9 HTTP 200",
+    "production_service": "active",
+    "live_module_route": "HTTP 200",
+    "live_new_video": "PASS",
+    "old_video_absent": "PASS",
+    "live_public_download_links": "9 of 9 HTTP 200"
+  },
+  "communications": {
+    "v1_announcement": "not recorded; earlier announcements retained in the superseded evidence record"
+  },
+  "publication_authorized": true,
+  "public_access_authorized": true,
+  "evidence_status": "verified",
+  "provenance": "Owner-verified local checks, pathway release tag, merged website PR, active production service, and live link checks recorded on 21 September 2026."
+}

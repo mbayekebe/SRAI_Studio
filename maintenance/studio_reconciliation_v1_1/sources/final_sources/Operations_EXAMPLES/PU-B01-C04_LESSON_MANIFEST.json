@@ -1,0 +1,98 @@
+{
+    "schema_version":  "0.1.0",
+    "production_unit":  {
+                            "code":  "PU-B01-C04",
+                            "book_number":  1,
+                            "chapter_number":  4,
+                            "title":  "Matrix Algebra and Linear Systems",
+                            "slug":  "pu-b01-c04",
+                            "status":  "released",
+                            "version":  "1.0.0",
+                            "owner":  "Mbaye Kebe",
+                            "approver":  "Aliou Diouf"
+                        },
+    "source_assets":  {
+                          "chapter_source":  "production-units/PU-B01-C04/docs/PU-B01-C04_Chapter4_Matrix_Algebra_and_Linear_Systems_Audited_Controlled_Edition_v1.0.docx",
+                          "notebook":  "production-units/PU-B01-C04/notebooks/M1/M1_N04_matrix_algebra_linear_systems_v0.1.3.ipynb",
+                          "exercises_source":  "production-units/PU-B01-C04/docs/PU-B01-C04_Educational_Exercises_and_Solutions_v1.0.docx",
+                          "executive_brief_source":  "production-units/PU-B01-C04/docs/PU-B01-C04_Executive_Brief_v1.0.docx",
+                          "video_source":  "production-units/PU-B01-C04/video/PU-B01-C04_Video_Lesson_Deck_v1.2.pptx"
+                      },
+    "controlled_assets":  {
+                              "chapter_pdf":  "production-units/PU-B01-C04/docs/PU-B01-C04_Chapter4_Matrix_Algebra_and_Linear_Systems_Audited_Controlled_Edition_v1.0.pdf",
+                              "exercises_pdf":  "production-units/PU-B01-C04/docs/PU-B01-C04_Educational_Exercises_and_Solutions_v1.0.pdf",
+                              "executive_brief_pdf":  "production-units/PU-B01-C04/docs/PU-B01-C04_Executive_Brief_v1.0.pdf",
+                              "release_zip":  "PU-B01-C04_GitHub_Repository_v1.0.0.zip",
+                              "release_zip_sha256":  "b3714af177d7164fb08f92b2fbf163aa3905229fc1f1711aba6ec44565c50675",
+                              "release_zip_size_bytes":  520241
+                          },
+    "git":  {
+                "book_repository":  "https://github.com/mbayekebe/srai-book-01-mathematical-foundations",
+                "release_commit":  "5e22003757623890f01c862af3caf86c1bdaba6a",
+                "release_tag":  "pu-b01-c04-v1.0.0",
+                "release_url":  "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c04-v1.0.0",
+                "website_repository":  "https://github.com/mbayekebe/SRAI_Public_Website",
+                "website_merge_commit":  "b140219"
+            },
+    "publication":  {
+                        "youtube_id":  "IBTHb6iWROk",
+                        "youtube_url":  "https://youtu.be/IBTHb6iWROk",
+                        "website_route":  "/learn/pu-b01-c04/",
+                        "website_url":  "https://srai.mbayekebe.net/learn/pu-b01-c04/",
+                        "linkedin_announcement_url":  "https://lnkd.in/p/dmxwGrgJ",
+                        "linkedin_technical_url":  "https://lnkd.in/p/d9_fP9p3",
+                        "youtube_video_id":  "IBTHb6iWROk",
+                        "youtube_visibility":  "public",
+                        "youtube_caption_language":  "English",
+                        "youtube_caption_status":  "automatic_generation_pending",
+                        "visual_verification":  "PASS"
+                    },
+    "validation":  {
+                       "local_notebook":  "pass",
+                       "colab_notebook":  "pass",
+                       "controlled_pdfs":  "pass",
+                       "release_package":  "pass",
+                       "website_tests":  "pass",
+                       "production_http":  "pass",
+                       "visual_review":  "pass"
+                   },
+    "evidence":  {
+                     "closeout_record":  "",
+                     "approved_at":  "2026-08-31",
+                     "published_at":  "",
+                     "notes":  [
+                                   "Audit workspace: C:\\SRAI_GitHub\\SRAI_Lesson4_Audit",
+                                   "Source intake: WORKING/PU-B01-C04_SOURCE_INTAKE.json",
+                                   "Notebook SHA-256: 7c3aa1cba8dfc956d3e578815d8e738e3decad480f8edaa328bbd9ad94adba98",
+                                   "Book master SHA-256: 9ccb8293de2170c0feb32f19551a3a433ef3005dfd5476efd65192326965195b",
+                                   "Windows Jupyter kernel blocked by Application Control policy on PyZMQ _zmq DLL.",
+                                   "Independent Google Colab execution passed: 13/13 code cells, zero error outputs.",
+                                   "Colab evidence: EVIDENCE/PU-B01-C04_COLAB_EXECUTION_RESULT_v0.1.1.json",
+                                   "Independent review approved by Aliou Diouf on 2026-08-31: 29/29 criteria recorded Pass, zero findings. Checkbox controls were nonfunctional; written Pass entries and YES APPROVED decision are controlling. Advance authorized to controlled asset production; publication is not authorized.",
+                                   "Controlled asset production candidate v0.1.1 approved and integrated into Book 1.",
+                                   "Video production authorized using the verified 16-slide Lesson 1 visual system.",
+                                   "Deck v1.1 superseded by v1.2 with complete audience-facing narration on all 16 slides.",
+                                   "Video master v1.0 visually reviewed and approved in full.",
+                                   "Approved duration: 00:13:40; approved SHA-256: ",
+                                   "ef460fcf50618a7e58dc7d4aa0584e1a92305a421c34892b37d1760f3825be38",
+                                   ".",
+                                   "Approved replacement video master v1.1 uploaded unlisted to YouTube as IBTHb6iWROk; previous upload U-C3piJm9Yc superseded and retained privately for audit traceability.",
+                                   "GitHub controlled release v1.0.0 published with verified ZIP SHA-256 b3714af177d7164fb08f92b2fbf163aa3905229fc1f1711aba6ec44565c50675.",
+                                   "Lesson 4 deployed at website merge commit b140219; migration 0007 applied; service active; HTTP 200 and owner visual verification PASS.",
+                                   "Lesson 4 communications completed: public YouTube video, LinkedIn release announcement and Executive Brief post published."
+                               ],
+                     "independent_review":  {
+                                                "status":  "pass",
+                                                "decision":  "approved",
+                                                "reviewer":  "Aliou Diouf",
+                                                "review_date":  "2026-08-31",
+                                                "signed_form":  "EVIDENCE/PU-B01-C04_INDEPENDENT_REVIEW_AND_SIGNOFF_FORM_v0.3.1.docx",
+                                                "decision_record":  "EVIDENCE/PU-B01-C04_INDEPENDENT_REVIEW_DECISION.json",
+                                                "closeout_record":  "AUDITS/PU-B01-C04_INDEPENDENT_REVIEW_CLOSEOUT.md",
+                                                "next_authorized_gate":  "controlled_asset_production",
+                                                "publication_authorized":  false
+                                            }
+                 },
+    "production_status":  "released_and_publicly_verified",
+    "next_authorized_gate":  "closed"
+}

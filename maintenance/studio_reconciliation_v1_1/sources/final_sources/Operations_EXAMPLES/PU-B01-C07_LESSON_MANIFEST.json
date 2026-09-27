@@ -1,0 +1,76 @@
+{
+  "schema_version": "0.2.0",
+  "production_unit": {
+    "code": "PU-B01-C07",
+    "book_number": 1,
+    "chapter_number": 7,
+    "title": "Singular Value Decomposition, PCA, and Dimensionality Reduction",
+    "slug": "pu-b01-c07",
+    "status": "released",
+    "version": "0.1.0",
+    "owner": "Mbaye Kebe",
+    "approver": "Mbaye Kebe"
+  },
+  "source_assets": {
+    "chapter_source": "production-units/PU-B01-C07/docs/PU-B01-C07_Lesson_v0.1.docx",
+    "notebook": "production-units/PU-B01-C07/notebooks/M1_N07_svd_pca_dimensionality_reduction.ipynb",
+    "exercises_source": "production-units/PU-B01-C07/docs/PU-B01-C07_Exercises_and_Solutions_v0.1.docx",
+    "executive_brief_source": "production-units/PU-B01-C07/docs/PU-B01-C07_Executive_Brief_v0.1.docx",
+    "video_source": "production-units/PU-B01-C07/slides/PU-B01-C07_Lesson_Presentation_v0.1.pptx"
+  },
+  "controlled_assets": {
+    "chapter_pdf": "production-units/PU-B01-C07/docs/PU-B01-C07_Lesson_v0.1.pdf",
+    "exercises_pdf": "production-units/PU-B01-C07/docs/PU-B01-C07_Exercises_and_Solutions_v0.1.pdf",
+    "executive_brief_pdf": "production-units/PU-B01-C07/docs/PU-B01-C07_Executive_Brief_v0.1.pdf",
+    "release_zip": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/download/pu-b01-c07-v0.1.0/PU-B01-C07_Offline_Publication_Candidate_v0.1.0.zip",
+    "release_zip_sha256": "dd1a8fe9ddaefd031acee44692eacf8aec9c029482eb5414a6ee90e2bb3f2d52"
+  },
+  "git": {
+    "book_repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations",
+    "release_commit": "283f897c02d60b2a06d59aa65629ae673047de4f",
+    "release_tag": "pu-b01-c07-v0.1.0",
+    "release_url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c07-v0.1.0",
+    "website_repository": "https://github.com/mbayekebe/SRAI_Public_Website",
+    "website_merge_commit": "f4254c339110b204890471e0b259d3d1ac135d20"
+  },
+  "publication": {
+    "youtube_id": "nGWG4j2QTMI",
+    "youtube_url": "https://www.youtube.com/watch?v=nGWG4j2QTMI",
+    "youtube_visibility": "public",
+    "youtube_embedding": "enabled_and_owner_confirmed",
+    "youtube_caption_status": "not_reverified_in_recovered_workflow",
+    "website_route": "/learn/pu-b01-c07/",
+    "website_url": "https://srai.mbayekebe.net/learn/pu-b01-c07/",
+    "linkedin_announcement_url": "https://lnkd.in/p/dVSPAwDE",
+    "linkedin_technical_url": "https://lnkd.in/p/dRpMGy6n"
+  },
+  "validation": {
+    "local_notebook": "pass_owner_confirmed",
+    "colab_notebook": "pass_owner_confirmed",
+    "controlled_pdfs": "pass",
+    "release_package": "pass_sha256_verified",
+    "website_tests": "39/39 pass",
+    "production_http": "200 pass",
+    "visual_review": "pass_owner_confirmed",
+    "mobile_review": "pass_owner_confirmed"
+  },
+  "evidence": {
+    "closeout_record": "EVIDENCE/PU-B01-C07_ECOSYSTEM_PUBLICATION.json",
+    "approved_at": "2026-09-07",
+    "published_at": "2026-09-07",
+    "notes": [
+      "Owner approved the controlled release and public publication.",
+      "Annotated release tag resolves to the approved Book merge commit.",
+      "Published ZIP SHA-256 was verified after download.",
+      "Thirty-nine local Django catalogue tests passed.",
+      "Production PostgreSQL backup passed nonempty and pg_restore readability checks before migration.",
+      "Only catalog.0012_publish_lesson_07 was applied; the SRAI service reported active and the public endpoint returned HTTP 200.",
+      "Owner confirmed the live page, embedded video, resources, Lesson 6–7 navigation, hidden Lesson 8 and mobile layout.",
+      "Both LinkedIn posts were published and their URLs supplied by the owner.",
+      "Independent review was not performed or claimed; caption accuracy remains a nonblocking follow-up."
+    ]
+  },
+  "production_status": "published",
+  "next_authorized_gate": "closed",
+  "communications_status": "closed_owner_confirmed"
+}

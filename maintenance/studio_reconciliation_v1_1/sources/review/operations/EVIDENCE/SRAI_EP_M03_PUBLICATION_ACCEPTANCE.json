@@ -1,0 +1,39 @@
+{
+    "record_version":  "1.0",
+    "recorded_utc":  "2026-09-19T11:03:09.6022594Z",
+    "status":  "PUBLICATION_CLOSED",
+    "programme":  "SRAI Executive Pathway",
+    "module":  {
+                   "id":  "EP-M03",
+                   "version":  "v0.1",
+                   "title":  "Deciding When Evidence Is Incomplete",
+                   "url":  "https://srai.mbayekebe.net/executive/modules/module-3/",
+                   "video_url":  "https://youtu.be/jexl6cojmS0",
+                   "learner_resources_public":  5,
+                   "executive_tool":  "Evidence Update and Decision Loss Matrix",
+                   "public_downloads":  6
+               },
+    "website":  {
+                    "repository":  "mbayekebe/SRAI_Public_Website",
+                    "deployed_commit":  "f056925443a5704617c1ba533c59069daf0c8787",
+                    "pull_request":  32,
+                    "regression_tests":  "62/62 passed",
+                    "functional_checks":  "passed",
+                    "visual_review":  "passed_owner_confirmed"
+                },
+    "communications":  {
+                           "status":  "published_owner_confirmed",
+                           "verification":  "owner_supplied_urls",
+                           "linkedin_posts":  [
+                                                  {
+                                                      "purpose":  "Module 3 educational announcement",
+                                                      "url":  "https://lnkd.in/p/d_Ayy9nw"
+                                                  },
+                                                  {
+                                                      "purpose":  "Module 3 executive announcement",
+                                                      "url":  "https://lnkd.in/p/d4GS-wGj"
+                                                  }
+                                              ]
+                       },
+    "closed_utc":  "2026-09-19T11:03:09.6022594Z"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2.0",
+  "production_unit": "PU-B01-C02",
+  "reconciliation_date": "2026-09-11",
+  "status": "published",
+  "evidence_status": "reported",
+  "release": {
+    "repository": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations",
+    "tag": "pu-b01-c02-v1.0.2",
+    "url": "https://github.com/mbayekebe/srai-book-01-mathematical-foundations/releases/tag/pu-b01-c02-v1.0.2",
+    "sha256": "743c55b141a64b834a5d3348d5bcb39b4cb4f2bf7dbe20f3718d1f7fe259d571",
+    "verification": "recorded_verified"
+  },
+  "website": {"url": "https://srai.mbayekebe.net/learn/pu-b01-c02/", "status": "published_recorded"},
+  "video": {"id": "VYXyB1-wUFs", "url": "https://www.youtube.com/watch?v=VYXyB1-wUFs", "status": "published_recorded"},
+  "communications": {"announcement": null, "executive_post": null, "status": "urls_not_recorded"},
+  "nonblocking_followups": ["Independently reverify the recorded publication channels.", "Record the LinkedIn announcement and executive-post URLs if available."],
+  "provenance": "Reconstructed from REGISTRY/production_units.json; reported facts were not promoted to independently verified."
+}

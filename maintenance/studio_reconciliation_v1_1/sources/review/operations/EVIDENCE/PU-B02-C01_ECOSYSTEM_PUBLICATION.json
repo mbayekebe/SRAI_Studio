@@ -1,0 +1,61 @@
+{
+    "record_version":  "1.0",
+    "production_unit":  "PU-B02-C01",
+    "recorded_utc":  "2026-09-10T16:23:37Z",
+    "status":  "PUBLISHED_CLOSED",
+    "release_approver":  "Mbaye Kebe",
+    "independent_review":  "not_performed_owner_authorized_publication",
+    "notebook":  {
+                     "path":  "production-units/PU-B02-C01/notebook/M2_N01_supervised_learning_foundations_SRAI_v0.3.ipynb",
+                     "sha256":  "706e319989b713a77784fdd952c178db5cd5362a1d7a56651918e419cb2a45a7",
+                     "package_validation":  "pass",
+                     "execution_status":  "21_of_21_code_cells_executed_zero_errors"
+                 },
+    "release":  {
+                    "url":  "https://github.com/mbayekebe/SRAI_Book_02_Machine_Learning/releases/tag/pu-b02-c01-v0.1.1",
+                    "commit":  "66a266cdf951cbbcafb4cfa30a182a0e1ccaaa2c",
+                    "tag":  "pu-b02-c01-v0.1.1",
+                    "controlled_asset_count":  22,
+                    "installed_checksum_count":  26,
+                    "checksum_failures":  0,
+                    "attached_release_archive":  null,
+                    "verification":  "Annotated tag resolves to the publication-complete commit; GitHub pre-release published."
+                },
+    "website":  {
+                    "url":  "https://srai.mbayekebe.net/learn/pu-b02-c01/",
+                    "pull_request":  null,
+                    "merge_commit":  "ec30ee527bf58312fa100dc5a8675080b264a7c4",
+                    "local_tests":  "41/41 pass",
+                    "migration":  "catalog.0015_publish_book2_lesson_01",
+                    "database":  "PostgreSQL srai_db",
+                    "production_backup":  {
+                                              "file":  "srai_db_before_0015_20260910T155014Z.dump",
+                                              "format":  "PostgreSQL custom-format logical backup",
+                                              "sha256":  "35b3f50642e0fdc7a156ba49b470e3b7aaa7637180c584bf443bc43f67f2fc62",
+                                              "verification":  "pass"
+                                          },
+                    "deployment":  "pass_owner_supplied_server_log",
+                    "service":  "active",
+                    "http_status":  200,
+                    "visual_review":  "pass_owner_confirmed",
+                    "controlled_links":  "lesson_notebook_assessment_solutions_brief_release_pass_owner_confirmed"
+                },
+    "video":  {
+                  "url":  "https://www.youtube.com/watch?v=P4XVRjUZfIQ",
+                  "visibility":  "unlisted_owner_confirmed",
+                  "embedding":  "enabled_and_live_embed_owner_confirmed",
+                  "playback":  "pass_owner_confirmed",
+                  "captions":  "not_reverified",
+                  "title_thumbnail":  "owner_configured"
+              },
+    "communications":  {
+                           "announcement":  "https://lnkd.in/p/dvxRej3P",
+                           "technical_brief":  "https://lnkd.in/p/dd7bSiPH",
+                           "featured":  "announcement_and_executive_post_featured_owner_confirmed",
+                           "status":  "published_owner_confirmed",
+                           "verification":  "Owner supplied both URLs and confirmed Featured placement."
+                       },
+    "nonblocking_followups":  [
+                                  "Reconfirm YouTube caption accuracy."
+                              ]
+}

@@ -1,7 +1,7 @@
-from django.core.management.base import BaseCommand
+﻿from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 
-from studio.models import Pathway, ProductionUnit, Publication, QualityReview
+from studio.models import Chapter, Pathway, ProductionUnit, Publication, QualityReview
 
 
 PATHWAYS = [
@@ -35,6 +35,8 @@ class Command(BaseCommand):
 
     @transaction.atomic
     def handle(self, *args, **options):
+        if Chapter.objects.count() >= 200:
+            raise CommandError('Legacy pathway seed is disabled on an established Studio catalog; use reconcile_studio_records.')
         imported = []
         for item in PATHWAYS:
             pathway, _ = Pathway.objects.update_or_create(
@@ -71,3 +73,4 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS(
             f"Imported {len(imported)} pathway modules: {', '.join(imported)}"
         ))
+

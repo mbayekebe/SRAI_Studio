@@ -1,0 +1,98 @@
+{
+  "module": "OS-A01",
+  "version": "1.0",
+  "future_tag": "os-a01-v1.0.0",
+  "status": "release candidate; publication pending",
+  "assets": [
+    {
+      "key": "lesson",
+      "asset_id": "OS-A01-A01",
+      "group": "LEARN",
+      "label": "Canonical lesson",
+      "description": "Study the complete statistical and institutional framework.",
+      "relative_path": "modules/OS-A01/lesson/OS-A01-A01_Canonical_Lesson_The_National_Information_Ecosystem_v1.0.pdf",
+      "sha256": "b5f0e01cde35c65383bf6c097a99f0804885473721fbc03adcf1433d6ecb9968",
+      "bytes": 489869
+    },
+    {
+      "key": "brief",
+      "asset_id": "OS-A01-A02",
+      "group": "BRIEF",
+      "label": "Executive brief",
+      "description": "Use the leadership decision guide.",
+      "relative_path": "modules/OS-A01/executive/OS-A01-A02_Executive_Brief_The_National_Information_Ecosystem_v1.0.pdf",
+      "sha256": "63cae6a33b29a39f943443c29d5ba499ca5a33883009804e62e25acb0ba26d3a",
+      "bytes": 202884
+    },
+    {
+      "key": "guide",
+      "asset_id": "OS-A01-A03",
+      "group": "STUDY",
+      "label": "Learner guide",
+      "description": "Prepare for the lesson and four practical workflows.",
+      "relative_path": "modules/OS-A01/learner/OS-A01-A03_Learner_Guide_The_National_Information_Ecosystem_v1.0.pdf",
+      "sha256": "198cd372c48c0be14ea27a45a8beaf59dfdd6f54483238338a10799150a3b81c",
+      "bytes": 525076
+    },
+    {
+      "key": "slides",
+      "asset_id": "OS-A01-A05",
+      "group": "PRESENT",
+      "label": "Teaching presentation",
+      "description": "Review the 30-slide visual lesson.",
+      "relative_path": "modules/OS-A01/slides/OS-A01-A05_Teaching_Presentation_The_National_Information_Ecosystem_v1.0.pdf",
+      "sha256": "1786c0cd8eb6f0dc61a0e38bfb2ae868229dae52f283162ae0c423dd53a1441d",
+      "bytes": 2876566
+    },
+    {
+      "key": "lab",
+      "asset_id": "OS-A01-A06",
+      "group": "ANALYSE",
+      "label": "Executable notebook package",
+      "description": "Run the four practicals with included synthetic evidence.",
+      "relative_path": "modules/OS-A01/release/OS-A01-A06_Executable_Notebook_Package_v1.0.zip",
+      "sha256": "c7445af3b8308dd1b52aa5db58e399bee9b876610c0673682e11340e1ed590dd",
+      "bytes": 115158
+    },
+    {
+      "key": "data",
+      "asset_id": "OS-A01-A07",
+      "group": "DATA",
+      "label": "Data and supporting resources",
+      "description": "Inspect the synthetic case data, schema and provenance.",
+      "relative_path": "modules/OS-A01/data/OS-A01-A07_Data_and_Supporting_Resources_v1.0.zip",
+      "sha256": "5929a9ed791eb7f4ba79210e846ada206372444e7184817d46a7f1801ab5d89f",
+      "bytes": 8702
+    },
+    {
+      "key": "practice",
+      "asset_id": "OS-A01-A08",
+      "group": "PRACTISE",
+      "label": "Practice exercises",
+      "description": "Complete the learner workbook without answer keys.",
+      "relative_path": "modules/OS-A01/assessment/OS-A01-A08_Practice_Exercises_Workbook_v1.0.pdf",
+      "sha256": "158a4f9313b8f394be4faceae22b76ec1942780add63a3bf33676c3f99b6874f",
+      "bytes": 380341
+    },
+    {
+      "key": "assessment",
+      "asset_id": "OS-A01-A09",
+      "group": "ASSESS",
+      "label": "Learner assessment brief",
+      "description": "Document evidence of professional competence.",
+      "relative_path": "modules/OS-A01/assessment/OS-A01-A09_Learner_Assessment_Brief_v1.0.pdf",
+      "sha256": "ecc37d2402e0dea2cca6c0d36e2450f8fdb5d6ee43a29c1a8c03414980c0edf7",
+      "bytes": 244233
+    },
+    {
+      "key": "toolkit",
+      "asset_id": "OS-A01-A10",
+      "group": "MAP",
+      "label": "Ecosystem mapping toolkit",
+      "description": "Apply the controlled workbook to an institutional setting.",
+      "relative_path": "modules/OS-A01/institutional-toolkit/OS-A01-A10_National_Information_Ecosystem_Mapping_Toolkit_v1.0.xlsx",
+      "sha256": "5153ec86a3e4b9420644bf096017bc123d51e1bd341987b5057a7f0058c04480",
+      "bytes": 113112
+    }
+  ]
+}
